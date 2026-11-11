@@ -1,0 +1,7 @@
+# Leilões de Detran de outros estados (fora MG, RS e BA, que são automáticos).
+# Formato: inicio|fim|UF|cidade1;cidade2|orgao|lotes|leiloeiro|url|observacao   (datas AAAA-MM-DD)
+# Linhas com data final já passada são ignoradas automaticamente.
+2026-11-18|2026-11-19|DF|Brasília|Detran-DF|639|Vip Leilões|https://www.vipleiloes.com.br|18/11 sucatas (25 lotes) · 19/11 veículos conservados (614)
+2026-11-18|2026-11-18|RN|São Gonçalo do Amarante;Mossoró;Caicó|Detran-RN|47|Lance Certo Leilões|https://www.lancecertoleiloes.com.br|21 veículos para circulação e 26 sucatas · 10h
+2026-11-16|2026-11-16|AC|Rio Branco|Detran-AC|251|Leiloeiro oficial (ver edital)|https://www.detran.ac.gov.br|Recuperáveis e sucatas · on-line
+2026-11-11|2026-11-13|SP|Presidente Prudente;Palmital;Cândido Mota;Dracena;Teodoro Sampaio;Santa Cruz do Rio Pardo|Detran-SP|643|Sumaré Leilões|https://www.sumareleiloes.com.br|11/11 sucatas aproveitáveis (469) · 13/11 sucatas inservíveis (174)

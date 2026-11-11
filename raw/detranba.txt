@@ -1,0 +1,1028 @@
+230-001|HONDA/POP 110I - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|800|2026-11-25|230-001-veiculo-conservado-hondapop-110i-20162016
+230-002|SHINERAY/50Q - 2022/2022|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|500|2026-11-25|230-002-veiculo-conservado-shineray50q-20222022
+230-003|HONDA/CG 125 FAN ES - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|800|2026-11-25|230-003-veiculo-conservado-hondacg-125-fan-es-20102010
+230-004|HONDA/CG 125I CARGO - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|900|2026-11-25|230-004-veiculo-conservado-hondacg-125i-cargo-20162016
+230-005|HONDA/CG150 TITAN MIX EX - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|900|2026-11-25|230-005-veiculo-conservado-hondacg150-titan-mix-ex-20102010
+230-006|HONDA/CG 160 TITAN EX - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|230-006-veiculo-conservado-hondacg-160-titan-ex-20162016
+230-007|HONDA/CG 160 START - 2025/2025|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|230-007-veiculo-conservado-hondacg-160-start-20252025
+230-008|HONDA/CG 125 FAN - 2008/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|700|2026-11-25|230-008-veiculo-conservado-hondacg-125-fan-20082008
+230-009|YAMAHA/YBR 125K - 2007/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|500|2026-11-25|230-009-veiculo-conservado-yamahaybr-125k-20072008
+230-010|HONDA/CG150 TITAN MIX KS - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|800|2026-11-25|230-010-veiculo-conservado-hondacg150-titan-mix-ks-20102010
+230-011|HONDA/CG 160 FAN - 2019/2020|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|230-011-veiculo-conservado-hondacg-160-fan-20192020
+230-012|HONDA/CG 125 FAN - 2005/2005|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|700|2026-11-25|230-012-veiculo-conservado-hondacg-125-fan-20052005
+230-013|I/SHINERAY XY 50 Q - 2013/2014|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|300|2026-11-25|230-013-veiculo-conservado-ishineray-xy-50-q-20132014
+230-014|FORD/FIESTA FLEX - 2010/2011|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|3000|2026-11-25|230-014-veiculo-conservado-fordfiesta-flex-20102011
+230-015|YAMAHA/YBR 125E - 2008/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|600|2026-11-25|230-015-veiculo-conservado-yamahaybr-125e-20082008
+230-016|PEUGEOT/207PASSION XR S - 2009/2009|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|230-016-veiculo-conservado-peugeot207passion-xr-s-20092009
+230-017|HONDA/CG 160 FAN - 2023/2023|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|230-017-veiculo-conservado-hondacg-160-fan-20232023
+230-018|HONDA/CG 150 TITAN EX - 2011/2012|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|900|2026-11-25|230-018-veiculo-conservadohondacg-150-titan-ex-20112012
+231-001|HONDA/CG 125 FAN KS - 2012/2012|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|800|2026-11-25|231-001-veiculo-conservado-hondacg-125-fan-ks-20122012
+231-002|HONDA/CG 125 FAN ES - 2012/2012|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|800|2026-11-25|231-002-veiculo-conservado-hondacg-125-fan-es-20122012
+231-003|HONDA/CG 160 START - 2021/2022|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|231-003-veiculo-conservado-hondacg-160-start-20212022
+231-004|HONDA/POP100 - 2011/2012|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|600|2026-11-25|231-004-veiculo-conservado-hondapop100-20112012
+232-001|VEÍCULO CONSERVA DOHONDA/CG 160 FAN - 2022/2023|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|232-001-veiculo-conserva-dohondacg-160-fan-20222023
+232-002|VEÍCULO CONSERVA I/SHINERAY XY 50 Q - 2013/2013|C|Avenida Padre Afonso Goldinho, Alagoinhas - BA|300|2026-11-25|232-002-veiculo-conserva-ishineray-xy-50-q-20132013
+233-001|HONDA/CG 125 FAN - 2006/2007|C|Baixa de Santo Antônio, Salvador - BA|700|2026-11-25|233-001-veiculo-conservado-hondacg-125-fan-20062007
+233-002|HONDA/CG 160 TITAN - 2021/2022|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-002-veiculo-conservado-hondacg-160-titan-20212022
+233-003|HONDA/CG 125 FAN ES - 2011/2011|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-003-veiculo-conservado-hondacg-125-fan-es-20112011
+233-004|FIAT/IDEA ELX FLEX - 2008/2009|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|233-004-veiculo-conservado-fiatidea-elx-flex-20082009
+233-005|HONDA/CG 125 FAN - 2005/2005|C|Baixa de Santo Antônio, Salvador - BA|700|2026-11-25|233-005-veiculo-conservado-hondacg-125-fan-20052005
+233-006|HONDA/CG 160 START - 2019/2019|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-006-veiculo-conservado-hondacg-160-start-20192019
+233-007|YAMAHA/YBR125I FACTOR ED - 2020/2021|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-007-veiculo-conservado-yamahaybr125i-factor-ed-20202021
+233-008|HONDA/CG 150 TITAN ESD - 2013/2014|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-008-veiculo-conservado-hondacg-150-titan-esd-20132014
+233-009|GM/CELTA 2P SPIRIT - 2009/2010|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|233-009-veiculo-conservado-gmcelta-2p-spirit-20092010
+233-010|YAMAHA/YBR150 FACTOR ED - 2024/2024|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-010-veiculo-conservado-yamahaybr150-factor-ed-20242024
+233-011|HONDA/CG 125 FAN ES - 2010/2010|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-011-veiculo-conservado-hondacg-125-fan-es-20102010
+233-012|HONDA/CG 125 FAN KS - 2011/2012|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-012-veiculo-conservado-hondacg-125-fan-ks-20112012
+233-013|HONDA/POP 110I - 2020/2020|C|Baixa de Santo Antônio, Salvador - BA|900|2026-11-25|233-013-veiculo-conservado-hondapop-110i-20202020
+233-014|HONDA/POP 110I - 2022/2022|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-014-veiculo-conservado-hondapop-110i-20222022
+233-015|PEUGEOT/207PASSION XR S - 2010/2011|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-015-veiculo-conservado-peugeot207passion-xr-s-20102011
+233-016|JTA/SUZUKI AN125 - 2007/2008|C|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|233-016-veiculo-conservado-jtasuzuki-an125-20072008
+233-017|HONDA/NXR150 BROS ES - 2012/2012|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-017-veiculo-conservado-hondanxr150-bros-es-20122012
+233-018|HONDA/CG 160 START - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-018-veiculo-conservado-hondacg-160-start-20232023
+233-019|HONDA/CG 125 FAN - 2005/2005|C|Baixa de Santo Antônio, Salvador - BA|700|2026-11-25|233-019-veiculo-conservado-hondacg-125-fan-20052005
+233-020|YAMAHA/XTZ250 TENERE - 2016/2017|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-020-veiculo-conservado-yamahaxtz250-tenere-20162017
+233-021|SHINERAY/XY125-6A - 2024/2025|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-021-veiculo-conservado-shinerayxy125-6a-20242025
+233-022|YAMAHA/YS150 FAZER SED - 2013/2014|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-022-veiculo-conservado-yamahays150-fazer-sed-20132014
+233-023|YAMAHA/XTZ250 LANDER - 2021/2021|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-023-veiculo-conservado-yamahaxtz250-lander-20212021
+233-024|YAMAHA/FAZER250 BLUEFLEX - 2014/2014|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-024-veiculo-conservado-yamahafazer250-blueflex-20142014
+233-025|VW/POLO TRACK MA - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|7000|2026-11-25|233-025-veiculo-conservado-vwpolo-track-ma-20232023
+233-026|HONDA/CG 125 FAN KS - 2012/2012|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-026-veiculo-conservado-hondacg-125-fan-ks-20122012
+233-027|SHINERAY/50Q - 2020/2021|C|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|233-027-veiculo-conservado-shineray50q-20202021
+233-028|HONDA/POP 110I - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-028-veiculo-conservado-hondapop-110i-20232023
+233-029|VW/FOX 1.0 - 2007/2008|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|233-029-veiculo-conservado-vwfox-10-20072008
+233-030|YAMAHA/YBR 125K - 2005/2006|C|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|233-030-veiculo-conservado-yamahaybr-125k-20052006
+233-031|HONDA/CG 125 FAN KS - 2011/2011|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-031-veiculo-conservado-hondacg-125-fan-ks-20112011
+233-032|HONDA/CG 160 FAN - 2024/2024|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-032-veiculo-conservado-hondacg-160-fan-20242024
+233-033|YAMAHA/YS150 FAZER SED - 2024/2025|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-033-veiculo-conservado-yamahays150-fazer-sed-20242025
+233-034|HONDA/NXR150 BROS ESD - 2012/2013|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-034-veiculo-conservado-hondanxr150-bros-esd-20122013
+233-035|HONDA/NXR150 BROS KS - 2007/2007|C|Baixa de Santo Antônio, Salvador - BA|700|2026-11-25|233-035-veiculo-conservado-hondanxr150-bros-ks-20072007
+233-036|HONDA/CG 160 START - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-036-veiculo-conservado-hondacg-160-start-20232023
+233-037|VW/GOL 1.0 - 2011/2012|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|233-037-veiculo-conservado-vwgol-10-20112012
+233-038|HONDA/POP100 - 2011/2011|C|Baixa de Santo Antônio, Salvador - BA|600|2026-11-25|233-038-veiculo-conservado-hondapop100-20112011
+233-039|HONDA/CG 125 FAN KS - 2010/2010|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-039-veiculo-conservado-hondacg-125-fan-ks-20102010
+233-040|DAFRA/RIVA 150 - 2012/2012|C|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|233-040-veiculo-conservado-dafrariva-150-20122012
+233-041|HONDA/CBX 250 TWISTER - 2006/2006|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-041-veiculo-conservado-hondacbx-250-twister-20062006
+233-042|HONDA/NXR160 BROS ESD - 2014/2015|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-042-veiculo-conservado-hondanxr160-bros-esd-20142015
+233-043|HONDA/CG150 FAN ESDI - 2015/2015|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-043-veiculo-conservado-hondacg150-fan-esdi-20152015
+233-044|HONDA / CB300F TWISTER CBS - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|233-044-veiculo-conservado-honda-cb300f-twister-cbs-20232023
+233-045|HONDA/POP 110I - 2024/2024|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-045-veiculo-conservado-hondapop-110i-20242024
+233-046|HONDA/CB 300R - 2010/2010|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-046-veiculo-conservado-hondacb-300r-20102010
+233-047|HONDA/CG 160 TITAN - 2021/2022|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-047-veiculo-conservado-hondacg-160-titan-20212022
+233-048|HONDA/POP 110I - 2022/2022|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-048-veiculo-conservado-hondapop-110i-20222022
+233-049|CHEV/TRAILBLAZER LT D4A - 2016/2016|C|Baixa de Santo Antônio, Salvador - BA|20000|2026-11-25|233-049-veiculo-conservado-chevtrailblazer-lt-d4a-20162016
+233-050|HONDA/CG 125 FAN - 2008/2008|C|Baixa de Santo Antônio, Salvador - BA|700|2026-11-25|233-050-veiculo-conservado-hondacg-125-fan-20082008
+234-001|VW/POLO SEDAN 1.6 COMFOR - 2012/2013|C|Baixa de Santo Antônio, Salvador - BA|5000|2026-11-25|234-001-veiculo-conservado-vwpolo-sedan-16-comfor-20122013
+234-002|VW/VOYAGE 1.6L MB5 - 2018/2019|C|Baixa de Santo Antônio, Salvador - BA|5000|2026-11-25|234-002-veiculo-conservado-vwvoyage-16l-mb5-20182019
+234-003|HONDA/XRE 300 - 2013/2013|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|234-003-veiculo-conservado-hondaxre-300-20132013
+234-004|HONDA/HR-V EX CVT - 2015/2016|C|Baixa de Santo Antônio, Salvador - BA|9000|2026-11-25|234-004-veiculo-conservado-hondahr-v-ex-cvt-20152016
+234-005|YAMAHA/CROSSER S ABS - 2023/2024|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|234-005-veiculo-conservado-yamahacrosser-s-abs-20232024
+234-006|CHEV/SPIN 1.8L AT LTZ - 2014/2015|C|Baixa de Santo Antônio, Salvador - BA|6000|2026-11-25|234-006-veiculo-conservado-chevspin-18l-at-ltz-20142015
+234-007|RENAULT/SANDERO AUT1016V - 2010/2011|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|234-007-veiculo-conservado-renaultsandero-aut1016v-20102011
+235-001|FIAT/STRADA TREK CE FLEX - 2009/2010|C|Rodovia BR101, Santo Antônio de Jesus - BA|4000|2026-11-25|235-001-veiculo-conservado-fiatstrada-trek-ce-flex-20092010
+235-002|HONDA/CG 125 FAN - 2006/2006|C|Rodovia BR101, Santo Antônio de Jesus - BA|700|2026-11-25|235-002-veiculo-conservado-hondacg-125-fan-20062006
+235-003|HONDA/CG 125 FAN KS - 2010/2010|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-003-veiculo-conservado-hondacg-125-fan-ks-20102010
+235-004|HONDA/CG 125 FAN KS - 2011/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-004-veiculo-conservado-hondacg-125-fan-ks-20112012
+235-005|HONDA/CB 300R - 2013/2014|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-005-veiculo-conservado-hondacb-300r-20132014
+235-006|HONDA/CG 125 FAN KS - 2012/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-006-veiculo-conservado-hondacg-125-fan-ks-20122012
+235-007|HONDA/CG 125 FAN KS - 2009/2010|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-007-veiculo-conservado-hondacg-125-fan-ks-20092010
+235-008|HONDA/CG150 FAN ESDI - 2013/2014|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-008-veiculo-conservado-hondacg150-fan-esdi-20132014
+235-009|HONDA/CG 125 FAN ES - 2011/2011|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-009-veiculo-conservado-hondacg-125-fan-es-20112011
+235-010|HONDA/CG 125 FAN KS - 2012/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-010-veiculo-conservado-hondacg-125-fan-ks-20122012
+235-011|HONDA/NXR160 BROS ESDD - 2018/2018|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-011-veiculo-conservado-hondanxr160-bros-esdd-20182018
+235-012|HONDA/CG 125 FAN - 2007/2008|C|Rodovia BR101, Santo Antônio de Jesus - BA|700|2026-11-25|235-012-veiculo-conservado-hondacg-125-fan-20072008
+235-013|HONDA/POP100 - 2012/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|235-013-veiculo-conservado-hondapop100-20122012
+235-014|HONDA/POP100 - 2012/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|235-014-veiculo-conservado-hondapop100-20122012
+235-015|HONDA/CB250F TWISTER CBS - 2022/2022|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-015-veiculo-conservado-hondacb250f-twister-cbs-20222022
+235-016|HONDA/POP100 - 2011/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|235-016-veiculo-conservado-hondapop100-20112012
+235-017|FIAT/UNO WAY 1.0 - 2011/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|3000|2026-11-25|235-017-veiculo-conservado-fiatuno-way-10-20112012
+235-018|VW/GOL 1.0 ECOMOTION GIV - 2010/2011|C|Rodovia BR101, Santo Antônio de Jesus - BA|3000|2026-11-25|235-018-veiculo-conservado-vwgol-10-ecomotion-giv-20102011
+235-019|HONDA/CG 160 START - 2022/2022|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-019-veiculo-conservado-hondacg-160-start-20222022
+235-020|HONDA/CG 150 FAN ESI - 2013/2013|C|Rodovia BR101, Santo Antônio de Jesus - BA|1000|2026-11-25|235-020-veiculo-conservado-hondacg-150-fan-esi-20132013
+235-021|HONDA/CG150 START - 2015/2015|C|Rodovia BR101, Santo Antônio de Jesus - BA|1000|2026-11-25|235-021-veiculo-conservado-hondacg150-start-20152015
+235-022|HONDA/CG 160 FAN - 2023/2023|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-022-veiculo-conservado-hondacg-160-fan-20232023
+235-023|HONDA/CG 125 FAN KS - 2012/2013|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-023-veiculo-conservado-hondacg-125-fan-ks-20122013
+235-024|HONDA/CG 125 FAN - 2008/2008|C|Rodovia BR101, Santo Antônio de Jesus - BA|700|2026-11-25|235-024-veiculo-conservado-hondacg-125-fan-20082008
+235-025|HONDA/CG 125 FAN KS - 2009/2010|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-025-veiculo-conservado-hondacg-125-fan-ks-20092010
+235-026|HONDA/CG 160 FAN ESDI - 2016/2016|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-026-veiculo-conservado-hondacg-160-fan-esdi-20162016
+235-027|HONDA/CG 125 FAN KS - 2012/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-027-veiculo-conservado-hondacg-125-fan-ks-20122012
+235-028|SHINERAY/XY150-8 - 2019/2020|C|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|235-028-veiculo-conservado-shinerayxy150-8-20192020
+235-029|HONDA/CG 160 START - 2019/2020|C|Rodovia BR101, Salvador - BA|2000|2026-11-25|235-029-veiculo-conservado-hondacg-160-start-20192020
+235-030|HONDA/CG 125 TITAN KS - 2002/2003|C|Rodovia BR101, Salvador - BA|600|2026-11-25|235-030-veiculo-conservado-hondacg-125-titan-ks-20022003
+235-031|HONDA/XRE 300 - 2013/2013|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-031-veiculo-conservado-hondaxre-300-20132013
+235-032|HONDA/POP 110I - 2017/2017|C|Rodovia BR101, Santo Antônio de Jesus - BA|900|2026-11-25|235-032-veiculo-conservado-hondapop-110i-20172017
+235-033|HONDA/POP100 - 2012/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|235-033-veiculo-conservado-hondapop100-20122012
+235-034|HONDA/POP100 - 2013/2013|C|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|235-034-veiculo-conservado-hondapop100-20132013
+235-035|HONDA/POP 110I - 2021/2021|C|Rodovia BR101, Santo Antônio de Jesus - BA|1000|2026-11-25|235-035-veiculo-conservado-hondapop-110i-20212021
+235-036|DAFRA/RIVA 150 - 2013/2013|C|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|235-036-veiculo-conservado-dafrariva-150-20132013
+235-037|HONDA/POP 110I - 2016/2016|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-037-veiculo-conservado-hondapop-110i-20162016
+235-038|HONDA/CGPR 150FAN ESI - 2015/2015|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|235-038-veiculo-conservado-hondacgpr-150fan-esi-20152015
+235-039|HONDA/CG 160 START - 2022/2023|C||2000|2026-11-25|235-039-veiculo-conservado-hondacg-160-start-20222023
+235-040|HONDA/POP 110I - 2019/2019|C|Rodovia BR101, Santo Antônio de Jesus - BA|900|2026-11-25|235-040-veiculo-conservado-hondapop-110i-20192019
+235-041|HONDA/CG 125 FAN - 2006/2006|C|Rodovia BR101, Santo Antônio de Jesus - BA|700|2026-11-25|235-041-veiculo-conservado-hondacg-125-fan-20062006
+235-042|HONDA/CG 125 TITAN KS - 2001/2001|C|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|235-042-veiculo-conservado-hondacg-125-titan-ks-20012001
+235-043|HONDA/CG 125 FAN KS - 2012/2012|C|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|235-043-veiculo-conservado-hondacg-125-fan-ks-20122012
+235-044|CICLOMOTOR/L13154 - 2013/2013|C|Rodovia BR101, Santo Antônio de Jesus - BA|200|2026-11-25|235-044-veiculo-conservado-ciclomotorl13154-20132013
+236-001|HONDA/CG 160 START - 2022/2023|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|236-001-veiculo-conservado-hondacg-160-start-20222023
+237-019||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|400|2026-11-25|237-019-sucata-aproveitavel-hondacg-150-titan-ks-20062007
+237-020||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|500|2026-11-25|237-020-sucata-aproveitavel-hondacg-150-fan-esi-20102010
+237-021||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|237-021-sucata-aproveitavel-gmcorsa-hatch-maxx-20102011
+237-022||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|600|2026-11-25|237-022-sucata-aproveitavel-gmcorsa-super-19971997
+237-023||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|4000|2026-11-25|237-023-sucata-aproveitavel-hyundaihb20-10m-unique-20182019
+237-024||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|200|2026-11-25|237-024-sucata-aproveitavel-sundownmax-125-sed-20082008
+237-025||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|200|2026-11-25|237-025-sucata-aproveitavel-dafraspeed-150-cargo-20092010
+237-026||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|400|2026-11-25|237-026-sucata-aproveitavel-hondacg-125-fan-es-20092009
+237-027||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|237-027-sucata-aproveitavel-gmchevrolet-classic-ls-20122012
+237-028||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|700|2026-11-25|237-028-sucata-aproveitavel-hondacg150-fan-esdi-20142014
+237-029||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|500|2026-11-25|237-029-sucata-aproveitavel-hondacg-150-titan-es-20072007
+237-030||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|600|2026-11-25|237-030-sucata-aproveitavel-yamahalander-xtz250-20082008
+237-031||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|400|2026-11-25|237-031-sucata-aproveitavel-hondapop100-20122012
+237-032||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|500|2026-11-25|237-032-sucata-aproveitavel-hondacg-125-fan-es-20122013
+237-033||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|200|2026-11-25|237-033-sucata-aproveitavel-com-motor-inservivel-vwgol-mi-19971997
+237-034||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|200|2026-11-25|237-034-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-esd-20042004
+237-035||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|100|2026-11-25|237-035-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20002000
+237-036||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|800|2026-11-25|237-036-sucata-aproveitavel-com-motor-inservivel-ikia-soul-ex-16l-20102010
+237-037||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|100|2026-11-25|237-037-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-19951995
+237-038||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|300|2026-11-25|237-038-sucata-aproveitavel-com-motor-inservivel-gmcelta-20012001
+237-039||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|100|2026-11-25|237-039-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20002000
+237-040||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|100|2026-11-25|237-040-sucata-aproveitavel-com-motor-inservivel-huari-marva-50-vip-nini
+238-005||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|1000|2026-11-25|238-005-sucata-aproveitavel-vwgol-10-20062006
+238-006||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|500|2026-11-25|238-006-sucata-aproveitavel-hondacg-125-fan-ks-20112011
+238-007||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|600|2026-11-25|238-007-sucata-aproveitavel-hondacg-150-fan-esi-20122013
+238-008||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|400|2026-11-25|238-008-sucata-aproveitavel-hondacg-125-fan-20082008
+238-009||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|238-009-sucata-aproveitavel-gmclassic-life-20062007
+238-010||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|500|2026-11-25|238-010-sucata-aproveitavel-hondacg-150-titan-esd-20092009
+238-011||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|100|2026-11-25|238-011-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-19961996
+239-003||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|900|2026-11-25|239-003-sucata-aproveitavel-hondaxre-300-20142014
+239-004||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|2000|2026-11-25|239-004-sucata-aproveitavel-fordfiesta-sedan-flex-20092009
+239-005||S|Avenida Padre Afonso Goldinho, Alagoinhas - BA|200|2026-11-25|239-005-sucata-aproveitavel-com-motor-inservivel-hondacg-160-start-20162016
+240-051||S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|240-051-sucata-aproveitavel-hondacg-125-fan-20082008
+240-052||S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|240-052-sucata-aproveitavel-vwgol-i-plus-19961996
+240-053||S|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|240-053-sucata-aproveitavel-gmcelta-4p-spirit-20042005
+240-054||S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|240-054-sucata-aproveitavel-hondacbx-250-twister-20032003
+240-055||S|Baixa de Santo Antônio, Salvador - BA|300|2026-11-25|240-055-sucata-aproveitavel-yamahafactor-ybr125-k-20082009
+240-056||S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|240-056-sucata-aproveitavel-hondacg-150-titan-ks-20042005
+240-057||S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|240-057-sucata-aproveitavel-hondacg-150-fan-esi-20112011
+240-058||S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|240-058-sucata-aproveitavel-yamahafactor-ybr125-ed-20092010
+240-059||S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|240-059-sucata-aproveitavel-hondacg-125-fan-ks-20112012
+240-060||S|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|240-060-sucata-aproveitavel-fiatpalio-elx-flex-20042004
+240-061||S|Baixa de Santo Antônio, Salvador - BA|100|2026-11-25|240-061-sucata-aproveitavel-com-motor-inservivel-dafrariva-150-20122013
+240-062||S|Baixa de Santo Antônio, Salvador - BA|200|2026-11-25|240-062-sucata-aproveitavel-com-motor-inservivel-vwgol-special-20012002
+240-063||S|Baixa de Santo Antônio, Salvador - BA|200|2026-11-25|240-063-sucata-aproveitavel-com-motor-inservivel-hondacg-125-fan-ks-20112011
+240-064||S|Baixa de Santo Antônio, Salvador - BA|300|2026-11-25|240-064-sucata-aproveitavel-com-motor-inservivel-vwgol-cl-19921992
+240-065||S|Baixa de Santo Antônio, Salvador - BA|100|2026-11-25|240-065-sucata-aproveitavel-com-motor-inservivel-shineray-xy-50-nini
+240-066||S|Baixa de Santo Antônio, Salvador - BA|300|2026-11-25|240-066-sucata-aproveitavel-com-motor-inservivel-fiatpalio-weekend-stile-20012002
+240-067||S|Baixa de Santo Antônio, Salvador - BA|100|2026-11-25|240-067-sucata-aproveitavel-com-motor-inservivel-hondacg-125-fan-20072007
+241-008||S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|241-008-sucata-aproveitavel-hondanxr-150-bros-mix-es-20092010
+241-009||S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|241-009-sucata-aproveitavel-hondacg-125-titan-ks-20032003
+241-010||S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|241-010-sucata-aproveitavel-hondacg-125-fan-20082008
+242-001||S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|242-001-sucata-aproveitavel-hondacg-125-fan-ks-20092010
+242-002||S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|242-002-sucata-aproveitavel-hondacbx-250-twister-20082008
+242-003||S|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|242-003-sucata-aproveitavel-vwnovo-voyage-tl-mbv-20172018
+242-004||S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|242-004-sucata-aproveitavel-com-motor-inservivel-fiatpalio-fire-flex-20072007
+242-005||S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|242-005-sucata-aproveitavel-com-motor-inservivel-gmcorsa-st-20012002
+243-045||S|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-045-sucata-aproveitavel-dafratvs-apache-rtr-150-20112012
+243-046||S|Rodovia BR101, Santo Antônio de Jesus - SP|400|2026-11-25|243-046-sucata-aproveitavel-hondacbx-250-twister-20032003
+243-047||S|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|243-047-sucata-aproveitavel-gmmeriva-maxx-20112012
+243-048||S||400|2026-11-25|243-048-sucata-aproveitavel-hondanxr150-bros-ks-20062006
+243-049||S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|243-049-sucata-aproveitavel-hondacg-125-fan-ks-20102010
+243-050||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-050-sucata-aproveitavel-ciclomotorl13154-20132013
+243-051||S|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|243-051-sucata-aproveitavel-ifiat-siena-fire-flex-20092010
+243-052||S||200|2026-11-25|243-052-sucata-aproveitavel-ishineray-xy-50-q-20142015
+243-053||S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|243-053-sucata-aproveitavel-hondacg-125-fan-ks-20092010
+243-054||S|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|243-054-sucata-aproveitavel-iford-focus-16-flex-ha-20072008
+243-055||S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|243-055-sucata-aproveitavel-hondacg-150-titan-esd-20042005
+243-056||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-056-sucata-aproveitavel-yamahafactor-ybr125-ed-20102011
+243-057||S|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-057-sucata-aproveitavel-yamahaybr-125k-20082008
+243-058||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-058-sucata-aproveitavel-yamahafactor-ybr125-e-20102010
+243-059||S|Rodovia BR101, Santo Antônio de Jesus - BA|200|2026-11-25|243-059-sucata-aproveitavel-traxxjh125-l-20092009
+243-060||S|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|243-060-sucata-aproveitavel-hondacg-150-fan-esi-20112012
+243-061||S|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|243-061-sucata-aproveitavel-fiatuno-mille-way-econ-20102011
+243-062||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-062-sucata-aproveitavel-hondacbx-250-twister-20042004
+243-063||S|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-063-sucata-aproveitavel-yamahafactor-ybr125-k-20082009
+243-064||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-064-sucata-aproveitavel-hondacg-125-titan-es-20032003
+243-065||S|Rodovia BR101, Santo Antônio de Jesus - BA|200|2026-11-25|243-065-sucata-aproveitavel-hondac100-biz-19981999
+243-066||S|Rodovia BR101, Santo Antônio de Jesus - BA|200|2026-11-25|243-066-sucata-aproveitavel-ishineray-xy-50-q-20152016
+243-067||S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|243-067-sucata-aproveitavel-hondacg125-cargo-ks-20132013
+243-068||S|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-068-sucata-aproveitavel-hondapop100-20102010
+243-069||S|Rodovia BR101, Santo Antônio de Jesus - BA|200|2026-11-25|243-069-sucata-aproveitavel-ciclomotorl13154-20142014
+243-072||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-072-sucata-aproveitavel-hondacg-125-fan-20082008
+243-073||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-073-sucata-aproveitavel-ciclomotorl13154-20122012
+243-074||S|Rodovia BR101, Santo Antônio de Jesus - BA|600|2026-11-25|243-074-sucata-aproveitavel-hondacg150-fan-esdi-20102011
+243-075||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-075-sucata-aproveitavel-hondacg-125-titan-ks-19992000
+243-076||S|Rodovia BR101, Santo Antônio de Jesus - SP|500|2026-11-25|243-076-sucata-aproveitavel-hondacg-150-titan-ks-20082008
+243-077||S|Rodovia BR101, Santo Antônio de Jesus - SP|900|2026-11-25|243-077-sucata-aproveitavel-hondacg-160-titan-20212021
+243-078||S|Rodovia BR101, Santo Antônio de Jesus - BA|3000|2026-11-25|243-078-sucata-aproveitavel-chevroletonix-10mt-joye-20192019
+243-079||S|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-079-sucata-aproveitavel-yamahaybr-125k-20072008
+243-080||S|Rodovia BR101, Santo Antônio de Jesus - BA|800|2026-11-25|243-080-sucata-aproveitavel-hondabiz-125-20212021
+243-081||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-081-sucata-aproveitavel-hondacg-125-cargo-20042004
+243-082||S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|243-082-sucata-aproveitavel-hondanxr150-bros-es-20082008
+243-083||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-083-sucata-aproveitavel-hondacg-150-titan-es-20062006
+243-084||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-084-sucata-aproveitavel-hondapop100-20142014
+243-085||S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|243-085-sucata-aproveitavel-hondacg-125-fan-ks-20142014
+243-086||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-086-sucata-aproveitavel-com-motor-inservivel-i-shineray-50-nini
+243-087||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-087-sucata-aproveitavel-com-motor-inservivel-kasinskiwin-110-60-20112012
+243-088||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-088-sucata-aproveitavel-com-motor-inservivel-shineray-jet-50-nini
+243-089||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-089-sucata-aproveitavel-com-motor-inservivel-huari-marva-50-nini
+243-090||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-090-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-ks-20042005
+243-091||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-091-sucata-aproveitavel-com-motor-inservivel-fordfiesta-20062007
+243-092||S|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-092-sucata-aproveitavel-com-motor-inservivel-gmcelta-3-portas-super-20032003
+243-093||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-093-sucata-aproveitavel-com-motor-inservivel-hondapop100-20072007
+243-094||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-094-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-kse-20032003
+243-095||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-095-sucata-aproveitavel-com-motor-inservivel-kasinskisoft-20122013
+243-096||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-096-sucata-aproveitavel-com-motor-inservivel-i-wuyang-50qt-nini
+243-097||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-097-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-ks-20042005
+243-098||S|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-098-sucata-aproveitavel-com-motor-inservivel-hondacg-160-fan-20202020
+243-099||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-099-sucata-aproveitavel-com-motor-inservivel-dafrasuper-100-20112011
+243-100||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-100-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20032004
+243-101||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-101-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-xy50-nini
+243-102||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-102-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-xy50-nini
+243-103||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-103-sucata-aproveitavel-com-motor-inservivel-benzjonny-50-nini
+243-104||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-104-sucata-aproveitavel-com-motor-inservivel-shineray-49-cc-jet-nini
+243-105||S|Rodovia BR101, Santo Antônio de Jesus - BA|200|2026-11-25|243-105-sucata-aproveitavel-com-motor-inservivel-fiatuno-electronic-19951995
+243-107||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-107-sucata-aproveitavel-com-motor-inservivel-dafrasuper-50-20102011
+243-108||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-108-sucata-aproveitavel-com-motor-inservivel-kasinskisoft-20102011
+244-070||S|Rodovia BR101, Santo Antônio de Jesus - BA|3000|2026-11-25|244-070-sucata-aproveitavel-chevprisma-10mt-joye-20182019
+244-071||S|Rodovia BR101, Santo Antônio de Jesus - BA|700|2026-11-25|244-071-sucata-aproveitavel-fordka-20052005
+244-106||S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|244-106-sucata-aproveitavel-com-motor-inservivel-hondapop100-20082008
+245-002||S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|245-002-sucata-aproveitavel-yamahafazer-ys250-20082008
+245-003||S|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|245-003-sucata-aproveitavel-com-motor-inservivel-ipeugeot-207hb-xr-20112012
+248-001|HONDA/NXR150 BROS ES - 2008/2008|C|Avenida Jorge Amado, Camaçari - BA|800|2026-11-27|248-001-veiculo-conservado-hondanxr150-bros-es-20082008
+248-002|SHINERAY/50Q - 2015/2016|C|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|248-002-veiculo-conservado-shineray50q-20152016
+248-003|GM/CELTA 4P SPIRIT - 2009/2010|C|Avenida Jorge Amado, Camaçari - BA|3000|2026-11-27|248-003-veiculo-conservado-gmcelta-4p-spirit-20092010
+248-004|HYUNDAI/HB20 1.0M COMFOR - 2014/2014|C|Avenida Jorge Amado, Camaçari - BA|5000|2026-11-27|248-004-veiculo-conservado-hyundaihb20-10m-comfor-20142014
+248-005|FIAT/STRADA ADVENT FLEX - 2015/2015|C|Avenida Jorge Amado, Camaçari - BA|6000|2026-11-27|248-005-veiculo-conservado-fiatstrada-advent-flex-20152015
+248-006|VW/NOVO GOL 1.0 - 2012/2013|C|Avenida Jorge Amado, Camaçari - BA|4000|2026-11-27|248-006-veiculo-conservado-vwnovo-gol-10-20122013
+248-007|I/SHINERAY XY 50 Q - 2013/2013|C|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|248-007-veiculo-conservado-ishineray-xy-50-q-20132013
+248-008|HONDA/CG 160 FAN - 2022/2023|C|Rua Francisco Drumond, Camaçari - BA|2000|2026-11-27|248-008-veiculo-conservado-hondacg-160-fan-20222023
+248-009|HONDA/POP 110I - 2023/2024|C|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|248-009-veiculo-conservado-hondapop-110i-20232024
+248-010|GM/VECTRA SD EXPRESSION - 2007/2008|C|Avenida Jorge Amado, Camaçari - BA|4000|2026-11-27|248-010-veiculo-conservado-gmvectra-sd-expression-20072008
+248-011|HONDA/NXR 160 BROS - 2018/2018|C|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|248-011-veiculo-conservado-hondanxr-160-bros-20182018
+248-012|YAMAHA/NEO AT115 - 2010/2010|C|Avenida Jorge Amado, Camaçari - BA|500|2026-11-27|248-012-veiculo-conservado-yamahaneo-at115-20102010
+248-013|VW/GOL 1.0 GIV - 2008/2009|C|Avenida Jorge Amado, Camaçari - BA|3000|2026-11-27|248-013-veiculo-conservado-vwgol-10-giv-20082009
+248-014|DAFRA/TVS APACHE RTR 150 - 2011/2012|C|Avenida Jorge Amado, Camaçari - BA|500|2026-11-27|248-014-veiculo-conservado-dafratvs-apache-rtr-150-20112012
+248-015|HONDA/ELITE 125 - 2021/2021|C|Avenida Jorge Amado,, Camaçari - BA|2000|2026-11-27|248-015-veiculo-conservado-hondaelite-125-20212021
+248-016|GM/CELTA 4P LIFE - 2006/2007|C|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|248-016-veiculo-conservado-gmcelta-4p-life-20062007
+248-017|I/FORD FIESTA STREET - 2002/2002|C|Avenida Jorge Amado, Camaçari - BA|1000|2026-11-27|248-017-veiculo-conservado-iford-fiesta-street-20022002
+248-018|CHEV/SPIN 1.8L MT LS E - 2018/2019|C|Avenida Jorge Amado, Camaçari - BA|7000|2026-11-27|248-018-veiculo-conservado-chevspin-18l-mt-ls-e-20182019
+248-019|YAMAHA/FACTOR YBR125 K - 2009/2009|C|Avenida Jorge Amado, Camaçari - BA|600|2026-11-27|248-019-veiculo-conservado-yamahafactor-ybr125-k-20092009
+248-020|CHEV/PRISMA 1.0MT LT - 2015/2015|C|Avenida Jorge Amado, Camaçari - BA|5000|2026-11-27|248-020-veiculo-conservado-chevprisma-10mt-lt-20152015
+248-021|DAFRA/SPEED 150 - 2008/2009|C|Avenida Jorge Amado, Camaçari - BA|400|2026-11-27|248-021-veiculo-conservado-dafraspeed-150-20082009
+248-022|HONDA/CG 160 START - 2019/2019|C|Avenida Jorge Amado,, Camaçari - BA|2000|2026-11-27|248-022-veiculo-conservado-hondacg-160-start-20192019
+248-023|HONDA/CG 150 TITAN KS - 2004/2004|C|Avenida Jorge Amado, Camaçari - BA|700|2026-11-27|248-023-veiculo-conservado-hondacg-150-titan-ks-20042004
+248-024|HONDA/CG150 TITAN MIX ES - 2009/2009|C|Avenida Jorge Amado, Camaçari - BA|800|2026-11-27|248-024-veiculo-conservado-hondacg150-titan-mix-es-20092009
+248-025|HONDA/CG 150 TITAN KS - 2007/2007|C|Avenida Jorge Amado, Camaçari - BA|700|2026-11-27|248-025-veiculo-conservado-hondacg-150-titan-ks-20072007
+248-026|HONDA/CG150 TITAN MIX KS - 2009/2009|C|Avenida Jorge Amado, Camaçari - BA|800|2026-11-27|248-026-veiculo-conservado-hondacg150-titan-mix-ks-20092009
+248-027|HONDA/POP 110I ES - 2024/2025|C|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|248-027-veiculo-conservado-hondapop-110i-es-20242025
+248-028|I/SHINERAY XY125-14A - 2013/2014|C|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|248-028-veiculo-conservado-ishineray-xy125-14a-20132014
+248-029|I/PEUGEOT 307SD16 FXPR - 2007/2008|C|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|248-029-veiculo-conservado-ipeugeot-307sd16-fxpr-20072008
+248-030|HONDA/CG150 FAN ESDI - 2010/2011|C|Avenida Jorge Amado, Camaçari - BA|1000|2026-11-27|248-030-veiculo-conservado-hondacg150-fan-esdi-20102011
+248-031|CICLOMOTOR/L13154 - 2014/2014|C|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|248-031-veiculo-conservado-ciclomotorl13154-20142014
+248-032|KASINSKI/SOFT - 2012/2013|C|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|248-032-veiculo-conservado-kasinskisoft-20122013
+249-001|DAFRA/SPEED 150 - 2008/2008|C|Avenida Jorge Amado, Camaçari - BA|400|2026-11-27|249-001-veiculo-conservado-dafraspeed-150-20082008
+249-002|HONDA/CG 125I FAN - 2016/2016|C|Avenida Jorge Amado, Camaçari - BA|900|2026-11-27|249-002-veiculo-conservado-hondacg-125i-fan-20162016
+249-003|FIAT/PUNTO ESSEN. 1.6 DL - 2012/2012|C|Avenida Jorge Amado, Camaçari - BA|4000|2026-11-27|249-003-veiculo-conservado-fiatpunto-essen-16-dl-20122012
+250-001|HONDA/POP 110I - 2017/2017|C|Avenida Jorge Amado, Camaçari - BA|900|2026-11-27|250-001-veiculo-conservado-hondapop-110i-20172017
+251-001|FIAT/SIENA ESSENCE 1.6 - 2013/2014|C|Rua Arcolin, Feira de Santana - BA|4000|2026-11-27|251-001-veiculo-conservado-fiatsiena-essence-16-20132014
+251-002|HONDA/POP 110I - 2018/2018|C|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|251-002-veiculo-conservado-hondapop-110i-20182018
+251-003|HONDA/CG 125 TITAN KSE - 2003/2003|C|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|251-003-veiculo-conservado-hondacg-125-titan-kse-20032003
+251-004|HONDA/POP100 - 2014/2014|C|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|251-004-veiculo-conservado-hondapop100-20142014
+251-005|HONDA/CG 125 TITAN KS - 2002/2002|C|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|251-005-veiculo-conservado-hondacg-125-titan-ks-20022002
+251-006|HONDA/CB 300R - 2009/2010|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|251-006-veiculo-conservado-hondacb-300r-20092010
+251-007|HONDA/POP 110I ES - 2024/2025|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|251-007-veiculo-conservado-hondapop-110i-es-20242025
+251-008|HONDA/CG 125 FAN KS - 2009/2009|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-008-veiculo-conservado-hondacg-125-fan-ks-20092009
+251-009|HONDA/POP 110I - 2018/2018|C|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|251-009-veiculo-conservado-hondapop-110i-20182018
+251-010|HONDA/POP 110I - 2020/2020|C|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|251-010-veiculo-conservado-hondapop-110i-20202020
+251-011|HONDA/CG 125 FAN - 2008/2008|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-011-veiculo-conservado-hondacg-125-fan-20082008
+251-012|HONDA/CG 150 FAN ESI - 2011/2011|C|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|251-012-veiculo-conservado-hondacg-150-fan-esi-20112011
+251-013|YAMAHA/FACTOR YBR125 ED - 2009/2009|C|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|251-013-veiculo-conservado-yamahafactor-ybr125-ed-20092009
+251-014|HONDA/POP 110I - 2022/2022|C|Rua Arcolin, Feira de Santana - BA|1000|2026-11-27|251-014-veiculo-conservado-hondapop-110i-20222022
+251-015|HONDA/CG 150 FAN ESI - 2012/2012|C|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|251-015-veiculo-conservado-hondacg-150-fan-esi-20122012
+251-016|HONDA/CG 125 FAN - 2007/2008|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-016-veiculo-conservado-hondacg-125-fan-20072008
+251-017|HONDA/CG 150 FAN ESI - 2009/2010|C|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|251-017-veiculo-conservado-hondacg-150-fan-esi-20092010
+251-018|FORD/FIESTA FLEX - 2009/2009|C|Rua Arcolin, Feira de Santana - BA|3000|2026-11-27|251-018-veiculo-conservado-fordfiesta-flex-20092009
+251-019|HONDA/CG 125 FAN ES - 2013/2014|C|Rua Arcolin, Feira de Santana - BA|800|2026-11-27|251-019-veiculo-conservado-hondacg-125-fan-es-20132014
+251-020|YAMAHA/FACTOR YBR125 K - 2012/2013|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-020-veiculo-conservado-yamahafactor-ybr125-k-20122013
+251-021|HONDA/CG 160 START - 2022/2023|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|251-021-veiculo-conservado-hondacg-160-start-20222023
+251-022|HONDA/BIZ 110I - 2018/2019|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|251-022-veiculo-conservado-hondabiz-110i-20182019
+251-023|HONDA/NXR160 BROS ESDD - 2021/2022|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|251-023-veiculo-conservado-hondanxr160-bros-esdd-20212022
+251-024|RENAULT/SANDERO EXP1016V - 2010/2011|C|Rua Arcolin, Feira de Santana - BA|3000|2026-11-27|251-024-veiculo-conservado-renaultsandero-exp1016v-20102011
+251-025|YAMAHA/YBR125I FACTOR ED - 2019/2020|C|Rua Arcolin, Feira de Santana - BA|1000|2026-11-27|251-025-veiculo-conservado-yamahaybr125i-factor-ed-20192020
+251-026|HONDA/BIZ 125 ES - 2010/2010|C|Rua Arcolin, Feira de Santana - BA|800|2026-11-27|251-026-veiculo-conservado-hondabiz-125-es-20102010
+251-027|FIAT/UNO VIVACE 1.0 - 2014/2015|C|Rua Arcolin, Feira de Santana - BA|3000|2026-11-27|251-027-veiculo-conservado-fiatuno-vivace-10-20142015
+251-028|FIAT/UNO VIVACE 1.0 - 2011/2012|C|Rua Arcolin, Feira de Santana - BA|3000|2026-11-27|251-028-veiculo-conservado-fiatuno-vivace-10-20112012
+251-029|HONDA/CG 125 FAN KS - 2010/2010|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-029-veiculo-conservado-hondacg-125-fan-ks-20102010
+251-030|HONDA/CG 150 FAN ESI - 2012/2012|C|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|251-030-veiculo-conservado-hondacg-150-fan-esi-20122012
+251-031|HONDA/BIZ 100 KS - 2012/2013|C|Rua Arcolin, Feira de Santana - BA|800|2026-11-27|251-031-veiculo-conservado-hondabiz-100-ks-20122013
+251-032|YAMAHA/FAZER YS250 - 2005/2006|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-032-veiculo-conservado-yamahafazer-ys250-20052006
+251-033|HONDA/CG 125 FAN KS - 2010/2010|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-033-veiculo-conservado-hondacg-125-fan-ks-20102010
+251-034|HONDA/CG 125 FAN KS - 2010/2010|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-034-veiculo-conservado-hondacg-125-fan-ks-20102010
+251-035|SUNDOWN/WEB 100 - 2009/2009|C|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|251-035-veiculo-conservado-sundownweb-100-20092009
+251-036|HONDA/POP100 - 2013/2013|C|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|251-036-veiculo-conservado-hondapop100-20132013
+251-037|HONDA/CG 150 TITAN KS - 2006/2006|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-037-veiculo-conservado-hondacg-150-titan-ks-20062006
+251-038|HONDA/CG150 FAN ESDI - 2013/2013|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|251-038-veiculo-conservado-hondacg150-fan-esdi-20132013
+251-039|I/SHINERAY XY 200 5 - 2010/2011|C|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|251-039-veiculo-conservado-ishineray-xy-200-5-20102011
+251-040|HONDA/CG 160 START - 2019/2019|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|251-040-veiculo-conservado-hondacg-160-start-20192019
+251-041|I/SHINERAY XY 50 Q - 2013/2014|C|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|251-041-veiculo-conservado-ishineray-xy-50-q-20132014
+251-042|HONDA/CG 125 FAN KS - 2011/2011|C|Rua Arcolin, Feira de Santana - BA|800|2026-11-27|251-042-veiculo-conservado-hondacg-125-fan-ks-20112011
+251-043|I/SHINERAY XY 50 Q - 2012/2013|C|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|251-043-veiculo-conservado-ishineray-xy-50-q-20122013
+251-044|CHEVROLET/CELTA 1.0L LT - 2014/2014|C|Rua Arcolin, Feira de Santana - BA|4000|2026-11-27|251-044-veiculo-conservado-chevroletcelta-10l-lt-20142014
+251-045|HONDA/CBX 250 TWISTER - 2004/2005|C|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|251-045-veiculo-conservado-hondacbx-250-twister-20042005
+251-046|FIAT/SIENA ESSENCE 1.6 - 2012/2013|C|Rua Arcolin, Feira de Santana - BA|4000|2026-11-27|251-046-veiculo-conservado-fiatsiena-essence-16-20122013
+251-047|HONDA/POP 110I - 2017/2017|C|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|251-047-veiculo-conservado-hondapop-110i-20172017
+251-048|HONDA/CG 160 FAN ESDI - 2016/2016|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|251-048-veiculo-conservado-hondacg-160-fan-esdi-20162016
+252-001|HONDA/POP100 - 2011/2011|C|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|252-001-veiculo-conservado-hondapop100-20112011
+252-002|HONDA/BIZ 125 - 2017/2018|C|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|252-002-veiculo-conservado-hondabiz-125-20172018
+252-003|CHEVROLET/CLASSIC LS - 2010/2011|C|Rua Arcolin, Feira de Santana - BA|3000|2026-11-27|252-003-veiculo-conservado-chevroletclassic-ls-20102011
+253-001|DAFRA/TVS APACHE RTR 150 - 2011/2012|C|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|253-001-veiculo-conservado-dafratvs-apache-rtr-150-20112012
+254-001|HONDA/CG 125 FAN KS - 2012/2012|C|Avenida Laura Nunes, Vitória da Conquista - BA|800|2026-11-27|254-001-veiculo-conservado-hondacg-125-fan-ks-20122012
+254-002|HONDA/CG150 FAN ESDI - 2014/2014|C|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|254-002-veiculo-conservado-hondacg150-fan-esdi-20142014
+254-003|HONDA/POP100 - 2013/2014|C|Avenida Laura Nunes, Vitória da Conquista - BA|600|2026-11-27|254-003-veiculo-conservado-hondapop100-20132014
+254-004|I/HAOJIAN AVELLOZ AZ1 - 2025/2026|C|Avenida Laura Nunes, Vitória da Conquista - BA|900|2026-11-27|254-004-veiculo-conservado-ihaojian-avelloz-az1-20252026
+254-005|DAFRA/SPEED 150 - 2009/2010|C|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|254-005-veiculo-conservado-dafraspeed-150-20092010
+254-006|GM/CELTA 4P LIFE - 2007/2008|C|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|254-006-veiculo-conservado-gmcelta-4p-life-20072008
+254-007|JTA/SUZUKI EN125 YES - 2008/2008|C|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|254-007-veiculo-conservado-jtasuzuki-en125-yes-20082008
+254-008|HONDA/CG 125 FAN - 2008/2008|C|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|254-008-veiculo-conservado-hondacg-125-fan-20082008
+254-009|HONDA/CG 160 START - 2025/2025|C|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|254-009-veiculo-conservado-hondacg-160-start-20252025
+254-010|SHINERAY/XY125-6A - 2024/2024|C|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|254-010-veiculo-conservado-shinerayxy125-6a-20242024
+254-011|HONDA/CG 125 FAN KS - 2013/2014|C|Avenida Laura Nunes, Vitória da Conquista - BA|800|2026-11-27|254-011-veiculo-conservado-hondacg-125-fan-ks-20132014
+255-001|HONDA/CG 160 FAN - 2017/2018|C|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|255-001-veiculo-conservado-hondacg-160-fan-20172018
+255-002|YAMAHA/FACTOR YBR125 K - 2010/2010|C|Avenida Laura Nunes, Vitória da Conquista - BA|600|2026-11-27|255-002-veiculo-conservado-yamahafactor-ybr125-k-20102010
+256-001|YAMAHA/YBR125 FACTOR ED - 2013/2013|C|Rua 23, Santo Antônio de Jesus - BA|900|2026-11-27|256-001-veiculo-conservado-yamahaybr125-factor-ed-20132013
+256-002|PEUGEOT/206 SOLEIL - 2001/2001|C|Rua 23, Santo Antônio de Jesus - BA|4000|2026-11-27|256-002-veiculo-conservado-peugeot206-soleil-20012001
+256-003|CICLOMOTOR/L13154 - 2011/2011|C|Rua 23, Santo Antônio de Jesus - BA|650|2026-11-27|256-003-veiculo-conservado-ciclomotorl13154-20112011
+256-004|HONDA/CG 150 FAN ESI - 2013/2013|C|Rua 23, Santo Antônio de Jesus - BA|1000|2026-11-27|256-004-veiculo-conservado-hondacg-150-fan-esi-20132013
+256-005|HONDA/CG 125 FAN KS - 2009/2009|C|Rua 23, Santo Antônio de Jesus - BA|900|2026-11-27|256-005-veiculo-conservado-hondacg-125-fan-ks-20092009
+256-006|HONDA/CG 150 SPORT - 2007/2007|C|Rua 23, Santo Antônio de Jesus - BA|550|2026-11-27|256-006-veiculo-conservado-hondacg-150-sport-20072007
+256-007|HONDA/POP100 - 2013/2013|C|Rua 23, Santo Antônio de Jesus - BA|950|2026-11-27|256-007-veiculo-conservado-hondapop100-20132013
+256-008|HONDA/CG 125 TITAN ES - 2002/2002|C|Rua 23, Salvador - BA|1600|2026-11-27|256-008-veiculo-conservado-hondacg-125-titan-es-20022002
+256-009|HONDA/CG 125 FAN KS - 2010/2010|C|Rua 23, Santo Antônio de Jesus - BA|1750|2026-11-27|256-009-veiculo-conservado-hondacg-125-fan-ks-20102010
+256-010|SHINERAY/50Q - 2022/2022|C|Rua 23, Santo Antônio de Jesus - BA|1600|2026-11-27|256-010-veiculo-conservado-shineray50q-20222022
+256-011|I/FORD FOCUS 1.8L FC - 2003/2003|C|Rua 23, Santo Antônio de Jesus - BA|5000|2026-11-27|256-011-veiculo-conservado-iford-focus-18l-fc-20032003
+256-012|HONDA/BIZ 125 ES - 2010/2010|C|Rua 23, Santo Antônio de Jesus - BA|1200|2026-11-27|256-012-veiculo-conservado-hondabiz-125-es-20102010
+256-013|HONDA/CG 125 FAN - 2007/2007|C|Rua 23, Santo Antônio de Jesus - BA|1500|2026-11-27|256-013-veiculo-conservado-hondacg-125-fan-20072007
+256-014|HONDA/POP100 - 2009/2009|C|Rua 23, Santo Antônio de Jesus - BA|1200|2026-11-27|256-014-veiculo-conservado-hondapop100-20092009
+257-033||S|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|257-033-sucata-aproveitavel-jtasuzuki-gsr125-s-20132014
+257-034||S|Avenida Jorge Amado, Camaçari - BA|400|2026-11-27|257-034-sucata-aproveitavel-hondacg-125-fan-20062007
+257-035||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-035-sucata-aproveitavel-dafrasuper-50-20132014
+257-036||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|257-036-sucata-aproveitavel-vwgol-10-20072008
+257-037||S|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|257-037-sucata-aproveitavel-jtasuzuki-en125-yes-20062007
+257-038||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|257-038-sucata-aproveitavel-chevrolet-classic-ls-20122012
+257-039||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|257-039-sucata-aproveitavel-fiatsiena-14-tetrafuel-20072008
+257-040||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|257-040-sucata-aproveitavel-vwgol-10-20102011
+257-041||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|257-041-sucata-aproveitavel-vwgol-10-giv-20102011
+257-042||S|Avenida Jorge Amado, Camaçari - BA|500|2026-11-27|257-042-sucata-aproveitavel-gmcorsa-wind-19961996
+257-043||S|Avenida Jorge Amado, Camaçari - BA|3000|2026-11-27|257-043-sucata-aproveitavel-vwgol-special-mb-20152016
+257-044||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-044-sucata-aproveitavel-ihuari-marva-50-vip-20152015
+257-045||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|257-045-sucata-aproveitavel-fordfiesta-street-20062006
+257-046||S|Avenida Jorge Amado, Camaçari - BA|500|2026-11-27|257-046-sucata-aproveitavel-fordka-gl-20002000
+257-048||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|257-048-sucata-aproveitavel-fiatuno-mille-way-econ-20132013
+257-049||S|Avenida Jorge Amado, Camaçari - BA|500|2026-11-27|257-049-sucata-aproveitavel-hondacg-150-fan-esi-20102010
+257-050||S|Avenida Jorge Amado, Camaçari - BA|500|2026-11-27|257-050-sucata-aproveitavel-hondacg-150-titan-es-20082008
+257-051||S|Avenida Jorge Amado, Camaçari - BA|3000|2026-11-27|257-051-sucata-aproveitavel-fordka-se-15-sd-b-20182018
+257-052||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|257-052-sucata-aproveitavel-sundownweb-100-20092010
+257-053||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|257-053-sucata-aproveitavel-isenke-z-motos-zsk50-st-20122012
+257-054||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|257-054-sucata-aproveitavel-ishineray-xy50q-phoenix-20122013
+257-055||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|257-055-sucata-aproveitavel-isenke-z-motos-zsk50-st-20122012
+257-056||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-056-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-es-20012001
+257-057||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-057-sucata-aproveitavel-com-motor-inservivel-huari-marva-50cc-nini
+257-058||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|257-058-sucata-aproveitavel-com-motor-inservivel-fiatuno-16-r-19921992
+257-059||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-059-sucata-aproveitavel-com-motor-inservivel-shineray-49-jet-nini
+257-060||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-060-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-kse-20022002
+257-061||S|Avenida Jorge Amado, Camaçari - BA|600|2026-11-27|257-061-sucata-aproveitavel-com-motor-inservivel-inissan-tiida-sedan-18f-20112012
+257-062||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-062-sucata-aproveitavel-com-motor-inservivel-ishineray-49cc-jet-nini
+257-063||S|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|257-063-sucata-aproveitavel-com-motor-inservivel-gmcorsa-super-20002001
+257-064||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-064-sucata-aproveitavel-com-motor-inservivel-shineray-50-cc-jet-nini
+257-065||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-065-sucata-aproveitavel-com-motor-inservivel-dayun-ditally-nini
+257-066||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-066-sucata-aproveitavel-com-motor-inservivel-huari-marva-50-vip-nini
+257-067||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-067-sucata-aproveitavel-com-motor-inservivel-ishineray-xy-150-5-20112011
+257-068||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|257-068-sucata-aproveitavel-com-motor-inservivel-chevspin-18l-mt-lt-20152016
+257-069||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-069-sucata-aproveitavel-com-motor-inservivel-shineray-xy-50q-jet-nini
+257-070||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|257-070-sucata-aproveitavel-com-motor-inservivel-fiatpalio-ex-20002000
+257-071||S|Avenida Jorge Amado, Camaçari - BA|100|2026-11-27|257-071-sucata-aproveitavel-com-motor-inservivel-bullkrc50-nini
+257-073||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|257-073-sucata-aproveitavel-com-motor-inservivel-impfiat-siena-el-19971998
+257-074||S|Avenida Jorge Amado, Camaçari - BA|400|2026-11-27|257-074-sucata-aproveitavel-com-motor-inservivel-peugeot207sw-xr-s-20082009
+258-047||S|Avenida Jorge Amado, Camaçari - BA|500|2026-11-27|258-047-sucata-aproveitavel-hondanxr150-bros-es-20062007
+258-072||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|258-072-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-ex-20112011
+259-004||S|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|259-004-sucata-aproveitavel-yamahaybr-125e-20042004
+259-005||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|259-005-sucata-aproveitavel-fordecosport-xls-16l-20052005
+259-006||S|Avenida Jorge Amado, Camaçari - BA|400|2026-11-27|259-006-sucata-aproveitavel-hondabiz-125-es-20072007
+260-002||S|Avenida Jorge Amado, Camaçari - BA|200|2026-11-27|260-002-sucata-aproveitavel-ishineray-xy-50-q-20132013
+260-003||S|Avenida Jorge Amado, Camaçari - BA|2000|2026-11-27|260-003-sucata-aproveitavel-com-motor-inservivel-icitroen-c4l-thp-a-orig-20172018
+261-049||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-049-sucata-aproveitavel-yamahaybr-125e-20072007
+261-050||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-050-sucata-aproveitavel-hondacg-125-titan-19971998
+261-051||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-051-sucata-aproveitavel-yamahafactor-ybr125-e-20122012
+261-052||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-052-sucata-aproveitavel-hondacbx-200-strada-19971997
+261-053||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-053-sucata-aproveitavel-yamahafactor-ybr125-k-20102011
+261-054||S|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|261-054-sucata-aproveitavel-hondapcx-150-20172017
+261-055||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-055-sucata-aproveitavel-sundownhunter-90-20062007
+261-056||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-056-sucata-aproveitavel-ihuari-marva-ufo50-20102010
+261-057||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-057-sucata-aproveitavel-hondacg-150-titan-es-20062006
+261-058||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-058-sucata-aproveitavel-dafrazig-50-20122013
+261-059||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-059-sucata-aproveitavel-yamahaybr-125k-20062007
+261-060||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-060-sucata-aproveitavel-hondacg-150-titan-ks-20062006
+261-061||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-061-sucata-aproveitavel-sundownweb-100-20082008
+261-062||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-062-sucata-aproveitavel-ishineray-xy-150-5-20112012
+261-063||S|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|261-063-sucata-aproveitavel-hondapop-110i-20222022
+261-064||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-064-sucata-aproveitavel-yamahafactor-ybr125-ed-20112011
+261-065||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|261-065-sucata-aproveitavel-hondacg-150-titan-ks-20072008
+261-066||S|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|261-066-sucata-aproveitavel-hondapop-110i-20192019
+261-067||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-067-sucata-aproveitavel-hondacg-125-titan-ks-20032003
+261-068||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-068-sucata-aproveitavel-yamahaybr125-factor-k-20132014
+261-069||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-069-sucata-aproveitavel-hondacg-150-titan-ks-20042005
+261-070||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-070-sucata-aproveitavel-hondanxr125-bros-ks-20032003
+261-071||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-071-sucata-aproveitavel-jtasuzuki-en125-yes-20082008
+261-072||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-072-sucata-aproveitavel-hondacg-125-titan-ks-20032004
+261-073||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-073-sucata-aproveitavel-hondacg-150-titan-es-20042005
+261-074||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|261-074-sucata-aproveitavel-hondacg-150-fan-esi-20102011
+261-075||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-075-sucata-aproveitavel-hondacg-125-titan-es-20042004
+261-076||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-076-sucata-aproveitavel-hondacg-150-titan-es-20072007
+261-077||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-077-sucata-aproveitavel-iwuyang-wy48q-2-20142015
+261-078||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-078-sucata-aproveitavel-hondabiz-125-es-20092009
+261-079||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-079-sucata-aproveitavel-sundown-web-100-20092010
+261-080||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-080-sucata-aproveitavel-itraxx-jl50q-8-20122012
+261-081||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|261-081-sucata-aproveitavel-gmcorsa-hatch-maxx-20122012
+261-082||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-082-sucata-aproveitavel-hondac100-biz-es-20012001
+261-083||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|261-083-sucata-aproveitavel-hondacg-125-fan-ks-20112011
+261-084||S|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|261-084-sucata-aproveitavel-gmcorsa-wind-20002000
+261-085||S|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|261-085-sucata-aproveitavel-gmcorsa-wind-20002000
+261-086||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|261-086-sucata-aproveitavel-chevrolet-classic-ls-20132014
+261-087||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|261-087-sucata-aproveitavel-hondacg-125-fan-ks-20122012
+261-088||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-088-sucata-aproveitavel-hondanxr150-bros-es-20072007
+261-089||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-089-sucata-aproveitavel-hondaxr-200r-19941994
+261-090||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|261-090-sucata-aproveitavel-gmprisma-joy-20072007
+261-091||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-091-sucata-aproveitavel-hondacg-125-fan-20062006
+261-092||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-092-sucata-aproveitavel-hondabiz-125-ks-20062006
+261-093||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|261-093-sucata-aproveitavel-hondacg-125-fan-es-20122012
+261-094||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-094-sucata-aproveitavel-hondacg-150-titan-es-20042005
+261-095||S|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|261-095-sucata-aproveitavel-yamahays150-fazer-ed-20142014
+261-096||S|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|261-096-sucata-aproveitavel-hondaxre-300-20142015
+261-097||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|261-097-sucata-aproveitavel-honda-cg-125-cargo-es-20092009
+261-098||S|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|261-098-sucata-aproveitavel-hondacg-150-titan-ex-20142015
+261-099||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|261-099-sucata-aproveitavel-renaultclio-pri-10-16vs-20052006
+261-100||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-100-sucata-aproveitavel-hondac100-biz-es-20002000
+261-101||S|Rua Arcolin, Feira de Santana - BA|900|2026-11-27|261-101-sucata-aproveitavel-hondabiz-ex-20252025
+261-102||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|261-102-sucata-aproveitavel-hondacbr-500r-20142014
+261-103||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|261-103-sucata-aproveitavel-hondacg-150-titan-esd-20042004
+261-104||S|Rua Arcolin, Feira de Santana - BA|3000|2026-11-27|261-104-sucata-aproveitavel-renaultkwid-zen-10mt-20182018
+261-105||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|261-105-sucata-aproveitavel-fiatidea-adventure-dual-20092010
+261-106||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-106-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-19951995
+261-107||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-107-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-19951995
+261-108||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|261-108-sucata-aproveitavel-com-motor-inservivel-fiatpalio-elx-flex-20072008
+261-109||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-109-sucata-aproveitavel-com-motor-inservivel-yasuna-50-cc-nini
+261-110||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-110-sucata-aproveitavel-com-motor-inservivel-iopel-zafira-20012001
+261-111||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-111-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20012001
+261-112||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-112-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-19992000
+261-113||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-113-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-nini
+261-114||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|261-114-sucata-aproveitavel-com-motor-inservivel-hondanx-4-falcon-20022002
+261-115||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-115-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-nini
+261-116||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-116-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-xy-50-q-nini
+261-117||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-117-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-kse-20022003
+261-118||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-118-sucata-aproveitavel-com-motor-inservivel-gmcorsa-wind-19981999
+261-119||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-119-sucata-aproveitavel-com-motor-inservivel-iwuyang-nini
+261-120||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-120-sucata-aproveitavel-com-motor-inservivel-itraxx-jl50q-2-20082009
+261-121||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-121-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20002001
+261-122||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-122-sucata-aproveitavel-com-motor-inservivel-shineray-xy50q-jet-nini
+261-123||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-123-sucata-aproveitavel-com-motor-inservivel-hondac100-biz-20002001
+261-124||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-124-sucata-aproveitavel-com-motor-inservivel-hondabiz-100-es-20132014
+261-125||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|261-125-sucata-aproveitavel-com-motor-inservivel-gmcorsa-wind-19951996
+261-126||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-126-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-kse-20032003
+261-127||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-127-sucata-aproveitavel-com-motor-inservivel-huari-marva-nini
+261-128||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|261-128-sucata-aproveitavel-com-motor-inservivel-hondacg-125-today-19911991
+262-004||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|262-004-sucata-aproveitavel-hondacbx-250-twister-20072008
+262-005||S|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|262-005-sucata-aproveitavel-hondanxr150bros-mix-esd-20102010
+262-006||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|262-006-sucata-aproveitavel-fordfiesta-sedan16flex-20092009
+262-007||S|Rua Arcolin, Feira de Santana - BA|700|2026-11-27|262-007-sucata-aproveitavel-gmcorsa-gl-19951995
+262-008||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|262-008-sucata-aproveitavel-hondacg-150-titan-es-20072007
+262-009||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|262-009-sucata-aproveitavel-hondacg-150-sport-20052005
+262-010||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|262-010-sucata-aproveitavel-hondacg-150-titan-ks-20042005
+262-011||S|Rua Arcolin, Feira de Santana - BA|600|2026-11-27|262-011-sucata-aproveitavel-hondacg-160-start-20162016
+262-012||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|262-012-sucata-aproveitavel-hondacg-150-titan-ks-20062007
+262-013||S|Rua Arcolin, Feira de Santana - BA|3000|2026-11-27|262-013-sucata-aproveitavel-hondacity-dx-flex-20122013
+262-014||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|262-014-sucata-aproveitavel-vwgol-10-giv-20102011
+262-015||S|Rua Arcolin, Feira de Santana - BA|2000|2026-11-27|262-015-sucata-aproveitavel-hondaxre-300-abs-20222023
+262-016||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|262-016-sucata-aproveitavel-yamahaybr-125e-20012002
+262-017||S|Rua Arcolin, Feira de Santana - BA|500|2026-11-27|262-017-sucata-aproveitavel-hondacbx-250-twister-20052006
+262-018||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|262-018-sucata-aproveitavel-hondacg-150-titan-ks-20052005
+262-019||S|Rua Arcolin, Feira de Santana - BA|400|2026-11-27|262-019-sucata-aproveitavel-hondacg-125-titan-ks-20032003
+262-020||S|Rua Arcolin, Feira de Santana - BA|200|2026-11-27|262-020-sucata-aproveitavel-hondac100-biz-19981999
+262-021||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|262-021-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-19981998
+262-022||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|262-022-sucata-aproveitavel-com-motor-inservivel-sundownmax-125-sed-20042005
+263-002||S|Rua Arcolin, Feira de Santana - BA|300|2026-11-27|263-002-sucata-aproveitavel-hondacg-125-titan-19961997
+263-003||S|Rua Arcolin, Feira de Santana - BA|100|2026-11-27|263-003-sucata-aproveitavel-sundownhunter-90-20072007
+264-012||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-012-sucata-aproveitavel-ixinling-bull-krc-f5-20232024
+264-013||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-013-sucata-aproveitavel-yamahafactor-ybr125-ed-20092009
+264-014||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-014-sucata-aproveitavel-hondacg-125-titan-19961997
+264-015||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-015-sucata-aproveitavel-jtasuzuki-en125-yes-20082008
+264-016||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-016-sucata-aproveitavel-hondabiz-125-ks-20062006
+264-017||S|Avenida Laura Nunes, Vitória da Conquista - BA|1000|2026-11-27|264-017-sucata-aproveitavel-vwgol-atlanta-18-19961996
+264-018||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-018-sucata-aproveitavel-hondac100-biz-es-20022002
+264-019||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-019-sucata-aproveitavel-hondacg-125-titan-19981998
+264-020||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-020-sucata-aproveitavel-hondacg-125-fan-20062006
+264-021||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-021-sucata-aproveitavel-hondacg-125-titan-19961996
+264-022||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|264-022-sucata-aproveitavel-hondacg-125-fan-ks-20132013
+264-023||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-023-sucata-aproveitavel-hondacg-125-fan-20072007
+264-024||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-024-sucata-aproveitavel-hondacg-125-titan-19992000
+264-025||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-025-sucata-aproveitavel-renaultclio-aut-10-16vs-20052005
+264-026||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-026-sucata-aproveitavel-iford-focus-18l-ha-20022002
+264-027||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-027-sucata-aproveitavel-dafrariva-150-20142015
+264-028||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-028-sucata-aproveitavel-hondacg150-fan-esdi-20132014
+264-029||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-029-sucata-aproveitavel-jtasuzuki-en125-yes-20092009
+264-030||S|Avenida Laura Nunes, Vitória da Conquista - BA|800|2026-11-27|264-030-sucata-aproveitavel-vwgol-16v-power-20012002
+264-031||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|264-031-sucata-aproveitavel-chevroletclassic-20102010
+264-032||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|264-032-sucata-aproveitavel-hondacbx-250-twister-20072007
+264-033||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-033-sucata-aproveitavel-yamahaybr-125k-20072008
+264-034||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-034-sucata-aproveitavel-hondacb-300r-20112011
+264-035||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-035-sucata-aproveitavel-hondacg-160-cargo-20192019
+264-036||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|264-036-sucata-aproveitavel-ifiat-siena-el-flex-20092010
+264-037||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-037-sucata-aproveitavel-hondacg-150-titan-es-20042004
+264-038||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-038-sucata-aproveitavel-hondacg-125-titan-19961997
+264-039||S|Avenida Laura Nunes, Vitória da Conquista - BA|1000|2026-11-27|264-039-sucata-aproveitavel-gmcorsa-hatch-20022003
+264-040||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-040-sucata-aproveitavel-hondacg-125-titan-19961996
+264-041||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-041-sucata-aproveitavel-yamahaybr-125ed-20052005
+264-042||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-042-sucata-aproveitavel-yamahafactor-ybr125-e-20112012
+264-043||S|Avenida Laura Nunes, Vitória da Conquista - BA|800|2026-11-27|264-043-sucata-aproveitavel-hondacg-160-fan-20222022
+264-044||S|Avenida Laura Nunes, Vitória da Conquista - BA|800|2026-11-27|264-044-sucata-aproveitavel-gmcorsa-wind-20012001
+264-045||S|Avenida Laura Nunes, Vitória da Conquista - BA|600|2026-11-27|264-045-sucata-aproveitavel-honda-nxr150-bros-mix-es-20102010
+264-046||S|Avenida Laura Nunes, Vitória da Conquista - BA|3000|2026-11-27|264-046-sucata-aproveitavel-hondacivic-lxs-flex-20072008
+264-047||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-047-sucata-aproveitavel-hondacg-160-fan-20192019
+264-048||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-048-sucata-aproveitavel-hondacg-150-titan-ks-20052005
+264-049||S|Avenida Laura Nunes, Vitória da Conquista - BA|3000|2026-11-27|264-049-sucata-aproveitavel-vwfox-10-gii-20122013
+264-050||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|264-050-sucata-aproveitavel-hondacg-125-fan-ks-20102011
+264-051||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-051-sucata-aproveitavel-yamahafactor-ybr125-ed-20112011
+264-052||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-052-sucata-aproveitavel-hondacbx-250-twister-20012002
+264-053||S|Avenida Laura Nunes, Vitória da Conquista - BA|200|2026-11-27|264-053-sucata-aproveitavel-yamahaneo-at115-20052005
+264-054||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-054-sucata-aproveitavel-hondacb-300r-20132013
+264-055||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-055-sucata-aproveitavel-hondacg-125-fan-es-20092009
+264-056||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|264-056-sucata-aproveitavel-hondacg150-titan-mix-ex-20102010
+264-057||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-057-sucata-aproveitavel-hondacg-150-titan-ks-20062006
+264-058||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-058-sucata-aproveitavel-hondacg-160-start-20212021
+264-059||S|Avenida Laura Nunes, Vitória da Conquista - BA|3000|2026-11-27|264-059-sucata-aproveitavel-fiatstrada-fire-flex-20112011
+264-060||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|264-060-sucata-aproveitavel-igm-classic-life-20082008
+264-061||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|264-061-sucata-aproveitavel-yamahafz25-fazer-20222022
+264-062||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-062-sucata-aproveitavel-com-motor-inservivel-hondacg-125-19861986
+264-063||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|264-063-sucata-aproveitavel-com-motor-inservivel-peugeot206-sw14-pres-fx-20082008
+264-064||S|Avenida Laura Nunes, Vitória da Conquista - BA|200|2026-11-27|264-064-sucata-aproveitavel-com-motor-inservivel-peugeot206-14-presen-fx-20072008
+264-065||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-065-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-xy-50-q-nini
+264-066||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|264-066-sucata-aproveitavel-com-motor-inservivel-vwsaveiro-18-20012001
+264-067||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-067-sucata-aproveitavel-com-motor-inservivel-hondacg-125-19851985
+264-068||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-068-sucata-aproveitavel-com-motor-inservivel-yamahafactor-ybr125-k-20112012
+264-069||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|264-069-sucata-aproveitavel-com-motor-inservivel-chevroletmontana-ls-20102011
+264-070||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-070-sucata-aproveitavel-com-motor-inservivel-citroenc3-glx-14-flex-20072008
+264-071||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-071-sucata-aproveitavel-com-motor-inservivel-dafrasuper-50-20112011
+264-072||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-072-sucata-aproveitavel-com-motor-inservivel-hondacg-125-today-19911991
+264-073||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-073-sucata-aproveitavel-com-motor-inservivel-dafrasuper-100-20082008
+264-074||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|264-074-sucata-aproveitavel-com-motor-inservivel-hondacg-160-fan-20262026
+264-075||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-075-sucata-aproveitavel-com-motor-inservivel-z-motos-nini
+264-076||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-076-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20032003
+264-077||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-077-sucata-aproveitavel-com-motor-inservivel-hondacg-125-fan-20072007
+264-078||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-078-sucata-aproveitavel-com-motor-inservivel-kasinskicomet-150-70-20112011
+264-079||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-079-sucata-aproveitavel-com-motor-inservivel-jonny-nini
+264-080||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-080-sucata-aproveitavel-com-motor-inservivel-kasinskicomet-150-70-20112011
+264-081||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-081-sucata-aproveitavel-com-motor-inservivel-hondacg-125-19891989
+264-082||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-082-sucata-aproveitavel-com-motor-inservivel-hondacg-125-today-19901990
+264-083||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-083-sucata-aproveitavel-com-motor-inservivel-hondaturuna-125-19821982
+264-084||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-084-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-nini
+264-085||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|264-085-sucata-aproveitavel-com-motor-inservivel-yamahaxtz-125k-20062007
+265-001||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|265-001-sucata-aproveitavel-hondacivic-ex-19991999
+265-002||S|Avenida Laura Nunes, Vitória da Conquista - BA|600|2026-11-27|265-002-sucata-aproveitavel-hondacg150-start-20152015
+265-003||S|Avenida Laura Nunes, Vitória da Conquista - BA|600|2026-11-27|265-003-sucata-aproveitavel-hondacb-300r-20092010
+265-004||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|265-004-sucata-aproveitavel-hondacg-160-start-20202020
+265-005||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|265-005-sucata-aproveitavel-hondacg-150-fan-esi-20112011
+265-006||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|265-006-sucata-aproveitavel-hondacg-150-titan-esd-20062007
+265-007||S|Avenida Laura Nunes, Vitória da Conquista - BA|3000|2026-11-27|265-007-sucata-aproveitavel-ihyundai-i30-20-20112012
+265-008||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|265-008-sucata-aproveitavel-hondacg-150-titan-ks-20082008
+265-009||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|265-009-sucata-aproveitavel-peugeot206-14-presenc-20042005
+265-010||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|265-010-sucata-aproveitavel-hondacg-125-titan-19961996
+265-011||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|265-011-sucata-aproveitavel-gmcelta-4p-life-20072008
+265-012||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|265-012-sucata-aproveitavel-hondacbx-200-strada-19961997
+265-013||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|265-013-sucata-aproveitavel-com-motor-inservivel-fiatpalio-fire-economy-20092010
+265-014||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|265-014-sucata-aproveitavel-com-motor-inservivel-hyundaihr-hdb-20112012
+265-015||S|Avenida Laura Nunes, Vitória da Conquista - BA|200|2026-11-27|265-015-sucata-aproveitavel-com-motor-inservivel-fiatuno-electronic-19931993
+266-003||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|266-003-sucata-aproveitavel-chevroletcelta-10l-ls-20112012
+266-004||S|Avenida Laura Nunes, Vitória da Conquista - BA|3000|2026-11-27|266-004-sucata-aproveitavel-fiatmobi-way-20172018
+266-005||S|Avenida Laura Nunes, Vitória da Conquista - BA|2000|2026-11-27|266-005-sucata-aproveitavel-gmprisma-joy-20082009
+266-006||S|Avenida Laura Nunes, Vitória da Conquista - BA|700|2026-11-27|266-006-sucata-aproveitavel-hondacb-300r-20102011
+266-007||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|266-007-sucata-aproveitavel-hondaxlr-125-19981998
+266-008||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|266-008-sucata-aproveitavel-hondacg-125-titan-ks-20032003
+266-009||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|266-009-sucata-aproveitavel-hondacg-125-fan-20072008
+266-010||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|266-010-sucata-aproveitavel-hondac100-biz-20022002
+266-011||S|Avenida Laura Nunes, Vitória da Conquista - BA|900|2026-11-27|266-011-sucata-aproveitavel-hondacg-160-fan-20222023
+266-012||S|Avenida Laura Nunes, Vitória da Conquista - BA|300|2026-11-27|266-012-sucata-aproveitavel-hondacg-125-titan-19971997
+266-013||S|Avenida Laura Nunes, Vitória da Conquista - BA|400|2026-11-27|266-013-sucata-aproveitavel-hondacg-125-fan-20052005
+266-014||S|Avenida Laura Nunes, Vitória da Conquista - BA|100|2026-11-27|266-014-sucata-aproveitavel-com-motor-inservivel-gmmonza-sle-18-19861986
+266-015||S|Avenida Laura Nunes, Vitória da Conquista - BA|200|2026-11-27|266-015-sucata-aproveitavel-com-motor-inservivel-hondanxr150-bros-es-20122012
+266-016||S|Avenida Laura Nunes, Vitória da Conquista - BA|500|2026-11-27|266-016-sucata-aproveitavel-com-motor-inservivel-fiatuno-mille-economy-20112012
+267-015||S|Rua 23, Santo Antônio de Jesus - BA|400|2026-11-27|267-015-sucata-aproveitavel-hondacg-125-fan-ks-20112011
+267-016||S|Rua 23, Santo Antônio de Jesus - BA|200|2026-11-27|267-016-sucata-aproveitavel-marvamarva-ni
+267-017||S|Rua 23, Santo Antônio de Jesus - BA|400|2026-11-27|267-017-sucata-aproveitavel-shinerayphoenix-ni
+267-018||S|Rua 23, Santo Antônio de Jesus - BA|350|2026-11-27|267-018-sucata-aproveitavel-shynerayphoenix-ni
+267-019||S|RUA 23, Santo Antônio de Jesus - BA|2500|2026-11-27|267-019-sucata-aproveitavel-iford-mondeo-glx-fg-20002000
+267-020||S|Rua 23, Santo Antônio de Jesus - BA|500|2026-11-27|267-020-sucata-aproveitavel-shineraykrc50-hb-ni
+267-021||S|Rua 23, Santo Antônio de Jesus - BA|650|2026-11-27|267-021-sucata-aproveitavel-shinerayphoenix-ni
+267-022||S|Rua 23, Santo Antônio de Jesus - BA|650|2026-11-27|267-022-sucata-aproveitavel-shinerayshineray-ni
+267-023||S|Rua 23, Santo Antônio de Jesus - BA|750|2026-11-27|267-023-sucata-aproveitavel-shineray-jet-49cc-ni
+267-024||S|Rua 23, Santo Antônio de Jesus - BA|600|2026-11-27|267-024-sucata-aproveitavel-shinerayxy500-ni
+267-025||S|Rua 23, Santo Antônio de Jesus - BA|750|2026-11-27|267-025-sucata-aproveitavel-shinerayl13154-ni
+267-026||S|Rua 23, Santo Antônio de Jesus - BA|400|2026-11-27|267-026-sucata-aproveitavel-traxxstar-ni
+267-027||S|Rua 23, Santo Antônio de Jesus - BA|650|2026-11-27|267-027-sucata-aproveitavel-hondapop100-20122012
+267-028||S|Rua 23, Santo Antônio de Jesus - BA|850|2026-11-27|267-028-sucata-aproveitavel-ciclomotorl13154-ni
+267-029||S|Rua 23, Santo Antônio de Jesus - BA|3000|2026-11-27|267-029-sucata-aproveitavel-com-motor-inservivel-vwgol-16v-plus-20002000
+267-030||S|Rua 23, Santo Antônio de Jesus - BA|900|2026-11-27|267-030-sucata-aproveitavel-com-motor-inservivel-yamahaybr-125k-20052005
+267-031||S|Rua 23, Santo Antônio de Jesus - BA|700|2026-11-27|267-031-sucata-aproveitavel-com-motor-inservivel-ciclomotorl13154-20132013
+267-032||S|Rua 23, Santo Antônio de Jesus - BA|4500|2026-11-27|267-032-sucata-aproveitavel-com-motor-inservivel-gmcelta-2p-life-20062006
+267-033||S|Rua 23, Santo Antônio de Jesus - BA|700|2026-11-27|267-033-sucata-aproveitavel-com-motor-inservivel-xyvky-50cc-ni
+267-034||S|Rua 23, Santo Antônio de Jesus - BA|750|2026-11-27|267-034-sucata-aproveitavel-com-motor-inservivel-hondacg-125-19861986
+267-035||S|Rua 23, Santo Antônio de Jesus - BA|1850|2026-11-27|267-035-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-kse-20022002
+267-036||S|Rua 23, Santo Antônio de Jesus - BA|800|2026-11-27|267-036-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-19991999
+268-001||S|Rua 23, Santo Antônio de Jesus - BA|2500|2026-11-27|268-001-sucata-aproveitavel-gmcorsa-sedan-joy-20052005
+269-001||S|Rua 23, Santo Antônio de Jesus - BA|200|2026-11-27|269-001-sucata-aproeitavel-dafraspeed-150-20082008
+269-002||S|Rua 23, Santo Antônio de Jesus - BA|950|2026-11-27|269-002-sucata-aproeitavel-hondanxr160-bros-esdd-20152015
+272-001|JTA/SUZUKI EN125 YES SE - 2011/2012|C|Rua Florença, BRUMADO - BA|850|2026-12-01|272-001-veiculo-conservado-jtasuzuki-en125-yes-se-20112012
+272-002|SUNDOWN / HUNTER 100 - 2008/2008|C|Rua Florença, BRUMADO - BA|550|2026-12-01|272-002-veiculo-conservado-sundown-hunter-100-20082008
+272-003|YAMAHA / FACTOR YBR125 ED - 2009/2009|C|Rua Florença, BRUMADO - BA|900|2026-12-01|272-003-veiculo-conservado-yamaha-factor-ybr125-ed-20092009
+273-010|SUNDOWN / WEB 100 - 2008/2008|C|Rua Florença, BRUMADO - BA|550|2026-12-01|273-010-veiculo-conservado-sundown-web-100-20082008
+274-001|DAFRA / SPEED 150 - 2009/2010|C|Avenida David Jonas Fadini, Eunápolis - BA|800|2026-12-01|274-001-veiculo-conservado-dafra-speed-150-20092010
+274-002|DAFRA / RIVA 150 - 2013/2014|C|Avenida David Jonas Fadini, Eunápolis - BA|800|2026-12-01|274-002-veiculo-conservado-dafra-riva-150-20132014
+274-003|HONDA / CG 150 TITAN ES - 2005/2005|C|Avenida David Jonas Fadini, Eunápolis - BA|900|2026-12-01|274-003-veiculo-conservado-honda-cg-150-titan-es-20052005
+274-004|HONDA / BIZ 125 ES - 2008/2008|C|Avenida David Jonas Fadini, Eunápolis - BA|850|2026-12-01|274-004-veiculo-conservado-honda-biz-125-es-20082008
+274-005|HONDA / CG 125 FAN KS - 2010/2011|C|Avenida David Jonas Fadini, Eunápolis - BA|950|2026-12-01|274-005-veiculo-conservado-honda-cg-125-fan-ks-20102011
+274-006|HONDA / CG 125 FAN - 2006/2007|C|Avenida David Jonas Fadini, Eunápolis - BA|850|2026-12-01|274-006-veiculo-conservado-honda-cg-125-fan-20062007
+275-001|HONDA / CB 300R - 2009/2010|C||900|2026-12-01|275-001-veiculo-conservado-honda-cb-300r-20092010
+275-002|HONDA / POP 110I - 2020/2020|C||1100|2026-12-01|275-002-veiculo-conservado-honda-pop-110i-20202020
+275-003|YAMAHA / FACTOR YBR125 K - 2009/2009|C||650|2026-12-01|275-003-veiculo-conservado-yamaha-factor-ybr125-k-20092009
+275-004|CICLOMOTOR / L13154 - 2014/2015|C||750|2026-12-01|275-004-veiculo-conservado-ciclomotor-l13154-20142015
+275-005|HONDA / BIZ 110I - 2021/2021|C||1500|2026-12-01|275-005-veiculo-conservado-honda-biz-110i-20212021
+275-006|HONDA / NXR125 BROS KS - 2013/2014|C||800|2026-12-01|275-006-veiculo-conservado-honda-nxr125-bros-ks-20132014
+275-007|I / TRAXX JL50Q 2 - 2008/2009|C||600|2026-12-01|275-007-veiculo-conservado-i-traxx-jl50q-2-20082009
+275-008|HONDA / POP 110I ES - 2025/2026|C||1500|2026-12-01|275-008-veiculo-conservado-honda-pop-110i-es-20252026
+275-009|HONDA / CG 125 FAN - 2008/2008|C||850|2026-12-01|275-009-veiculo-conservado-honda-cg-125-fan-20082008
+275-010|DAFRA / ZIG 50 - 2011/2012|C||600|2026-12-01|275-010-veiculo-conservado-dafra-zig-50-20112012
+275-011|HONDA / CG 160 START - 2020/2021|C||2500|2026-12-01|275-011-veiculo-conservado-honda-cg-160-start-20202021
+275-012|VW / FOX 1.6 GII - 2011/2012|C||4500|2026-12-01|275-012-veiculo-conservado-vw-fox-16-gii-20112012
+275-013|HONDA / BIZ 125 ES - 2010/2010|C||750|2026-12-01|275-013-veiculo-conservado-honda-biz-125-es-20102010
+275-014|RENAULT / KWID ZEN 10MT - 2019/2020|C||6500|2026-12-01|275-014-veiculo-conservado-renault-kwid-zen-10mt-20192020
+275-015|GM / CELTA 4P SPIRIT - 2010/2011|C||4000|2026-12-01|275-015-veiculo-conservado-gm-celta-4p-spirit-20102011
+275-016|HONDA / BIZ 125 ES - 2015/2015|C||1200|2026-12-01|275-016-veiculo-conservado-honda-biz-125-es-20152015
+275-017|I / CHARMING BULL KRC50 - 2015/2015|C||700|2026-12-01|275-017-veiculo-conservado-i-charming-bull-krc50-20152015
+275-018|FIAT / PALIO ELX FLEX - 2011/2011|C||3500|2026-12-01|275-018-veiculo-conservado-fiat-palio-elx-flex-20112011
+275-019|FORD / FIESTA 1.6 - 2003/2003|C||3500|2026-12-01|275-019-veiculo-conservado-ford-fiesta-16-20032003
+275-020|FIAT / FIORINO GREENCAR AM - 2019/2020|C||7000|2026-12-01|275-020-veiculo-conservado-fiat-fiorino-greencar-am-20192020
+275-021|SHINERAY / 50Q - 2022/2022|C||700|2026-12-01|275-021-veiculo-conservado-shineray-50q-20222022
+275-022|HONDA / CG 160 START - 2022/2022|C||2000|2026-12-01|275-022-veiculo-conservado-honda-cg-160-start-20222022
+275-023|HONDA / CG 150 FAN ESI - 2011/2011|C||800|2026-12-01|275-023-veiculo-conservado-honda-cg-150-fan-esi-20112011
+275-024|YAMAHA / T115 CRYPTON ED - 2011/2012|C||750|2026-12-01|275-024-veiculo-conservado-yamaha-t115-crypton-ed-20112012
+275-025|HONDA/C100 BIZ ES - 2005/2005|C||600|2026-12-01|275-025-veiculo-conservado-hondac100-biz-es-20052005
+275-026|FIAT / UNO MILLE FIRE FLEX - 2008/2008|C||4000|2026-12-01|275-026-veiculo-conservado-fiat-uno-mille-fire-flex-20082008
+275-027|I / CHERY QQ3 1.1 - 2011/2012|C||3000|2026-12-01|275-027-veiculo-conservado-i-chery-qq3-11-20112012
+275-028|HYUNDAI / HB20 1.6M COMF - 2015/2015|C||6000|2026-12-01|275-028-veiculo-conservado-hyundai-hb20-16m-comf-20152015
+275-029|FORD / ECOSPORT FSL1.6FLEX - 2011/2012|C||5000|2026-12-01|275-029-veiculo-conservado-ford-ecosport-fsl16flex-20112012
+275-030|FORD / KA SE 1.0 HA - 2015/2015|C||4500|2026-12-01|275-030-veiculo-conservado-ford-ka-se-10-ha-20152015
+275-031|JTA / SUZUKI EN125 YES SE - 2011/2012|C||750|2026-12-01|275-031-veiculo-conservado-jta-suzuki-en125-yes-se-20112012
+275-032|HONDA / POP 110I - 2017/2018|C||900|2026-12-01|275-032-veiculo-conservado-honda-pop-110i-20172018
+276-046|IROS / ONE125 ES - 2011/2012|C||500|2026-12-01|276-046-veiculo-conservado-iros-one125-es-20112012
+276-047|HONDA / CG 150 FAN ESI - 2012/2012|C||900|2026-12-01|276-047-veiculo-conservado-honda-cg-150-fan-esi-20122012
+277-048|HONDA / POP 110I - 2021/2021|C||900|2026-12-01|277-048-veiculo-conservado-honda-pop-110i-20212021
+277-049|FIAT / IDEA ELX FLEX - 2009/2010|C||3000|2026-12-01|277-049-veiculo-conservado-fiat-idea-elx-flex-20092010
+277-050|RENAULT / SANDERO EXPR 10 - 2015/2016|C||4000|2026-12-01|277-050-veiculo-conservado-renault-sandero-expr-10-20152016
+278-001|HONDA / CG 125 TITAN - 1997/1998|C|Rodovia BR 122 KM3, Guanambi - BA|750|2026-12-01|278-001-veiculo-conservado-honda-cg-125-titan-19971998
+278-002|HONDA / CG150 TITAN MIX KS - 2009/2009|C|Rodovia BR 122 KM3, Guanambi - BA|950|2026-12-01|278-002-veiculo-conservado-honda-cg150-titan-mix-ks-20092009
+278-003|DAFRA / ZIG 50 - 2013/2013|C||650|2026-12-01|278-003-veiculo-conservado-dafra-zig-50-20132013
+278-004|HONDA / CG 125 FAN - 2008/2008|C||850|2026-12-01|278-004-veiculo-conservado-honda-cg-125-fan-20082008
+278-005|FORD / FIESTA - 2004/2004|C|Rodovia BR 122 KM3, Guanambi - BA|3000|2026-12-01|278-005-veiculo-conservado-ford-fiesta-20042004
+278-006|JTA / SUZUKI EN125 YES - 2008/2008|C|Rodovia BR 122 KM3, Guanambi - BA|700|2026-12-01|278-006-veiculo-conservado-jta-suzuki-en125-yes-20082008
+278-007|HONDA / CG 125 TITAN KS - 2002/2002|C|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|278-007-veiculo-conservado-honda-cg-125-titan-ks-20022002
+278-008|HONDA / CG 125 FAN KS - 2010/2010|C|Rodovia BR 122 KM3, Guanambi - BA|800|2026-12-01|278-008-veiculo-conservado-honda-cg-125-fan-ks-20102010
+278-009|YAMAHA / YBR 125E - 2008/2008|C|Rodovia BR 122 KM3, Guanambi - BA|750|2026-12-01|278-009-veiculo-conservado-yamaha-ybr-125e-20082008
+278-010|HONDA / POP100 - 2007/2008|C|Rodovia BR 122 KM3, Guanambi - BA|850|2026-12-01|278-010-veiculo-conservado-honda-pop100-20072008
+278-011|HONDA / CG 150 TITAN KS - 2005/2005|C|Rodovia BR 122 KM3, Guanambi - BA|800|2026-12-01|278-011-veiculo-conservado-honda-cg-150-titan-ks-20052005
+278-012|HONDA / CG 160 START - 2021/2022|C|Rodovia BR 122 KM3, Guanambi - BA|2000|2026-12-01|278-012-veiculo-conservado-honda-cg-160-start-20212022
+278-013|HONDA / CG 150 TITAN KS - 2004/2004|C|Rodovia BR 122 KM3, Guanambi - BA|800|2026-12-01|278-013-veiculo-conservado-honda-cg-150-titan-ks-20042004
+279-056|HONDA / CG 160 TITAN EX - 2015/2016|C|Rodovia BR 122 KM3, GUANAMBI - BA|1600|2026-12-01|279-056-veiculo-conservado-honda-cg-160-titan-ex-20152016
+279-057|YAMAHA / XTZ 125E - 2006/2007|C|Rodovia BR 122 KM3, Guanambi - BA|900|2026-12-01|279-057-veiculo-conservado-yamaha-xtz-125e-20062007
+280-001|HONDA / CG 125 FAN KS - 2013/2014|C||900|2026-12-01|280-001-veiculo-conservado-honda-cg-125-fan-ks-20132014
+280-002|NISSAN / FRONTIER XE 25 X2 - 2008/2009|C||12000|2026-12-01|280-002-veiculo-conservado-nissan-frontier-xe-25-x2-20082009
+280-003|YAMAHA / YBR150 FACTOR ED - 2018/2018|C||1000|2026-12-01|280-003-veiculo-conservado-yamaha-ybr150-factor-ed-20182018
+280-004|YAMAHA / YBR 125E - 2003/2003|C||700|2026-12-01|280-004-veiculo-conservado-yamaha-ybr-125e-20032003
+280-005|HONDA / CG 150 FAN ESI - 2013/2013|C||950|2026-12-01|280-005-veiculo-conservado-honda-cg-150-fan-esi-20132013
+280-006|HONDA / CG 160 FAN - 2023/2023|C||2500|2026-12-01|280-006-veiculo-conservado-honda-cg-160-fan-20232023
+280-007|HONDA / NXR125 BROS ES - 2005/2005|C||850|2026-12-01|280-007-veiculo-conservado-honda-nxr125-bros-es-20052005
+280-008|SHINERAY / 50Q - 2020/2021|C||700|2026-12-01|280-008-veiculo-conservado-shineray-50q-20202021
+280-009|VW / FOX 1.0 - 2003/2004|C||3500|2026-12-01|280-009-veiculo-conservado-vw-fox-10-20032004
+280-010|HONDA / CG 125 FAN KS - 2014/2014|C||1500|2026-12-01|280-010-veiculo-conservado-honda-cg-125-fan-ks-20142014
+280-011|HONDA / CG 125 FAN ES - 2010/2010|C||900|2026-12-01|280-011-veiculo-conservado-honda-cg-125-fan-es-20102010
+280-012|HONDA / BIZ 125 MAIS - 2006/2006|C||800|2026-12-01|280-012-veiculo-conservado-honda-biz-125-mais-20062006
+280-013|HONDA / CG 160 FAN - 2022/2022|C||3000|2026-12-01|280-013-veiculo-conservado-honda-cg-160-fan-20222022
+280-014|HONDA / CG 125 FAN - 2008/2008|C||800|2026-12-01|280-014-veiculo-conservado-honda-cg-125-fan-20082008
+281-043|HONDA / C100 BIZ - 2001/2001|C||650|2026-12-01|281-043-veiculo-conservado-honda-c100-biz-20012001
+282-001|TRAXX / JL50 Q2 - 2012/2013|C|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|282-001-veiculo-conservado-traxx-jl50-q2-20122013
+282-002|VW / GOL SPECIAL - 2002/2002|C|Rodovia BR-235, Juazeiro - BA|2600|2026-12-01|282-002-veiculo-conservado-vw-gol-special-20022002
+282-003|HONDA / CG 150 TITAN KS - 2008/2008|C|Rodovia BR-235, Juazeiro - BA|850|2026-12-01|282-003-veiculo-conservado-honda-cg-150-titan-ks-20082008
+282-004|HONDA / CG 125 FAN - 2005/2005|C|Rodovia BR-235, Juazeiro - BA|750|2026-12-01|282-004-veiculo-conservado-honda-cg-125-fan-20052005
+282-005|JTA / SUZUKI INTRUDER 125 - 2009/2010|C|Rodovia BR-235, Juazeiro - BA|900|2026-12-01|282-005-veiculo-conservado-jta-suzuki-intruder-125-20092010
+282-006|HONDA / CG 160 FAN - 2021/2022|C|Rodovia BR-235, Juazeiro - BA|1800|2026-12-01|282-006-veiculo-conservado-honda-cg-160-fan-20212022
+282-007|CHEVROLET / S10 LT DD4A - 2019/2020|C|Rodovia BR-235, Juazeiro - BA|20000|2026-12-01|282-007-veiculo-conservado-chevrolet-s10-lt-dd4a-20192020
+282-008|HONDA / NXR 160 BROS ABS - 2025/2026|C|Rodovia BR-235, Juazeiro - BA|2500|2026-12-01|282-008-veiculo-conservado-honda-nxr-160-bros-abs-20252026
+282-009|SUNDOWN / MAX 125 SED - 2008/2008|C|Rodovia BR-235, Juazeiro - BA|700|2026-12-01|282-009-veiculo-conservado-sundown-max-125-sed-20082008
+283-001|FIAT / PALIO FIRE ECONOMY - 2013/2014|C|Rua Roma do Cia-Aeroporto, Salvador - BA|4000|2026-12-01|283-001-veiculo-conservado-fiat-palio-fire-economy-20132014
+283-002|HONDA / NXR125 BROS ES - 2003/2003|C|Rua Roma do Cia-Aeroporto, Salvador - BA|850|2026-12-01|283-002-veiculo-conservado-honda-nxr125-bros-es-20032003
+284-058|MMC / L200 TRITON 3.2 D - 2011/2012|C|Rua Roma do Cia-Aeroporto, Salvador - BA|11000|2026-12-01|284-058-veiculo-conservado-mmc-l200-triton-32-d-20112012
+284-059|RENAULT / SANDERO EXPR 10 - 2016/2017|C|Rua Roma do Cia-Aeroporto, Salvador - BA|5000|2026-12-01|284-059-veiculo-conservado-renault-sandero-expr-10-20162017
+285-001|TRAXX / JL50 Q2 - 2008/2008|C|Rua Morumbi, Paulo Afonso - BA|500|2026-12-01|285-001-veiculo-conservado-traxx-jl50-q2-20082008
+285-002|VW / GOL SPECIAL - 1999/2000|C|Rua Morumbi, Paulo Afonso - BA|2000|2026-12-01|285-002-veiculo-conservado-vw-gol-special-19992000
+285-003|FIAT / PALIO WEEK TREKKING - 2010/2010|C|Rua Morumbi, Paulo Afonso - BA|4000|2026-12-01|285-003-veiculo-conservado-fiat-palio-week-trekking-20102010
+285-004|HONDA / CG150 TITAN MIX KS - 2009/2009|C|Rua Morumbi, Paulo Afonso - BA|950|2026-12-01|285-004-veiculo-conservado-honda-cg150-titan-mix-ks-20092009
+285-005|YAMAHA / YBR 125E - 2003/2004|C|Rua Morumbi, Paulo Afonso - BA|750|2026-12-01|285-005-veiculo-conservado-yamaha-ybr-125e-20032004
+285-006|SUNDOWN / HUNTER 125 SE - 2006/2006|C|Rua Morumbi, Paulo Afonso - BA|650|2026-12-01|285-006-veiculo-conservado-sundown-hunter-125-se-20062006
+285-007|I/SHINERAY XY 50 Q - 2009/2010|C|Rua Morumbi, Paulo Afonso - BA|550|2026-12-01|285-007-veiculo-conservado-ishineray-xy-50-q-20092010
+285-008|I / SHINERAY XY50Q PHOENIX - 2013/2014|C|Rua Morumbi, Paulo Afonso - BA|600|2026-12-01|285-008-veiculo-conservado-i-shineray-xy50q-phoenix-20132014
+285-009|FIAT / UNO ELECTRONIC - 1993/1993|C|Rua Morumbi, Paulo Afonso - BA|1800|2026-12-01|285-009-veiculo-conservado-fiat-uno-electronic-19931993
+285-010|YAMAHA / YBR 125K - 2006/2007|C|Rua Morumbi, Paulo Afonso - BA|700|2026-12-01|285-010-veiculo-conservado-yamaha-ybr-125k-20062007
+286-005|HONDA / CG 125 FAN ES - 2009/2009|C|Avenida David Jonas Fadini, Eunápolis - BA|800|2026-12-01|286-005-veiculo-conservado-honda-cg-125-fan-es-20092009
+287-006|HONDA / CG 125 FAN ES - 2012/2013|C|Avenida David Jonas Fadini, Eunápolis - BA|900|2026-12-01|287-006-veiculo-conservado-honda-cg-125-fan-es-20122013
+288-001|VEICULO CONSERVADO RENAULT / KWID INTENS 10MT - 2021/2022|C|Rodovia BA 526, Salvador - BA|6000|2026-12-01|288-001-veiculo-conservado-renault-kwid-intens-10mt-20212022
+288-002|VEICULO CONSERVADO HONDA / POP 110I - 2020/2020|C|Rodovia BA 526, Salvador - BA|2000|2026-12-01|288-002-veiculo-conservado-honda-pop-110i-20202020
+288-003|VEICULO CONSERVADO JTZ / DK150 - 2018/2019|C|Rodovia BA 526, Salvador - BA|1000|2026-12-01|288-003-veiculo-conservado-jtz-dk150-20182019
+288-004|VEICULO CONSERVADO GM / CELTA 4P LIFE - 2007/2008|C|Rodovia BA 526, Salvador - BA|3500|2026-12-01|288-004-veiculo-conservado-gm-celta-4p-life-20072008
+288-005|VEICULO CONSERVADO FIAT / MOBI LIKE - 2021/2021|C|Rodovia BA 526, Salvador - BA|6000|2026-12-01|288-005-veiculo-conservado-fiat-mobi-like-20212021
+288-006|VEICULO CONSERVADO FIAT / IDEA ATTRACTIVE 1.4 - 2012/2013|C|Rodovia BA 526, Salvador - BA|4500|2026-12-01|288-006-veiculo-conservado-fiat-idea-attractive-14-20122013
+288-007|VEICULO CONSERVADO YAMAHA / YBR150 FACTOR ED - 2021/2022|C|Rodovia BA 526, Salvador - BA|1500|2026-12-01|288-007-veiculo-conservado-yamaha-ybr150-factor-ed-20212022
+288-008|VEICULO CONSERVADO HONDA / POP 110I - 2021/2021|C|Rodovia BA 526, Salvador - BA|900|2026-12-01|288-008-veiculo-conservado-honda-pop-110i-20212021
+288-009|VEICULO CONSERVADO DAFRA / SUPER 50 - 2011/2011|C|Rodovia BA 526, Salvador - BA|550|2026-12-01|288-009-veiculo-conservado-dafra-super-50-20112011
+288-010|VEICULO CONSERVADO I / LIFAN X60 1.8L VVT - 2014/2015|C|Rodovia BA 526, Salvador - BA|4500|2026-12-01|288-010-veiculo-conservado-i-lifan-x60-18l-vvt-20142015
+288-011|VEICULO CONSERVADO I / CHEVROLET CLASSIC LS - 2013/2014|C|Rodovia BA 526, Salvador - BA|3000|2026-12-01|288-011-veiculo-conservado-i-chevrolet-classic-ls-20132014
+288-012|VEICULO CONSERVADO HONDA / CG 125 FAN KS - 2011/2012|C|Rodovia BA 526, Salvador - BA|800|2026-12-01|288-012-veiculo-conservado-honda-cg-125-fan-ks-20112012
+288-013|VEICULO CONSERVADO HONDA / CG 160 START - 2018/2018|C|Rodovia BA 526, Salvador - BA|1500|2026-12-01|288-013-veiculo-conservado-honda-cg-160-start-20182018
+288-014|VEICULO CONSERVADO RENAULT / DUSTER 16 E CVT - 2019/2020|C|Rodovia BA 526, Salvador - BA|7000|2026-12-01|288-014-veiculo-conservado-renault-duster-16-e-cvt-20192020
+288-015|VEICULO CONSERVADO DAFRA / TVS APACHE RTR 150 - 2011/2012|C|Rodovia BA 526, Salvador - BA|900|2026-12-01|288-015-veiculo-conservado-dafra-tvs-apache-rtr-150-20112012
+289-039|VEICULO CONSERVADO HONDA / CG 125 FAN - 2007/2007|C|Rodovia BA 526, Salvador - BA|700|2026-12-01|289-039-veiculo-conservado-honda-cg-125-fan-20072007
+290-001|VEICULO CONSERVADO HONDA / BIZ 125 - 2023/2023|C||2000|2026-12-01|290-001-veiculo-conservado-honda-biz-125-20232023
+290-002|VEICULO CONSERVADO VW / GOL 16V - 1999/2000|C||3500|2026-12-01|290-002-veiculo-conservado-vw-gol-16v-19992000
+290-003|VEICULO CONSERVADO FORD / ECOSPORT FSL 1.6 - 2014/2015|C||6000|2026-12-01|290-003-veiculo-conservado-ford-ecosport-fsl-16-20142015
+290-004|VEICULO CONSERVADO HONDA / NXR 160 BROS - 2018/2018|C||1500|2026-12-01|290-004-veiculo-conservado-honda-nxr-160-bros-20182018
+290-005|VEICULO CONSERVADO FIAT / MOBI LIKE - 2018/2018|C||6000|2026-12-01|290-005-veiculo-conservado-fiat-mobi-like-20182018
+290-006|VEICULO CONSERVADO FIAT / UNO MILLE WAY ECON - 2010/2011|C||4000|2026-12-01|290-006-veiculo-conservado-fiat-uno-mille-way-econ-20102011
+290-007|VEICULO CONSERVADO HONDA / CG 125 FAN KS - 2010/2011|C||700|2026-12-01|290-007-veiculo-conservado-honda-cg-125-fan-ks-20102011
+290-008|VEICULO CONSERVADO HONDA / BIZ 125 ES - 2011/2011|C||1500|2026-12-01|290-008-veiculo-conservado-honda-biz-125-es-20112011
+290-009|VEICULO CONSERVADO HONDA / CG 125 FAN ES - 2010/2010|C||700|2026-12-01|290-009-veiculo-conservado-honda-cg-125-fan-es-20102010
+290-010|VEICULO CONSERVADO HONDA / NXR125 BROS ES - 2003/2003|C||750|2026-12-01|290-010-veiculo-conservado-honda-nxr125-bros-es-20032003
+290-011|VEICULO CONSERVADO FIAT / SIENA ATTRACTIV 1.4 - 2014/2014|C||4000|2026-12-01|290-011-veiculo-conservado-fiat-siena-attractiv-14-20142014
+290-012|VEICULO CONSERVADO HONDA / CG 125 FAN ESD - 2014/2014|C||1500|2026-12-01|290-012-veiculo-conservado-honda-cg-125-fan-esd-20142014
+290-013|VEICULO CONSERVADO YAMAHA / YS150 FAZER SED - 2013/2014|C||1200|2026-12-01|290-013-veiculo-conservado-yamaha-ys150-fazer-sed-20132014
+290-014|VEICULO CONSERVADO GM / CELTA 2P LIFE - 2008/2009|C||3500|2026-12-01|290-014-veiculo-conservado-gm-celta-2p-life-20082009
+290-015|VEICULO CONSERVADO HONDA / NXR160 BROS ESDD - 2021/2022|C||2000|2026-12-01|290-015-veiculo-conservado-honda-nxr160-bros-esdd-20212022
+290-016|VEICULO CONSERVADO SHINERAY / 50Q - 2015/2016|C||700|2026-12-01|290-016-veiculo-conservado-shineray-50q-20152016
+290-017|VEICULO CONSERVADO VW / GOL 1.0 - 2008/2008|C||3000|2026-12-01|290-017-veiculo-conservado-vw-gol-10-20082008
+290-018|VEICULO CONSERVADO HONDA / CG 150 FAN ESI - 2013/2013|C||950|2026-12-01|290-018-veiculo-conservado-honda-cg-150-fan-esi-20132013
+290-019|VEICULO CONSERVADO HONDA / POP 110I - 2021/2021|C||1500|2026-12-01|290-019-veiculo-conservado-honda-pop-110i-20212021
+290-020|VEICULO CONSERVADO HONDA / CG 125 FAN KS - 2010/2010|C||950|2026-12-01|290-020-veiculo-conservado-honda-cg-125-fan-ks-20102010
+290-021|VEICULO CONSERVADO HONDA / BIZ 125 EX - 2013/2013|C||1200|2026-12-01|290-021-veiculo-conservado-honda-biz-125-ex-20132013
+290-022|VEICULO CONSERVADO FIAT / UNO VIVACE 1.0 - 2012/2012|C||4500|2026-12-01|290-022-veiculo-conservado-fiat-uno-vivace-10-20122012
+290-023|VEICULO CONSERVADO SUNDOWN / WEB 100 EVO - 2010/2010|C||650|2026-12-01|290-023-veiculo-conservado-sundown-web-100-evo-20102010
+290-024|VEICULO CONSERVADO DAFRA / SUPER 50 - 2011/2011|C||600|2026-12-01|290-024-veiculo-conservado-dafra-super-50-20112011
+290-025|VEICULO CONSERVADO JTA / SUZUKI EN125 YES - 2005/2005|C||750|2026-12-01|290-025-veiculo-conservado-jta-suzuki-en125-yes-20052005
+290-026|VEICULO CONSERVADO HONDA / CG 125 FAN KS - 2010/2010|C||950|2026-12-01|290-026-veiculo-conservado-honda-cg-125-fan-ks-20102010
+291-042|VEICULO CONSERVADO CHEV / SPIN 1.8L AT LTZ - 2013/2013|C||7000|2026-12-01|291-042-veiculo-conservado-chev-spin-18l-at-ltz-20132013
+292-043|HONDA / CG 160 FAN - 2024/2025|C||2500|2026-12-01|292-043-honda-cg-160-fan-20242025
+292-044|VEICULO CONSERVADO HONDA / BIZ 125 EX - 2011/2011|C||1200|2026-12-01|292-044-veiculo-conservado-honda-biz-125-ex-20112011
+292-045|VEICULO CONSERVADO HONDA / NXR160 BROS ESDD - 2023/2023|C||2200|2026-12-01|292-045-veiculo-conservado-honda-nxr160-bros-esdd-20232023
+293-004|VW / GOL 1.0 GIV - 2008/2009|S|Rua Florença, BRUMADO - BA|1800|2026-12-01|293-004-sucata-aproveitavel-vw-gol-10-giv-20082009
+293-005|KASINSKI / FLASH K 150 - 2007/2008|S|Rua Florença, BRUMADO - BA|500|2026-12-01|293-005-sucata-aproveitavel-kasinski-flash-k-150-20072008
+293-006|YAMAHA / YBR 125K - 2005/2005|S|Rua Florença, BRUMADO - BA|500|2026-12-01|293-006-sucata-aproveitavel-yamaha-ybr-125k-20052005
+293-007|HONDA / CG 125 TITAN KSE - 2003/2003|S|Rua Florença, BRUMADO - BA|550|2026-12-01|293-007-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-kse-20032003
+293-008|HONDA / CG 125 TITAN - 1995/1995|S|Rua Florença, BRUMADO - BA|500|2026-12-01|293-008-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19951995
+293-009|HONDA / CG 125 TITAN - 1999/1999|S|Rua Florença, BRUMADO - BA|500|2026-12-01|293-009-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19991999
+294-011|HONDA / CG 150 TITAN KS - 2007/2008|S|Rua Florença, BRUMADO - BA|700|2026-12-01|294-011-sucata-aproveitavel-honda-cg-150-titan-ks-20072008
+294-012|HONDA / CG 125 TITAN KS - 2001/2002|S|Rua Florença, BRUMADO - BA|600|2026-12-01|294-012-sucata-aproveitavel-honda-cg-125-titan-ks-20012002
+294-013|HONDA / CG 125 - 1985/1986|S||500|2026-12-01|294-013-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-19851986
+294-014|HONDA / ML 125 - N/I/N/I|S|Rua Florença, BRUMADO - BA|550|2026-12-01|294-014-sucata-aproveitavel-com-motor-inservivel-honda-ml-125-nini
+295-007|JTA / SUZUKI EN125 YES - 2007/2008|S|Avenida David Jonas Fadini, Eunápolis - BA|750|2026-12-01|295-007-sucata-aproveitavel-jta-suzuki-en125-yes-20072008
+295-008|DAFRA / TVS APACHE RTR 150 - 2011/2011|S|Avenida David Jonas Fadini, Eunápolis - BA|700|2026-12-01|295-008-sucata-aproveitavel-dafra-tvs-apache-rtr-150-20112011
+295-009|DAFRA / TVS APACHE RTR 150 - 2011/2011|S|Avenida David Jonas Fadini, Eunápolis - BA|700|2026-12-01|295-009-sucata-aproveitavel-dafra-tvs-apache-rtr-150-20112011
+295-010|HONDA / POP 110I - 2017/2017|S|Avenida David Jonas Fadini, Eunápolis - BA|850|2026-12-01|295-010-sucata-aproveitavel-com-motor-inservivel-honda-pop-110i-20172017
+295-011|IMP / VW POLO CLAS. 1.8 MI - 1999/1999|S|Avenida David Jonas Fadini, Eunápolis - BA|1200|2026-12-01|295-011-sucata-aproveitavel-com-motor-inservivel-imp-vw-polo-clas-18-mi-19991999
+296-012|FIAT / UNO ELECTRONIC - 1993/1993|S|Avenida David Jonas Fadini, Eunápolis - BA|1200|2026-12-01|296-012-sucata-aproveitavel-fiat-uno-electronic-19931993
+296-013|FIAT / PALIO ATTRACTIV 1.0 - 2012/2013|S|Avenida David Jonas Fadini, Eunápolis - BA|2000|2026-12-01|296-013-sucata-aproveitavel-fiat-palio-attractiv-10-20122013
+296-014|HONDA / CG150 TITAN MIX ES - 2010/2010|S|Avenida David Jonas Fadini, Eunápolis - BA|850|2026-12-01|296-014-sucata-aproveitavel-honda-cg150-titan-mix-es-20102010
+296-015|HONDA / CG 125 FAN ES - 2010/2010|S|Avenida David Jonas Fadini, Eunápolis - BA|700|2026-12-01|296-015-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-es-20102010
+296-016|FORD / FIESTA 1.6 FLEX - 2012/2013|S|Avenida David Jonas Fadini, Eunápolis - BA|1500|2026-12-01|296-016-sucata-aproveitavel-com-motor-inservivel-ford-fiesta-16-flex-20122013
+297-033|YAMAHA / FACTOR YBR125 ED - 2012/2012|S||700|2026-12-01|297-033-sucata-aproveitavel-yamaha-factor-ybr125-ed-20122012
+297-034|GM / CORSA WIND - 1995/1996|S||1000|2026-12-01|297-034-sucata-aproveitavel-gm-corsa-wind-19951996
+297-035|HONDA / C100 BIZ ES - 2003/2003|S||550|2026-12-01|297-035-sucata-aproveitavel-honda-c100-biz-es-20032003
+297-036|KASINSKI / WIN 110 60 - 2011/2011|S||500|2026-12-01|297-036-sucata-aproveitavel-kasinski-win-110-60-20112011
+297-037|HONDA / BIZ 125 ES - 2013/2013|S||700|2026-12-01|297-037-sucata-aproveitavel-honda-biz-125-es-20132013
+297-038|DAFRA / KANSAS 150 - 2008/2009|S||500|2026-12-01|297-038-sucata-aproveitavel-com-motor-inservivel-dafra-kansas-150-20082009
+297-039|IMP / VW GOLF GL - 1996/1997|S||1000|2026-12-01|297-039-sucata-aproveitavel-com-motor-inservivel-imp-vw-golf-gl-19961997
+297-040|GM / ZAFIRA EXPRESSION - 2007/2008|S||1400|2026-12-01|297-040-sucata-aproveitavel-com-motor-inservivel-gm-zafira-expression-20072008
+297-041|GM / CORSA SUPER - 1997/1997|S||900|2026-12-01|297-041-sucata-aproveitavel-com-motor-inservivel-gm-corsa-super-19971997
+297-042|VW / NOVO GOL 1.0 - 2013/2014|S||1500|2026-12-01|297-042-sucata-aproveitavel-com-motor-inservivel-vw-novo-gol-10-20132014
+297-043|FIAT / DOBLO ESSENCE 1.8 - 2012/2013|S||2000|2026-12-01|297-043-sucata-aproveitavel-com-motor-inservivel-fiat-doblo-essence-18-20122013
+297-044|VW / SAVEIRO CL 1.6 MI - 1998/1998|S||1200|2026-12-01|297-044-sucata-aproveitavel-com-motor-inservivel-vw-saveiro-cl-16-mi-19981998
+297-045|SHINERAY / PHOENIX - N/I/N/I|S||350|2026-12-01|297-045-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-nini
+298-051|I / SHINERAY XY 50 Q 2 - 2009/2010|S||200|2026-12-01|298-051-sucata-aproveitavel-com-motor-inservivel-i-shineray-xy-50-q-2-20092010
+299-014|HONDA / CG 160 TITAN - 2018/2018|S|Rodovia BR 122 KM3, Guanambi - BA|1200|2026-12-01|299-014-sucata-aproveitavel-honda-cg-160-titan-20182018
+299-015|HONDA / CG150 TITAN MIX EX - 2010/2010|S|Rodovia BR 122 KM3, Guanambi - BA|850|2026-12-01|299-015-sucata-aproveitavel-honda-cg150-titan-mix-ex-20102010
+299-016|HONDA / CG 125 TITAN - 1997/1997|S|Rodovia BR 122 KM3, Guanambi - BA|700|2026-12-01|299-016-sucata-aproveitavel-honda-cg-125-titan-19971997
+299-017|HONDA / CG 125 TITAN - 1998/1999|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-017-sucata-aproveitavel-honda-cg-125-titan-19981999
+299-018|HONDA / CBX 250 TWISTER - 2004/2005|S|Rodovia BR 122 KM3, Guanambi - BA|850|2026-12-01|299-018-sucata-aproveitavel-honda-cbx-250-twister-20042005
+299-019|HONDA / CG 125 FAN - 2005/2005|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-019-sucata-aproveitavel-honda-cg-125-fan-20052005
+299-020|HONDA / CG 160 START - 2019/2019|S|Rodovia BR 122 KM3, Guanambi - BA|1200|2026-12-01|299-020-sucata-aproveitavel-honda-cg-160-start-20192019
+299-021|HONDA / CG 160 FAN - 2019/2020|S|Rodovia BR 122 KM3, Guanambi - BA|1300|2026-12-01|299-021-sucata-aproveitavel-honda-cg-160-fan-20192020
+299-022|IMP / VW GOL SPECIAL - 1999/1999|S|Rodovia BR 122 KM3, Guanambi - BA|1000|2026-12-01|299-022-sucata-aproveitavel-imp-vw-gol-special-19991999
+299-023|VW / GOL 1.0 - 2009/2009|S|Rodovia BR 122 KM3, Guanambi - BA|2000|2026-12-01|299-023-sucata-aproveitavel-vw-gol-10-20092009
+299-024|HONDA / CG 150 TITAN KS - 2008/2008|S|Rodovia BR 122 KM3, Guanambi - BA|800|2026-12-01|299-024-sucata-aproveitavel-honda-cg-150-titan-ks-20082008
+299-025|HONDA / CG 150 TITAN KS - 2007/2007|S|Rodovia BR 122 KM3, Guanambi - BA|800|2026-12-01|299-025-sucata-aproveitavel-honda-cg-150-titan-ks-20072007
+299-026|DAFRA / KANSAS 150 - 2008/2009|S||550|2026-12-01|299-026-sucata-aproveitavel-dafra-kansas-150-20082009
+299-027|HONDA / CG 160 TITAN - 2018/2018|S|Rodovia BR 122 KM3, Guanambi - BA|1200|2026-12-01|299-027-sucata-aproveitavel-honda-cg-160-titan-20182018
+299-028|YAMAHA / YBR 125K - 2008/2008|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-028-sucata-aproveitavel-yamaha-ybr-125k-20082008
+299-029|YAMAHA / FACTOR YBR125 ED - 2009/2010|S|Rodovia BR 122 KM3, Guanambi - BA|550|2026-12-01|299-029-sucata-aproveitavel-yamaha-factor-ybr125-ed-20092010
+299-030|HONDA / CG 150 TITAN KS - 2005/2006|S|Rodovia BR 122 KM3, Guanambi - BA|800|2026-12-01|299-030-sucata-aproveitavel-honda-cg-150-titan-ks-20052006
+299-031|HONDA / CG 150 TITAN KS - 2007/2007|S|Rodovia BR 122 KM3, Guanambi - BA|850|2026-12-01|299-031-sucata-aproveitavel-honda-cg-150-titan-ks-20072007
+299-032|BRAMONT / GARINI GR125 U2 - 2008/2008|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-032-sucata-aproveitavel-bramont-garini-gr125-u2-20082008
+299-033|VW / NOVO VOYAGE 1.0 - 2012/2013|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-033-sucata-aproveitavel-com-motor-inservivel-vw-novo-voyage-10-20122013
+299-034|HONDA / CG 125 TITAN - N/I/N/I|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-034-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-nini
+299-035|HONDA / CG 150 TITAN EX - 2012/2012|S|Rodovia BR 122 KM3, Guanambi - BA|850|2026-12-01|299-035-sucata-aproveitavel-com-motor-inservivel-honda-cg-150-titan-ex-20122012
+299-036|YAMAHA / YBR 125K - 2002/2002|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-036-sucata-aproveitavel-com-motor-inservivel-yamaha-ybr-125k-20022002
+299-037|HONDA / CG 160 TITAN - 2021/2021|S|Rodovia BR 122 KM3, Guanambi - BA|1300|2026-12-01|299-037-sucata-aproveitavel-com-motor-inservivel-honda-cg-160-titan-20212021
+299-038|HONDA / CG 125 - 1986/1987|S|Rodovia BR 122 KM3, Guanambi - BA|550|2026-12-01|299-038-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-19861987
+299-039|HONDA / CG 125 - 1985/1986|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-039-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-19851986
+299-040|HONDA / CG 125 - 1986/1986|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-040-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-19861986
+299-041|HONDA / CG 125 TITAN KS - 2003/2003|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-041-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20032003
+299-042|HONDA / CG 125 TITAN - 1997/1997|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-042-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19971997
+299-043|HONDA / POP 110I - 2022/2022|S|Rodovia BR 122 KM3, Guanambi - BA|1000|2026-12-01|299-043-sucata-aproveitavel-com-motor-inservivel-honda-pop-110i-20222022
+299-044|HONDA / CG 125 TITAN - 1996/1997|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-044-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19961997
+299-045|HONDA / CG 125 TITAN KS - 2000/2000|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-045-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20002000
+299-046|HONDA / CG 125 - N/I/N/I|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-046-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-nini
+299-047|HONDA / CG 125 TITAN - 1996/1996|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-047-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19961996
+299-048|HONDA / CG 125 TITAN - 1998/1998|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-048-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19981998
+299-049|HONDA / ML 125 - 1987/1987|S|Rodovia BR 122 KM3, Guanambi - BA|600|2026-12-01|299-049-sucata-aproveitavel-com-motor-inservivel-honda-ml-125-19871987
+299-050|HONDA / CG 125 TITAN KS - 2003/2004|S|Rodovia BR 122 KM3, Guanambi - BA|750|2026-12-01|299-050-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20032004
+299-051|HONDA / CG 125 CARGO - 1997/1997|S|Rodovia BR 122 KM3, Guanambi - BA|700|2026-12-01|299-051-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-cargo-19971997
+299-052|HONDA / CG 125 TITAN - 1996/1996|S|Rodovia BR 122 KM3, Guanambi - BA|700|2026-12-01|299-052-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19961996
+299-053|HONDA / CG 125 - N/I/N/I|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-053-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-nini
+299-054|HONDA / CG 125 - N/I/N/I|S|Rodovia BR 122 KM3, Guanambi - BA|650|2026-12-01|299-054-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-nini
+300-055|YAMAHA / YBR 125K - 2004/2004|S|Rodovia BR 122 KM3, GUANAMBI - BA|500|2026-12-01|300-055-sucata-aproveitavel-com-motor-inservivel-yamaha-ybr-125k-20042004
+301-058|HONDA / CG 150 TITAN KS - 2005/2005|S|Rodovia BR 122 KM3, Guanambi - GO|750|2026-12-01|301-058-sucata-aproveitavel-honda-cg-150-titan-ks-20052005
+301-059|HONDA / CG 150 FAN ESI - 2011/2012|S|Rodovia BR 122 KM3, Guanambi - SP|950|2026-12-01|301-059-sucata-aproveitavel-honda-cg-150-fan-esi-20112012
+301-060|HONDA / CG 150 TITAN KS - 2007/2007|S|Rodovia BR 122 KM3, Guanambi - BA|800|2026-12-01|301-060-sucata-aproveitavel-honda-cg-150-titan-ks-20072007
+301-061|HONDA / C100 BIZ ES - 2004/2005|S|Rodovia BR 122 KM3, Guanambi - BA|700|2026-12-01|301-061-sucata-aproveitavel-honda-c100-biz-es-20042005
+301-062|HONDA / CG 150 FAN ESI - 2013/2013|S|Rodovia BR 122 KM3, Guanambi - BA|900|2026-12-01|301-062-sucata-aproveitavel-honda-cg-150-fan-esi-20132013
+301-063|HONDA / CG 125 TITAN KS - 2000/2000|S|Rodovia BR 122 KM3, Guanambi - BA|700|2026-12-01|301-063-sucata-aproveitavel-honda-cg-125-titan-ks-20002000
+301-064|HONDA / NXR150 BROS MIX KS - 2010/2010|S|Rodovia BR 122 KM3, Guanambi - BA|900|2026-12-01|301-064-sucata-aproveitavel-honda-nxr150-bros-mix-ks-20102010
+301-065|HONDA / CG 160 FAN - 2019/2019|S|Rodovia BR 122 KM3, Guanambi - BA|1000|2026-12-01|301-065-sucata-aproveitavel-honda-cg-160-fan-20192019
+301-066|SUNDOWN / MAX 125 SE - 2008/2009|S|Rodovia BR 122 KM3, Guanambi - BA|700|2026-12-01|301-066-sucata-aproveitavel-sundown-max-125-se-20082009
+301-067|HONDA / CG 150 TITAN KS - 2004/2005|S|Rodovia BR 122 KM3, Guanambi - BA|750|2026-12-01|301-067-sucata-aproveitavel-honda-cg-150-titan-ks-20042005
+301-068|HONDA / XRE 300 - 2015/2015|S|Rodovia BR 122 KM3, Guanambi - BA|1500|2026-12-01|301-068-sucata-aproveitavel-honda-xre-300-20152015
+301-069|HONDA / CG 150 TITAN KS - 2004/2004|S|Rodovia BR 122 KM3, Guanambi - BA|700|2026-12-01|301-069-sucata-aproveitavel-com-motor-inservivel-honda-cg-150-titan-ks-20042004
+301-070|FIAT / PALIO FIRE ECONOMY - 2009/2010|S|Rodovia BR 122 KM3, Guanambi - BA|1800|2026-12-01|301-070-sucata-aproveitavel-com-motor-inservivel-fiat-palio-fire-economy-20092010
+301-071|HONDA / XR 250 TORNADO - 2004/2004|S|Rodovia BR 122 KM3, Guanambi - BA|800|2026-12-01|301-071-sucata-aproveitavel-com-motor-inservivel-honda-xr-250-tornado-20042004
+301-072|HONDA / CG 125 FAN KS - 2011/2011|S|Rodovia BR 122 KM3, Guanambi - BA|750|2026-12-01|301-072-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-ks-20112011
+302-015|HONDA / CG 125 TITAN - 1996/1996|S||550|2026-12-01|302-015-sucata-aproveitavel-honda-cg-125-titan-19961996
+302-016|HONDA / CG 160 START - 2023/2023|S||1000|2026-12-01|302-016-sucata-aproveitavel-honda-cg-160-start-20232023
+302-017|FIAT / UNO MILLE - 1990/1991|S||700|2026-12-01|302-017-sucata-aproveitavel-fiat-uno-mille-19901991
+302-018|YAMAHA / YBR 125K - 2007/2007|S||550|2026-12-01|302-018-sucata-aproveitavel-yamaha-ybr-125k-20072007
+302-019|YAMAHA / YBR 125E - 2002/2002|S||600|2026-12-01|302-019-sucata-aproveitavel-yamaha-ybr-125e-20022002
+302-020|HONDA / CG 150 TITAN ES - 2007/2007|S||650|2026-12-01|302-020-sucata-aproveitavel-honda-cg-150-titan-es-20072007
+302-021|HONDA / CG 150 TITAN KS - 2005/2005|S||650|2026-12-01|302-021-sucata-aproveitavel-honda-cg-150-titan-ks-20052005
+302-022|SUNDOWN / HUNTER 90 - 2006/2006|S||600|2026-12-01|302-022-sucata-aproveitavel-sundown-hunter-90-20062006
+302-023|FORD / KA SE 1.0 HA B - 2016/2017|S||2000|2026-12-01|302-023-sucata-aproveitavel-com-motor-inservivel-ford-ka-se-10-ha-b-20162017
+302-024|HONDA / CG 125 TITAN - 1999/2000|S||550|2026-12-01|302-024-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19992000
+302-025|HONDA / CRF - N/I/N/I|S||700|2026-12-01|302-025-sucata-aproveitavel-com-motor-inservivel-honda-crf-nini
+302-026|YAMAHA / YBR125 FACTOR K1 - 2013/2014|S||600|2026-12-01|302-026-sucata-aproveitavel-com-motor-inservivel-yamaha-ybr125-factor-k1-20132014
+302-027|HONDA / CG 125 TITAN KS - 2000/2000|S||600|2026-12-01|302-027-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20002000
+302-028|WUYANG / 50 - N/I/N/I|S||550|2026-12-01|302-028-sucata-aproveitavel-com-motor-inservivel-wuyang-50-nini
+302-029|FORD / KA SE 1.0 HA - 2015/2015|S||2000|2026-12-01|302-029-sucata-aproveitavel-com-motor-inservivel-ford-ka-se-10-ha-20152015
+302-030|HONDA / TODAY 125 - N/I/N/I|S||500|2026-12-01|302-030-sucata-aproveitavel-com-motor-inservivel-honda-today-125-nini
+302-031|SHINERAY / PHOENIX - N/I/N/I|S||550|2026-12-01|302-031-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-nini
+302-032|HONDA / CG 125 - N/I/N/I|S||550|2026-12-01|302-032-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-nini
+302-033|FORD / FIESTA - 1997/1997|S||800|2026-12-01|302-033-sucata-aproveitavel-com-motor-inservivel-ford-fiesta-19971997
+302-034|HONDA / CG 125 CARGO - 2003/2003|S||600|2026-12-01|302-034-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-cargo-20032003
+302-035|SHINERAY / JET - N/I/N/I|S||500|2026-12-01|302-035-sucata-aproveitavel-com-motor-inservivel-shineray-jet-nini
+302-036|SHINERAY / 50CC - N/I/N/I|S||500|2026-12-01|302-036-sucata-aproveitavel-com-motor-inservivel-shineray-50cc-nini
+302-037|CHEVROLET / CELTA 1.0L LT - 2014/2014|S||1600|2026-12-01|302-037-sucata-aproveitavel-com-motor-inservivel-chevrolet-celta-10l-lt-20142014
+302-038|FORD / ESCORT 1.8I L - 1994/1994|S||700|2026-12-01|302-038-sucata-aproveitavel-com-motor-inservivel-ford-escort-18i-l-19941994
+302-039|HONDA / CG 125 FAN - 2008/2008|S||650|2026-12-01|302-039-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008
+302-040|FIAT / UNO CS 1.5 - 1993/1993|S||900|2026-12-01|302-040-sucata-aproveitavel-com-motor-inservivel-fiat-uno-cs-15-19931993
+302-041|TRINITY / 50CC - N/I/N/I|S||550|2026-12-01|302-041-sucata-aproveitavel-com-motor-inservivel-trinity-50cc-nini
+302-042|HONDA / CG 125 TITAN - 1997/1997|S||550|2026-12-01|302-042-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19971997
+303-044|GM / CORSA HATCH MAXX - 2007/2008|S||1500|2026-12-01|303-044-sucata-aproveitavel-gm-corsa-hatch-maxx-20072008
+304-010|DAFRA / SUPER 100 - 2008/2008|S|Rodovia BR-235, Juazeiro - BA|700|2026-12-01|304-010-sucata-aproveitavel-dafra-super-100-20082008
+304-011|HONDA / CBX 250 TWISTER - 2004/2004|S|Rodovia BR-235, Juazeiro - BA|800|2026-12-01|304-011-sucata-aproveitavel-honda-cbx-250-twister-20042004
+304-012|I / WUYANG WY48Q-2 - 2013/2014|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-012-sucata-aproveitavel-i-wuyang-wy48q-2-20132014
+304-013|DAFRA / SUPER 100 - 2009/2010|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-013-sucata-aproveitavel-dafra-super-100-20092010
+304-014|DAFRA / SUPER 100 - 2009/2009|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-014-sucata-aproveitavel-dafra-super-100-20092009
+304-015|I / HUARI MARVA HS150 FIRE - 2010/2010|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-015-sucata-aproveitavel-i-huari-marva-hs150-fire-20102010
+304-016|SUNDOWN / HUNTER 100 - 2008/2008|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-016-sucata-aproveitavel-sundown-hunter-100-20082008
+304-017|VW / GOL PLUS 16V - 2000/2001|S|Rodovia BR-235, Juazeiro - BA|1500|2026-12-01|304-017-sucata-aproveitavel-vw-gol-plus-16v-20002001
+304-018|I / YINXIANG IROS ONE - 2008/2009|S|Rodovia BR-235, Juazeiro - BA|750|2026-12-01|304-018-sucata-aproveitavel-i-yinxiang-iros-one-20082009
+304-019|YAMAHA / YBR 125K - 2004/2004|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-019-sucata-aproveitavel-yamaha-ybr-125k-20042004
+304-020|I / WUYANG WY 125 ESD - 2008/2008|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-020-sucata-aproveitavel-i-wuyang-wy-125-esd-20082008
+304-021|I / SHINERAY XY 50 Q - 2009/2010|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-021-sucata-aproveitavel-i-shineray-xy-50-q-20092010
+304-022|SUNDOWN / HUNTER 125 SE - 2006/2007|S|Rodovia BR-235, Juazeiro - BA|700|2026-12-01|304-022-sucata-aproveitavel-sundown-hunter-125-se-20062007
+304-023|SUNDOWN / HUNTER 100 - 2007/2008|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-023-sucata-aproveitavel-sundown-hunter-100-20072008
+304-024|HONDA / CG 125 FAN KS - 2010/2010|S|Rodovia BR-235, Juazeiro - BA|800|2026-12-01|304-024-sucata-aproveitavel-honda-cg-125-fan-ks-20102010
+304-025|SUNDOWN / HUNTER 100 - 2008/2009|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-025-sucata-aproveitavel-sundown-hunter-100-20082009
+304-026|SUNDOWN / MAX 125 SE - 2008/2008|S|Rodovia BR-235, Juazeiro - BA|700|2026-12-01|304-026-sucata-aproveitavel-sundown-max-125-se-20082008
+304-027|DAFRA / SUPER 100 - 2008/2008|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-027-sucata-aproveitavel-dafra-super-100-20082008
+304-028|I / WUYANG WY 125 ESD - 2010/2010|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-028-sucata-aproveitavel-i-wuyang-wy-125-esd-20102010
+304-029|HONDA / CG150 FAN ESDI - 2014/2015|S|Rodovia BR-235, Juazeiro - BA|750|2026-12-01|304-029-sucata-aproveitavel-com-motor-inservivel-honda-cg150-fan-esdi-20142015
+304-030|HONDA / XLR 125 ES - 2001/2002|S|Rodovia BR-235, Juazeiro - BA|850|2026-12-01|304-030-sucata-aproveitavel-com-motor-inservivel-honda-xlr-125-es-20012002
+304-031|HONDA / CG 150 TITAN KS - 2006/2007|S|Rodovia BR-235, Juazeiro - BA|700|2026-12-01|304-031-sucata-aproveitavel-com-motor-inservivel-honda-cg-150-titan-ks-20062007
+304-032|FORD / FIESTA SEDAN - 2005/2006|S|Rodovia BR-235, Juazeiro - BA|1500|2026-12-01|304-032-sucata-aproveitavel-com-motor-inservivel-ford-fiesta-sedan-20052006
+304-033|HONDA / CG 125 FAN KS - 2011/2012|S|Rodovia BR-235, Juazeiro - BA|800|2026-12-01|304-033-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-ks-20112012
+304-034|SUNDOWN / HUNTER 100 - 2008/2008|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-034-sucata-aproveitavel-com-motor-inservivel-sundown-hunter-100-20082008
+304-035|ITALIKA / ST 50 - N/I/N/I|S|Rodovia BR-235, Juazeiro - BA|550|2026-12-01|304-035-sucata-aproveitavel-com-motor-inservivel-italika-st-50-nini
+304-036|HONDA / CG 125 FAN - 2006/2006|S|Rodovia BR-235, Juazeiro - BA|750|2026-12-01|304-036-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20062006
+304-037|HONDA / CG 125 TITAN - 1998/1999|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-037-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19981999
+304-038|HONDA / CG 125 TITAN KS - 2004/2004|S|Rodovia BR-235, Juazeiro - BA|750|2026-12-01|304-038-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20042004
+304-039|HONDA / CG 125 TITAN KS - 2003/2004|S|Rodovia BR-235, Juazeiro - BA|700|2026-12-01|304-039-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20032004
+304-040|HONDA / CG 125 TITAN KS - 2000/2000|S|Rodovia BR-235, Juazeiro - BA|700|2026-12-01|304-040-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20002000
+304-041|HONDA / CG 160 FAN ESDI - 2016/2016|S|Rodovia BR-235, Juazeiro - BA|850|2026-12-01|304-041-sucata-aproveitavel-com-motor-inservivel-honda-cg-160-fan-esdi-20162016
+304-042|ITALIKA / XT50 C - N/I/N/I|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-042-sucata-aproveitavel-com-motor-inservivel-italika-xt50-c-nini
+304-043|HONDA / CG 125 TITAN ES - 2002/2003|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-043-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-es-20022003
+304-044|YAMAHA / YBR 125K - 2006/2006|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-044-sucata-aproveitavel-com-motor-inservivel-yamaha-ybr-125k-20062006
+304-045|HONDA / CG 125 - 1983/1983|S|Rodovia BR-235, Juazeiro - BA|550|2026-12-01|304-045-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-19831983
+304-046|SUNDOWN / MAX 125 SE - 2008/2008|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-046-sucata-aproveitavel-com-motor-inservivel-sundown-max-125-se-20082008
+304-047|I / SHINERAY XY 50 Q - 2011/2012|S|Rodovia BR-235, Juazeiro - BA|550|2026-12-01|304-047-sucata-aproveitavel-com-motor-inservivel-i-shineray-xy-50-q-20112012
+304-048|HONDA / CG 125 TODAY - 1993/1993|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-048-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-today-19931993
+304-049|I / WUYANG WY 125 ESD PLUS - 2009/2009|S|Rodovia BR-235, Juazeiro - BA|550|2026-12-01|304-049-sucata-aproveitavel-com-motor-inservivel-i-wuyang-wy-125-esd-plus-20092009
+304-050|H / HONDA CG - N/I/N/I|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-050-sucata-aproveitavel-com-motor-inservivel-h-honda-cg-nini
+304-051|HONDA / ML 125 - N/I/N/I|S|Rodovia BR-235, Juazeiro - BA|600|2026-12-01|304-051-sucata-aproveitavel-com-motor-inservivel-honda-ml-125-nini
+304-052|I / SHINERAY XY 150 GY - 2011/2012|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-052-sucata-aproveitavel-com-motor-inservivel-i-shineray-xy-150-gy-20112012
+304-053|SUNDOWN / STX 200 - 2007/2008|S|Rodovia BR-235, Juazeiro - BA|550|2026-12-01|304-053-sucata-aproveitavel-com-motor-inservivel-sundown-stx-200-20072008
+304-054|JONNY / 4STROKE - N/I/N/I|S|Rodovia BR-235, Juazeiro - BA|550|2026-12-01|304-054-sucata-aproveitavel-com-motor-inservivel-jonny-4stroke-nini
+304-055|VW / GOL 1.0 - 2005/2006|S|Rodovia BR-235, Juazeiro - BA|1500|2026-12-01|304-055-sucata-aproveitavel-com-motor-inservivel-vw-gol-10-20052006
+304-056|DAFRA / SPEED 150 - 2010/2011|S|Rodovia BR-235, Juazeiro - BA|650|2026-12-01|304-056-sucata-aproveitavel-com-motor-inservivel-dafra-speed-150-20102011
+304-057|IMP / PEUGEOT 106 XN - 1995/1995|S|Rodovia BR-235, Juazeiro - BA|1300|2026-12-01|304-057-sucata-aproveitavel-com-motor-inservivel-imp-peugeot-106-xn-19951995
+305-058|HONDA / CG 150 FAN ESI - 2012/2013|S|Rodovia BR-235, Juazeiro - BA|900|2026-12-01|305-058-sucata-aproveitavel-honda-cg-150-fan-esi-20122013
+305-059|HONDA / NXR150 BROS ES - 2009/2009|S|Rodovia BR-235, Juazeiro - BA|800|2026-12-01|305-059-sucata-aproveitavel-com-motor-inservivel-honda-nxr150-bros-es-20092009
+306-003|IMP / PEUGEOT 306 XR - 1996/1997|S|Rua Roma do Cia-Aeroporto, Salvador - BA|900|2026-12-01|306-003-sucata-aproveitavel-com-motor-inservivel-imp-peugeot-306-xr-19961997
+307-060|HONDA / CG 160 TITAN EX - 2015/2016|S|Rua Roma do Cia-Aeroporto, Salvador - BA|600|2026-12-01|307-060-sucata-aproveitavel-com-motor-inservivel-honda-cg-160-titan-ex-20152016
+307-061|I / JEEP CHEROKEE LTD 3.7 - 2012/2012|S|Rua Roma do Cia-Aeroporto, Salvador - BA|6000|2026-12-01|307-061-sucata-aproveitavel-com-motor-inservivel-i-jeep-cherokee-ltd-37-20122012
+308-011|I / CHEVROLET AGILE LT - 2011/2011|S|Rua Morumbi, Paulo Afonso - BA|2500|2026-12-01|308-011-sucata-aproveitavel-i-chevrolet-agile-lt-20112011
+308-012|SUNDOWN / MAX 125 SE - 2007/2007|S|Rua Morumbi, Paulo Afonso - BA|600|2026-12-01|308-012-sucata-aproveitavel-sundown-max-125-se-20072007
+308-013|DAFRA / KANSAS 150 - 2008/2009|S|Rua Morumbi, Paulo Afonso - BA|650|2026-12-01|308-013-sucata-aproveitavel-dafra-kansas-150-20082009
+308-014|YAMAHA / YBR 125K - 2001/2002|S|Rua Morumbi, Paulo Afonso - BA|650|2026-12-01|308-014-sucata-aproveitavel-yamaha-ybr-125k-20012002
+308-015|SUNDOWN / MAX 125 SE - 2008/2008|S|Rua Morumbi, Paulo Afonso - BA|550|2026-12-01|308-015-sucata-aproveitavel-sundown-max-125-se-20082008
+308-016|FIAT / SIENA HLX FLEX - 2009/2010|S|Rua Morumbi, Paulo Afonso - BA|3500|2026-12-01|308-016-sucata-aproveitavel-fiat-siena-hlx-flex-20092010
+308-017|HONDA / CBX 200 STRADA - 1997/1997|S|Rua Morumbi, Paulo Afonso - BA|600|2026-12-01|308-017-sucata-aproveitavel-honda-cbx-200-strada-19971997
+308-018|SUNDOWN / MAX 125 SE - 2008/2008|S|Rua Morumbi, Paulo Afonso - BA|550|2026-12-01|308-018-sucata-aproveitavel-sundown-max-125-se-20082008
+308-019|SHINERAY / XY 50 Q - N/I/N/I|S|Rua Morumbi, Paulo Afonso - BA|500|2026-12-01|308-019-sucata-aproveitavel-com-motor-inservivel-shineray-xy-50-q-nini
+308-020|HONDA / CG 125 TODAY - 1993/1993|S|Rua Morumbi, Paulo Afonso - BA|550|2026-12-01|308-020-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-today-19931993
+308-021|HONDA / CG 125 FAN - 2008/2008|S|Rua Morumbi, Paulo Afonso - BA|650|2026-12-01|308-021-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008
+308-022|SHINERAY / PHOENIX - N/I/N/I|S|Rua Morumbi, Paulo Afonso - BA|450|2026-12-01|308-022-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-nini
+308-023|WUYANG / 50C - N/I/N/I|S|Rua Morumbi, Paulo Afonso - BA|500|2026-12-01|308-023-sucata-aproveitavel-com-motor-inservivel-wuyang-50c-nini
+308-024|SHINERAY / PHOENIX - N/I/N/I|S|Rua Morumbi, Paulo Afonso - BA|500|2026-12-01|308-024-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-nini
+308-025|VW / PARATI 1.6 TRACKFIELD - 2007/2007|S|Rua Morumbi, Paulo Afonso - BA|1500|2026-12-01|308-025-sucata-aproveitavel-com-motor-inservivel-vw-parati-16-trackfield-20072007
+308-026|HONDA / CG 125 TITAN - 1999/1999|S|Rua Morumbi, Paulo Afonso - BA|600|2026-12-01|308-026-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-19991999
+308-027|HONDA / CG 125 TITAN KS - 2000/2000|S|Rua Morumbi, Paulo Afonso - BA|600|2026-12-01|308-027-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20002000
+308-028|SHINERAY / PHOENIX - N/I/N/I|S|Rua Morumbi, Paulo Afonso - BA|450|2026-12-01|308-028-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-nini
+308-029|YAMAHA / YBR 125ED - 2005/2005|S|Rua Morumbi, Paulo Afonso - BA|600|2026-12-01|308-029-sucata-aproveitavel-com-motor-inservivel-yamaha-ybr-125ed-20052005
+308-030|YAMAHA / CRYPTON T105E - 2003/2004|S|Rua Morumbi, Paulo Afonso - BA|550|2026-12-01|308-030-sucata-aproveitavel-com-motor-inservivel-yamaha-crypton-t105e-20032004
+308-031|YAMAHA / YBR 125ED - 2004/2005|S|Rua Morumbi, Paulo Afonso - BA|600|2026-12-01|308-031-sucata-aproveitavel-com-motor-inservivel-yamaha-ybr-125ed-20042005
+309-032|YAMAHA / YBR 125E - 2002/2003|S|Rua Morumbi, Paulo Afonso - BA|600|2026-12-01|309-032-sucata-aproveitavel-yamaha-ybr-125e-20022003
+309-033|HONDA / CG 160 FAN ESDI - 2016/2016|S|Rua Morumbi, Paulo Afonso - BA|700|2026-12-01|309-033-sucata-aproveitavel-honda-cg-160-fan-esdi-20162016
+310-001|FIAT / UNO S - 1991/1991|S|Avenida David Jonas Fadini, Eunápolis - BA|1500|2026-12-01|310-001-sucata-aproveitavel-fiat-uno-s-19911991
+310-002|DAFRA / SPEED 150 - 2009/2010|S|Avenida David Jonas Fadini, Eunápolis - BA|550|2026-12-01|310-002-sucata-aproveitavel-dafra-speed-150-20092010
+310-003|SUNDOWN / MAX 125 SE - 2007/2007|S|Avenida David Jonas Fadini, Eunápolis - BA|500|2026-12-01|310-003-sucata-aproveitavel-com-motor-inservivel-sundown-max-125-se-20072007
+310-004|DAFRA / SUPER 100 - 2008/2008|S|Avenida David Jonas Fadini, Eunápolis - BA|500|2026-12-01|310-004-sucata-aproveitavel-com-motor-inservivel-dafra-super-100-20082008
+311-016|FIAT / STRADA FIRE FLEX - 2011/2012|S|Rodovia BA 526, Salvador - BA|3000|2026-12-01|311-016-sucata-aproveitavel-fiat-strada-fire-flex-20112012
+311-017|I / SENKE Z MOTOS ZSK50 ST - 2014/2015|S|Rodovia BA 526, Salvador - BA|500|2026-12-01|311-017-sucata-aproveitavel-i-senke-z-motos-zsk50-st-20142015
+311-018|VW / GOL PLUS MI - 1997/1997|S|Rodovia BA 526, Salvador - BA|900|2026-12-01|311-018-sucata-aproveitavel-vw-gol-plus-mi-19971997
+311-019|HONDA / CG 125 FAN ES - 2010/2010|S|Rodovia BA 526, Salvador - BA|550|2026-12-01|311-019-sucata-aproveitavel-honda-cg-125-fan-es-20102010
+311-020|GM / CORSA WIND - 2000/2001|S|Rodovia BA 526, Salvador - BA|1000|2026-12-01|311-020-sucata-aproveitavel-gm-corsa-wind-20002001
+311-021|GM / CORSA SEDAN PREMIUM - 2010/2011|S|Rodovia BA 526, Salvador - BA|2000|2026-12-01|311-021-sucata-aproveitavel-gm-corsa-sedan-premium-20102011
+311-022|FIAT / UNO MILLE WAY ECON - 2010/2010|S|Rodovia BA 526, Salvador - BA|1300|2026-12-01|311-022-sucata-aproveitavel-fiat-uno-mille-way-econ-20102010
+311-023|HONDA / CG 150 TITAN KS - 2009/2009|S|Rodovia BA 526, Salvador - BA|800|2026-12-01|311-023-sucata-aproveitavel-honda-cg-150-titan-ks-20092009
+311-024|HONDA / CB 300R - 2010/2010|S|Rodovia BA 526, Salvador - BA|700|2026-12-01|311-024-sucata-aproveitavel-honda-cb-300r-20102010
+311-025|HONDA / CG 150 TITAN ES - 2005/2005|S|Rodovia BA 526, Salvador - BA|700|2026-12-01|311-025-sucata-aproveitavel-honda-cg-150-titan-es-20052005
+311-026|JTA / SUZUKI EN125 YES - 2008/2009|S|Rodovia BA 526, Salvador - BA|500|2026-12-01|311-026-sucata-aproveitavel-com-motor-inservivel-jta-suzuki-en125-yes-20082009
+311-027|VW / FOX 1.0 - 2006/2006|S|Rodovia BA 526, Salvador - BA|1200|2026-12-01|311-027-sucata-aproveitavel-com-motor-inservivel-vw-fox-10-20062006
+311-028|HONDA / CG 125 FAN - 2008/2008|S|Rodovia BA 526, Salvador - BA|550|2026-12-01|311-028-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008
+311-029|VW / GOL 1.0 - 2003/2004|S|Rodovia BA 526, Salvador - BA|1000|2026-12-01|311-029-sucata-aproveitavel-com-motor-inservivel-vw-gol-10-20032004
+311-030|VW / NOVO VOYAGE 1.6 CITY - 2013/2014|S|Rodovia BA 526, Salvador - BA|1400|2026-12-01|311-030-sucata-aproveitavel-com-motor-inservivel-vw-novo-voyage-16-city-20132014
+311-031|SHINERAY / XY50Q PHOENIX - N/I/N/I|S|Rodovia BA 526, Salvador - BA|400|2026-12-01|311-031-sucata-aproveitavel-com-motor-inservivel-shineray-xy50q-phoenix-nini
+311-032|HONDA / CG 125 FAN - 2008/2008|S|Rodovia BA 526, Salvador - BA|500|2026-12-01|311-032-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008
+311-033|SHINERAY / 50 C - N/I/N/I|S|Rodovia BA 526, Salvador - BA|400|2026-12-01|311-033-sucata-aproveitavel-com-motor-inservivel-shineray-50-c-nini
+311-034|BULL / BULL - N/I/N/I|S|Rodovia BA 526, Salvador - BA|400|2026-12-01|311-034-sucata-aproveitavel-com-motor-inservivel-bull-bull-nini
+311-035|PEUGEOT / 207PASSION XR S - 2011/2011|S|Rodovia BA 526, Salvador - BA|1400|2026-12-01|311-035-sucata-aproveitavel-com-motor-inservivel-peugeot-207passion-xr-s-20112011
+311-036|PEUGEOT / 206 16 FELINE - 2004/2004|S|Rodovia BA 526, Salvador - BA|1000|2026-12-01|311-036-sucata-aproveitavel-com-motor-inservivel-peugeot-206-16-feline-20042004
+311-037|FIAT / MOBI LIKE - 2019/2019|S|Rodovia BA 526, Salvador - BA|2000|2026-12-01|311-037-sucata-aproveitavel-com-motor-inservivel-fiat-mobi-like-20192019
+311-038|FIAT / PALIO FIRE FLEX - 2007/2008|S|Rodovia BA 526, Salvador - BA|1300|2026-12-01|311-038-sucata-aproveitavel-com-motor-inservivel-fiat-palio-fire-flex-20072008
+312-040|HONDA / CG 150 TITAN EX - 2012/2012|S|Rodovia BA 526, Salvador - BA|600|2026-12-01|312-040-sucata-aproveitavel-com-motor-inservivel-honda-cg-150-titan-ex-20122012
+313-027|VW / GOL 16V - 2000/2000|S||1000|2026-12-01|313-027-sucata-aproveitavel-vw-gol-16v-20002000
+313-028|HONDA / CB 300R - 2010/2011|S||700|2026-12-01|313-028-sucata-aproveitavel-honda-cb-300r-20102011
+313-029|HONDA / C100 BIZ ES - 2003/2004|S||650|2026-12-01|313-029-sucata-aproveitavel-honda-c100-biz-es-20032004
+313-030|CHEVROLET / CELTA 1.0L LT - 2013/2013|S||1700|2026-12-01|313-030-sucata-aproveitavel-chevrolet-celta-10l-lt-20132013
+313-031|FORD / FIESTA FLEX - 2007/2008|S||1400|2026-12-01|313-031-sucata-aproveitavel-ford-fiesta-flex-20072008
+313-032|JTA / SUZUKI EN125 YES - 2006/2007|S||650|2026-12-01|313-032-sucata-aproveitavel-jta-suzuki-en125-yes-20062007
+313-033|HONDA / CG 125 TITAN KS - 2000/2000|S||550|2026-12-01|313-033-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20002000
+313-034|HONDA / CG 125 TITAN ES - 2003/2004|S||600|2026-12-01|313-034-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-es-20032004
+313-035|GM / VECTRA GLS - 2000/2000|S||900|2026-12-01|313-035-sucata-aproveitavel-com-motor-inservivel-gm-vectra-gls-20002000
+313-036|HONDA / CG 125 FAN - 2008/2008|S||600|2026-12-01|313-036-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008
+313-037|FIAT / SIENA FIRE - 2004/2005|S||1100|2026-12-01|313-037-sucata-aproveitavel-com-motor-inservivel-fiat-siena-fire-20042005
+313-038|GM / CORSA GL 1.6 - 1997/1998|S||900|2026-12-01|313-038-sucata-aproveitavel-com-motor-inservivel-gm-corsa-gl-16-19971998
+313-039|I/SHINERAY XY 50 Q - 2015/2016|S||500|2026-12-01|313-039-sucata-aproveitavel-com-motor-inservivel-ishineray-xy-50-q-20152016
+313-040|SHINERAY / 49CC JET - N/I/N/I|S||500|2026-12-01|313-040-sucata-aproveitavel-com-motor-inservivel-shineray-49cc-jet-nini
+313-041|I / TOYOTA HILUXSW4 SRV4X4 - 2014/2014|S||12000|2026-12-01|313-041-sucata-aproveitavel-com-motor-inservivel-i-toyota-hiluxsw4-srv4x4-20142014
+314-046|KASINSKI / WIN 110 60 - 2010/2010|C||550|2026-12-01|314-046-kasinski-win-110-60-20102010
