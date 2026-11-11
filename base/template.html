@@ -749,7 +749,7 @@ const FAPI='https://parallelum.com.br/fipe/api/v1/';const FC=new Map();
 const fget=async p=>{if(FC.has(p))return FC.get(p);const r=await fetch(FAPI+p);if(!r.ok)throw new Error(r.status===429?'limite de consultas atingido, tente mais tarde':'HTTP '+r.status);const j=await r.json();FC.set(p,j);return j;};
 const FTIPO={car:'carros',moto:'motos',cam:'caminhoes'};
 const FALIAS={VW:'VW',VOLKSWAGEN:'VW',VOLKS:'VW',GM:'GM',CHEVROLET:'GM',CHEV:'GM',MBENZ:'MERCEDES',MERCEDES:'MERCEDES',BENZ:'MERCEDES',KIA:'KIA',CITROEN:'CITROEN',LANDROVER:'LAND',MMC:'MITSUBISHI'};
-const ftok=s=>norm(s).toUpperCase().replace(/[,()\/]/g,' ').replace(/(\D)\.|\.(\D)/g,'$1 $2').split(/[\s-]+/).filter(Boolean);
+const ftok=s=>norm(s).toUpperCase().replace(/(\d)[.,](\d)/g,'$1$2').replace(/[,()\/.]/g,' ').replace(/([A-Z])(\d)/g,'$1 $2').replace(/(\d)([A-Z])/g,'$1 $2').split(/[\s-]+/).filter(Boolean);
 const STOP=new Set(['CARRO','MOTO','MOTOCICLETA','DIREITOS','SOBRE','VEICULO','CONSERVADO','SUCATA','APROVEITAVEL','FLEX','GASOLINA','DIESEL','ALCOOL','COR','PLACA','ANO','MODELO','I','IMP','CAMINHAO','ONIBUS','UTILITARIO','DE','DA','DO','E','COM','SEM','LOTE','KM']);
 function fBrand(marcas,toks){let best=null,bp=1e9;for(const m of marcas){const alts=m.nome.split(' - ').map(x=>ftok(x).filter(w=>w!=='MOTORS'));
   for(const a of alts){if(!a.length)continue;const p=toks.findIndex((w,i)=>a.every((x,j)=>toks[i+j]===x));const q=p<0?toks.findIndex(w=>FALIAS[w]&&ftok(m.nome).includes(FALIAS[w])):p;if(q>=0&&q<bp){bp=q;best=m;}}}return best;}
