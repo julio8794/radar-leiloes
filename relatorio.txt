@@ -1,8 +1,8 @@
-Caixa: 22317 imóveis em 1218 cidades
-Detran-BA: 1028 lotes
-Superbid: 12303 lotes abertos de 12413 coletados
-Leilão Imóvel: 894
-Mega Leilões: 1045
-Agenda: 88 leilões de Detran, 11203 lotes
-Não localizados no mapa: 60 [(('Sem Informação', 'SI'), 22), (('', 'NA'), 7), (('Não Informando', 'NI'), 6), (('BOM JESUS \u200b\u200bDA LAPA', 'BA'), 5), (('PANALTINA', 'GO'), 4)]
-OK: /home/claude/kit/radar-leiloes.html (2646 KB) · 37587 lotes · dados de 11/11/2026
+Caixa: 22317 imóveis em 1219 cidades
+Detran-BA: 1024 lotes
+Superbid: 12855 lotes abertos de 12936 coletados
+Leilão Imóvel: 940
+Mega Leilões: 1035
+Agenda: 95 leilões de Detran, 11634 lotes
+Não localizados no mapa: 53 [(('Sem Informação', 'SI'), 21), (('Não Informando', 'NI'), 7), (('', 'NA'), 6), (('BOM JESUS \u200b\u200bDA LAPA', 'BA'), 5), (('Rio De Janeiro', 'NA'), 3)]
+OK: /home/claude/radar-leiloes/radar-leiloes.html (2686 KB) · 38171 lotes · dados de 11/11/2026

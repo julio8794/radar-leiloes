@@ -10,7 +10,7 @@ Cidade: GUAPORE
 Cidade: CRUZEIRO DO SUL
 Cidade: NOVA BASSANO
 Edital EMAV: 0040/2026 (conforme Portarias nº 249 e 234/2022)
-Veículos/Sucatas: 437
+Veículos/Sucatas: 436
 Data do Leilão: 25/11/2026 10:00:00
 Local do Leilão: https://www.ferronatoleiloes.com.br/
 Leiloeiro Oficial: LEANDRO FERRONATO

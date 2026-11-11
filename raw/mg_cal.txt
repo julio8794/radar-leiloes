@@ -133,6 +133,16 @@ Quantidade de Veículos: 28.
 Pátio: Boa Vista Remoção e Guarda de Veículos Ltda.
 Visita ao Pátio: 04 a 05/01/2027 - 09h às 12h e 13h às 16h.
 
+TAIOBEIRAS
+
+Edital nº 1985/2026
+
+Data: 12/01/2027.
+Hora: 08h do dia 12/01/2027 às 18h do dia 12/01/2027.
+Quantidade de Veículos: 40.
+Pátio: Auto Vale Resgate.
+Visita ao Pátio: 05 a 06/01/2027 - 09h às 12h e 13h às 16h.
+
 MACHADO
 
 Edital nº 1946/2026
@@ -313,6 +323,26 @@ Quantidade de Veículos: 42.
 Pátio: Garagem e Reboque Garra de Tigre.
 Visita ao Pátio: 03 a 04/12/2026 - 09h às 12h e 13h às 16h.
 
+ARCEBURGO
+
+Edital nº 1969/2026
+
+Data: 08 a 10/12/2026.
+Hora: 08h do dia 08/12/2026 às 18h do dia 10/12/2026.
+Quantidade de Veículos: 80.
+Pátio: Auto Socorro Arceburgo.
+Visita ao Pátio: 07/12/2026 - 08h às 12h e 14h às 18h.
+
+ANDRADAS
+
+Edital nº 1963/2026
+
+Data: 07 a 08/12/2026.
+Hora: 08:30h do dia 07/12/2026 às 17h do dia 08/12/2026.
+Quantidade de Veículos: 37.
+Pátio: JL Guincho.
+Visita ao Pátio: 23/11/2026 - 09h às 12h e 13h às 17h.
+
 JOÃO MONLEVADE
 
 Edital nº 1763/2026
@@ -383,6 +413,16 @@ Quantidade de Veículos: 43.
 Pátio: Auto Socorro São Jose Ltda.
 Visita ao Pátio: 25 a 26/11/2026 - 09h às 12h e 13h às 16h.
 
+CARANGOLA
+
+Edital nº 1830/2026
+
+Data: 30/11 a 01/12/2026.
+Hora: 08h do dia 30/11/2026 às 17h do dia 01/12/2026.
+Quantidade de Veículos: 58.
+Pátio: Whochiton Jose de Lima Ltda.
+Visita ao Pátio: 26 a 27/11/2026 - 08h às 12:01h e 12:02h às 17h.
+
 ITABIRITO
 
 Edital nº 1874/2026
@@ -433,6 +473,16 @@ Quantidade de Veículos: 206.
 Pátio: Gran Parking.
 Visita ao Pátio: 26 a 27/11/2026 - 08h às 17:55h.
 
+ANDRADAS
+
+Edital nº 1962/2026
+
+Data: 27 a 30/11/2026.
+Hora: 08h do dia 27/11/2026 às 18h do dia 30/11/2026.
+Quantidade de Veículos: 22.
+Pátio: Auto Guincho Baiano.
+Visita ao Pátio: 23/11/2026 - 09h às 17h.
+
 CARMÓPOLIS DE MINAS
 
 Edital nº 1811/2026
@@ -482,6 +532,16 @@ Hora: 08h do dia 26/11/2026 às 18h do dia 26/11/2026.
 Quantidade de Veículos: 33.
 Pátio: Itaúna City.
 Visita ao Pátio: 23 a 24/11/2026 - 09h às 12h e 13h às 16h.
+
+LAJINHA
+
+Edital nº 1737/2026
+
+Data: 26 a 27/11/2026.
+Hora: 09h do dia 26/11/2026 às 17h do dia 27/11/2026.
+Quantidade de Veículos: 95.
+Pátio: Lajinha Ltda-ME.
+Visita ao Pátio: 23 a 25/11/2026 - 09h às 12h e 14h às 17h.
 
 UBERLÂNDIA
 
