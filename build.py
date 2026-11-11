@@ -34,7 +34,7 @@ MUN, NAME = {}, {}
 for l in open(BASE('municipios.txt'), encoding='utf-8'):
     n, uf, la, lo = l.rstrip('\n').split('|')
     MUN[(norm(n), uf)] = (float(la), float(lo)); NAME[(norm(n), uf)] = n
-ALIAS = {'EMBU': 'EMBU DAS ARTES', 'MOJI MIRIM': 'MOGI MIRIM', 'MOJI DAS CRUZES': 'MOGI DAS CRUZES', 'SANTA ISABEL DO PARA': 'SANTA IZABEL DO PARA', 'ASSU': 'ACU'}
+ALIAS = {'EMBU': 'EMBU DAS ARTES', 'MOJI MIRIM': 'MOGI MIRIM', 'MOJI DAS CRUZES': 'MOGI DAS CRUZES', 'SANTA ISABEL DO PARA': 'SANTA IZABEL DO PARA', 'ASSU': 'ACU', 'TIMAO': 'TIMON', 'IGASSU': 'IGARASSU'}
 CAP = {'AC':'Rio Branco','AL':'Maceió','AM':'Manaus','AP':'Macapá','BA':'Salvador','CE':'Fortaleza','DF':'Brasília','ES':'Vitória','GO':'Goiânia','MA':'São Luís','MG':'Belo Horizonte','MS':'Campo Grande','MT':'Cuiabá','PA':'Belém','PB':'João Pessoa','PE':'Recife','PI':'Teresina','PR':'Curitiba','RJ':'Rio de Janeiro','RN':'Natal','RO':'Porto Velho','RR':'Boa Vista','RS':'Porto Alegre','SC':'Florianópolis','SE':'Aracaju','SP':'São Paulo','TO':'Palmas'}
 miss = Counter()
 def key(city, uf):
@@ -71,10 +71,11 @@ for l in lines('caixa.txt'):
     c = l.split('|')
     if len(c) < 12: continue
     id_, uf, city, bairro, tipo, mod, preco, aval, desc, area, qto, fin = c[:12]
+    addr = clean(c[12], 110) if len(c) > 12 else ''
     g = geo(city, uf)
     if not g: g = MUN[key(CAP[uf], uf)]; city = CAP[uf]
     cn = canon(city, uf)
-    cx_rows.append('|'.join([id_, uf, cn, bairro, tipo, mod, preco, aval, desc, area, qto, fin, f'{g[0]:.3f}', f'{g[1]:.3f}']))
+    cx_rows.append('|'.join([id_, uf, cn, bairro, tipo, mod, preco, aval, desc, area, qto, fin, f'{g[0]:.3f}', f'{g[1]:.3f}', addr]))
     a = agg[(cn, uf, round(g[0], 3), round(g[1], 3))]; a[0] += 1; a[1] += int(desc or 0); a[2] = min(a[2], int(preco or 0) or a[2])
     cx_uf[uf] += 1; cx_mod[MODN.get(mod, mod)] += 1
 cities = ['|'.join(map(str, [k[0], k[1], k[2], k[3], v[0], round(v[1] / v[0]), round(v[2] / 1000) if v[2] < 10**12 else 0])) for k, v in sorted(agg.items(), key=lambda x: -x[1][0])]
@@ -95,6 +96,7 @@ nb_rows = []
 for c in nb_raw:
     if len(c) < 7: continue
     lid, title, cat, addr, price, dt, slug = c[:7]
+    foto = c[7] if len(c) > 7 else ''
     title = re.sub(r'^(VE[IÍ]CULO CONSERVADO|SUCATA( APROVEIT[AÁ]VEL)?( COM MOTOR INSERV[IÍ]VEL)?|SUCATA INSERV[IÍ]VEL)\s+', '', title.strip(), flags=re.I)
     if not title.strip():
         s = re.sub(r'^\d+-\d+-(veiculo-conservado|sucata-aproveitavel(-com-motor-inservivel)?|sucata[a-z-]*?)-', '', slug)
@@ -106,7 +108,7 @@ for c in nb_raw:
     if not city: city = by_auc[auc].most_common(1)[0][0] if by_auc[auc] else FIXBA.get(auc, 'Salvador')
     g = geo(city, 'BA') or MUN[key('Salvador', 'BA')]
     street = addr.split(',')[0].strip() if ',' in addr else ''
-    nb_rows.append('|'.join([lid, title, cat, canon(city, 'BA'), street, price, dt, f'{g[0]:.3f}', f'{g[1]:.3f}', slug]))
+    nb_rows.append('|'.join([lid, title, cat, canon(city, 'BA'), street, price, dt, f'{g[0]:.3f}', f'{g[1]:.3f}', slug, foto]))
 log('Detran-BA:', len(nb_rows), 'lotes')
 
 # ======================= LOTES GERAIS =======================
@@ -132,7 +134,7 @@ for l in lines('superbid.txt'):
     g = ('moto' if cat.startswith('Moto') or sub.startswith('Moto') else 'car') if slug == 'carros-motos' else SBG.get(slug, 'ind')
     try: p = str(round(float(price))) if price and float(price) > 0 else ''
     except: p = ''
-    add('sb' + id_, 'superbid', g, clean(cat, 40), clean(sub, 40), clean(title, 80), p, '', '', city, uf, la, lo, end, clean(store, 30), bids or 0, clean(modal or 'Leilão online', 30), '')
+    add('sb' + id_, 'superbid', g, clean(cat, 40), clean(sub, 40), clean(title, 80), p, '', '', city, uf, la, lo, end, clean(store, 30), bids or 0, clean(modal or 'Leilão online', 30), '', c[14] if len(c) > 14 else '', '')
 log('Superbid:', len(rows), 'lotes abertos de', sum(sbt.values()), 'coletados'); n0 = len(rows)
 
 TIP = re.compile(r'residencial-(apartamento|casa-condominio|casa|terreno|sobrado|kitnet|flat|cobertura|lote)|comercial-(sala|loja|galpao|predio|terreno|imovel)|rural-|industrial', re.I)
@@ -153,7 +155,7 @@ for l in lines('leilaoimovel.txt'):
     t = re.sub(r'\s+(Emgea|Caixa|Santander|Bradesco|Itau|Itaú)$', '', t)
     tg = [x for x in tags.split('/') if x]
     add('li' + id_, 'li', 'imo', 'Imóveis', clean(tg[0] if tg else 'Leilão', 30), clean(t + (' · ' + bairro.title() if bairro else ''), 80), money(price), money(aval), desc or '',
-        canon(city, uf), uf, f'{g[0]:.3f}', f'{g[1]:.3f}', e, clean(tg[1] if len(tg) > 1 else 'Leiloeiro parceiro', 30), '', clean(tg[0] if tg else 'Leilão', 30), href)
+        canon(city, uf), uf, f'{g[0]:.3f}', f'{g[1]:.3f}', e, clean(tg[1] if len(tg) > 1 else 'Leiloeiro parceiro', 30), '', clean(tg[0] if tg else 'Leilão', 30), href, c[11] if len(c) > 11 else '', clean(c[12], 110) if len(c) > 12 else '')
 log('Leilão Imóvel:', len(rows) - n0); n0 = len(rows)
 
 CATN = {'imo':'Imóveis','car':'Carros','moto':'Motos','cam':'Caminhões','maq':'Máquinas','ind':'Industrial','tec':'Tecnologia','casa':'Bens de consumo','div':'Diversos'}
@@ -178,7 +180,7 @@ for l in lines('mega.txt'):
     aval = pf if pf and pl and int(pl) < int(pf) else ''
     d = str(round(100 - int(pl) * 100 / int(pf))) if aval else ''
     add('mg' + id_, 'mega', g, CATN[g], clean(cat.replace('-', ' ').capitalize(), 30), clean(title, 80), pl if aval else pf, aval, d, canon(city, uf), uf,
-        f'{g_[0]:.3f}', f'{g_[1]:.3f}', e, 'Mega Leilões', '', tipo or 'Leilão', href)
+        f'{g_[0]:.3f}', f'{g_[1]:.3f}', e, 'Mega Leilões', '', tipo or 'Leilão', href, c[11] if len(c) > 11 else '', '')
 log('Mega Leilões:', len(rows) - n0)
 
 # ======================= AGENDA DETRANS =======================

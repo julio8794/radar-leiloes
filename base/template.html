@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Radar Nacional de Leilões</title>
 <meta name="theme-color" content="#14284B">
+<meta name="referrer" content="no-referrer">
 <style>
 :root{--bg:#f3f2ee;--card:#fff;--ink:#1a1a18;--mut:#6b6a63;--line:#e3e1d8;--acc:#0f6e56;--acc2:#e3f3ec;--hot:#d1492a;--land:#ffffff;--sea:#d9e8ee;--r:14px;--hdr:112px;
 --g-imo:#0f8a6a;--g-car:#2f6fd0;--g-moto:#7b4fd6;--g-cam:#1b8fa8;--g-maq:#c07a12;--g-ind:#6b6f78;--g-suc:#8a5a3c;--g-casa:#c2457a;--g-tec:#4a54c9;--g-div:#9a7b0a;--sh:0 1px 2px rgba(0,0,0,.05),0 4px 14px rgba(0,0,0,.05)}
@@ -246,6 +247,74 @@ nav.tabs{background:rgba(255,255,255,.08)}nav.tabs button{color:#C9D5EA}nav.tabs
 
 @media (min-width:901px){nav.tabs .ti{display:none}nav.tabs button{padding:7px 11px}.near .ci{min-width:150px;flex:1.2}.sbox{gap:6px}.sbox .q{flex:1.2}#uf{width:86px}.near select{width:84px}}
 @media (min-width:901px) and (max-width:1250px){.brand small{display:none}.sbox .q input::placeholder{color:transparent}}
+
+/* ================= Visual limpo + fotos ================= */
+.locbtn{flex:none;display:flex;align-items:center;gap:6px;max-width:220px;border:0;border-radius:10px;padding:9px 12px;background:rgba(255,255,255,.1);color:#fff;font-size:13.5px;font-weight:500;white-space:nowrap}
+.locbtn span{overflow:hidden;text-overflow:ellipsis}.locbtn svg{flex:none;color:var(--gold)}.locbtn.set{background:var(--gold);color:var(--navy)}.locbtn.set svg{color:var(--navy)}
+.locbtn:hover{background:rgba(255,255,255,.18)}.locbtn.set:hover{background:#ffc928}
+.locpop{position:fixed;inset:0;z-index:70;background:rgba(10,20,40,.45);display:flex;align-items:flex-start;justify-content:center;padding-top:72px}
+.locpop[hidden]{display:none}
+.lpbox{background:var(--card);color:var(--ink);width:min(420px,calc(100% - 24px));border-radius:16px;padding:16px 18px 18px;box-shadow:0 20px 50px rgba(0,0,0,.25);border-top:5px solid var(--gold)}
+.lph{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}.lph h3{margin:0;font-size:20px}
+.lpbox label{display:block;font-size:12.5px;color:var(--mut);margin:12px 0 5px}
+.lpbox .near{display:flex;gap:6px}.lpbox .near .ci{flex:1;position:relative}.lpbox .near .ci input{width:100%;padding:11px 12px 11px 32px;font-size:15px}
+.lpbox .near .ci:before{content:"📍";position:absolute;left:10px;top:50%;transform:translateY(-50%);font-size:13px}
+.lpbox .near select{display:none}.lpbox .near button{width:42px;border:1px solid var(--line);background:var(--bg);color:var(--mut);border-radius:10px}
+.lpbox #uf{width:100%;padding:10px}
+.rads{display:flex;gap:6px;margin-top:8px}.rads button{flex:1;border:1px solid var(--line);background:var(--card);border-radius:9px;padding:8px 0;font-size:13px;color:var(--ink)}
+.rads button.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+@media (prefers-color-scheme:dark){.rads button.on{background:var(--gold);color:var(--navy);border-color:var(--gold)}}
+.lpbox .row2{margin-top:14px}.lpbox .row2 .btn{margin-top:0}
+/* o que aparece em cada página */
+body[data-v=opo] .sbox .q,body[data-v=agenda] .sbox .q,body[data-v=calc] .sbox .q,body[data-v=fontes] .sbox .q{visibility:hidden}
+body:not([data-v=mapa]) #chips{display:none}
+/* cards com foto */
+.orow{grid-auto-columns:minmax(232px,256px)}
+.oc{padding:0;overflow:hidden;gap:0;min-height:0}
+.oc .ph{position:relative;aspect-ratio:16/10;background:linear-gradient(135deg,color-mix(in srgb,var(--c) 22%,var(--card)),color-mix(in srgb,var(--c) 8%,var(--card)));display:grid;place-items:center;overflow:hidden}
+.ph img,.sph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;background:var(--card)}
+.phic{font-style:normal;font-size:38px;opacity:.55;filter:grayscale(.2)}
+.oc .ph .ptag{position:absolute;left:0;bottom:10px;font-size:17px;box-shadow:0 2px 8px rgba(0,0,0,.18)}
+.oc .ph .off{position:absolute;left:8px;top:8px;background:var(--ok);color:#fff;font-family:var(--disp);font-weight:700;font-size:13px;padding:3px 7px;border-radius:6px}
+.oc .ph .off.gray{background:rgba(20,40,75,.75);font-family:system-ui,sans-serif;font-weight:600;font-size:11.5px}
+.oc .ofav{top:6px;right:6px;background:rgba(255,255,255,.92);color:#5E6B7E;box-shadow:0 1px 4px rgba(0,0,0,.15)}.oc .ofav.on{color:var(--hot)}.oc .ofav:hover{background:#fff}
+.oc .bd{padding:10px 12px 11px;display:flex;flex-direction:column;gap:6px}
+.oc .t{font-size:13.5px;min-height:2.6em}
+.oc .ft{font-size:12px}
+/* lista com miniatura */
+.lot .ic{position:relative;overflow:hidden;width:56px;height:56px;border-radius:10px}.lot .ic img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+/* detalhe */
+.sph{position:relative;margin:-18px -18px 14px;aspect-ratio:16/9;max-height:280px;width:calc(100% + 36px);background:linear-gradient(135deg,color-mix(in srgb,var(--c) 22%,var(--card)),var(--card));display:grid;place-items:center;overflow:hidden;border-radius:16px 16px 0 0}
+.sheet .box{position:relative}.sheet .box>.close{position:absolute;right:12px;top:12px;z-index:2;background:rgba(255,255,255,.92);box-shadow:0 1px 4px rgba(0,0,0,.15);color:#17233A}
+.acts{display:flex;gap:6px;margin-top:8px}.acts button{flex:1;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:10px 4px;font-size:13px;color:var(--ink);white-space:nowrap}
+.acts button:hover{border-color:var(--navy2)}
+.more-d{margin-top:10px;border:1px solid var(--line);border-radius:12px;padding:0 12px}.more-d summary{cursor:pointer;padding:11px 0;font-weight:600;font-size:13.5px}.more-d .grid2{margin:0 0 12px}
+.ofoot{margin:28px 0 8px;text-align:center;font-size:12.5px;color:var(--mut)}.ofoot button{border:0;background:none;padding:0;color:var(--ink);text-decoration:underline;font-size:12.5px}
+/* ---------- celular: menos coisa na tela ---------- */
+@media (max-width:900px){
+ .hrow{display:grid;grid-template-columns:1fr auto;gap:8px;padding:9px 12px 8px}
+ .brand{font-size:17px}.brand i{width:28px;height:28px}
+ .sbox{grid-column:1/-1;grid-row:2;flex-wrap:nowrap}
+ .sbox .q{flex:1}
+ .locbtn{grid-column:2;grid-row:1;max-width:52vw;padding:7px 10px;font-size:13px}
+ body[data-v=opo] .sbox,body[data-v=agenda] .sbox,body[data-v=calc] .sbox,body[data-v=fontes] .sbox{display:none}
+ .chips{padding:0 12px 8px}
+ .kpis{display:none}
+ .shead{gap:6px}
+ .hero{padding:18px 16px 16px}.hero h1{font-size:25px}.hero p{font-size:13px;margin:6px 0 12px}
+ .hq input{padding:12px 13px;font-size:15px}
+ .quick{flex-wrap:nowrap;overflow-x:auto;margin:12px -16px 0;padding:0 16px;scrollbar-width:none}.quick::-webkit-scrollbar{display:none}.quick button{flex:none}
+ .ticker{margin-top:10px}.ticker>b{padding:0 10px;font-size:13px}.tkin{padding:9px 0}
+ .ohero{margin-top:16px}.ohero h2{font-size:20px}
+ .osec{margin-top:16px}.osh h3{font-size:16px}.osh p{display:none}
+ .orow{grid-auto-columns:68vw;gap:10px;margin:0 -12px;padding:2px 12px 8px}
+ .locpop{align-items:flex-end;padding:0}.lpbox{width:100%;border-radius:18px 18px 0 0;padding-bottom:24px}
+ .sph{max-height:220px}
+ .bnav button{font-size:11px}.bnav .ti svg{width:22px;height:22px}
+ .mini,.scalebar{display:none!important}.where{font-size:11.5px;padding:5px 8px;max-width:calc(100% - 70px)}
+ .oc .ph{aspect-ratio:16/9}.orow{grid-auto-columns:64vw}
+}
+.bnav .ti{display:grid;place-items:center}
 </style>
 
 </head>
@@ -255,15 +324,23 @@ nav.tabs{background:rgba(255,255,255,.08)}nav.tabs button{color:#C9D5EA}nav.tabs
     <div class="brand"><i><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><g fill="currentColor"><g transform="rotate(-40 12 12)"><rect x="5" y="3.5" width="12" height="6" rx="1.6"/><rect x="10" y="9" width="2.6" height="10" rx="1.3"/></g><rect x="3" y="19.5" width="10" height="2.5" rx="1.2"/></g></svg></i><div>Radar de Leilões<small id="upd"></small></div></div>
     <div class="sbox">
       <div class="q"><input id="q" type="search" placeholder="Buscar: Hilux, CG 160, apartamento, empilhadeira…" autocomplete="off"></div>
-      <div class="near"><div class="ci"><input id="nearCity" list="placesList" placeholder="Minha cidade" autocomplete="off"></div><datalist id="placesList"></datalist><select id="nearR" aria-label="Raio"><option value="50">50 km</option><option value="100" selected>100 km</option><option value="200">200 km</option><option value="400">400 km</option></select><button id="nearX" title="Limpar cidade" aria-label="Limpar cidade">✕</button></div>
-      <select id="uf" aria-label="Estado"></select>
+      
     </div>
+    <button class="locbtn" id="locBtn" type="button" aria-haspopup="dialog"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg><span id="locTxt">Todo o Brasil</span></button>
     <nav class="tabs" id="tabs">
       <button data-v="opo"><span class="ti">🔥</span>Início</button><button data-v="mapa"><span class="ti">🗺</span>Explorar</button><button data-v="favs"><span class="ti">☆</span>Favoritos</button><button data-v="calc"><span class="ti">🧮</span>Calculadora</button><button data-v="agenda"><span class="ti">📅</span>Agenda</button><button data-v="fontes"><span class="ti">ⓘ</span>Fontes</button>
     </nav>
   </div>
   <div class="chips" id="chips"></div>
 </header>
+<div class="locpop" id="locPop" hidden role="dialog" aria-label="Escolher local"><div class="lpbox">
+  <div class="lph"><h3>Onde você quer arrematar?</h3><button class="close" id="locX" aria-label="Fechar">✕</button></div>
+  <label for="nearCity">Sua cidade</label><div class="near"><div class="ci"><input id="nearCity" list="placesList" placeholder="Minha cidade" autocomplete="off"></div><datalist id="placesList"></datalist><select id="nearR" aria-label="Raio"><option value="50">50 km</option><option value="100" selected>100 km</option><option value="200">200 km</option><option value="400">400 km</option></select><button id="nearX" title="Limpar cidade" aria-label="Limpar cidade">✕</button></div>
+      
+  <div class="rads" id="rads"><button data-r="50">50 km</button><button data-r="100">100 km</button><button data-r="200">200 km</button><button data-r="400">400 km</button></div>
+  <label for="uf">Ou um estado inteiro</label><select id="uf" aria-label="Estado"></select>
+  <div class="row2"><button class="btn g" id="locClr" type="button">Ver todo o Brasil</button><button class="btn" id="locOk" type="button">Mostrar lotes</button></div>
+</div></div>
 <main>
   <section class="view on" id="v-mapa">
     <div class="explore">
@@ -342,6 +419,7 @@ nav.tabs{background:rgba(255,255,255,.08)}nav.tabs button{color:#C9D5EA}nav.tabs
     <div class="ohero"><h2>Seleções do dia</h2>
       <div class="seg" id="opoSeg"><button data-s="" class="on">Tudo</button><button data-s="imo">Imóveis</button><button data-s="veic">Veículos</button><button data-s="out">Máquinas e bens</button></div></div>
     <div id="opoBody"></div>
+    <p class="ofoot">Dados públicos de Caixa, Detrans, Superbid, Mega Leilões e Leilão Imóvel. <button type="button" data-go="fontes">Fontes e como funciona</button> · <button type="button" data-go="calc">Calculadora de lucro</button></p>
   </div></section>
   <section class="view" id="v-agenda"><div class="page">
     <div class="agh"><div><h2 style="margin:0 0 4px">Agenda de leilões de Detrans</h2><p class="mut" id="agSub" style="margin:0"></p></div>
@@ -361,7 +439,7 @@ nav.tabs{background:rgba(255,255,255,.08)}nav.tabs button{color:#C9D5EA}nav.tabs
     </div></div>
   </section>
 </main>
-<nav class="bnav" id="bnav"><button data-v="opo"><span class="ti">🔥</span>Início</button><button data-v="mapa"><span class="ti">🗺</span>Explorar</button><button data-v="favs"><span class="ti">☆</span>Favoritos</button><button data-v="calc"><span class="ti">🧮</span>Calcular</button><button data-v="agenda"><span class="ti">📅</span>Agenda</button><button data-v="fontes"><span class="ti">ⓘ</span>Fontes</button></nav>
+<nav class="bnav" id="bnav"><button data-v="opo"><span class="ti"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11.5 12 4l9 7.5V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg></span>Início</button><button data-v="mapa"><span class="ti"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2zM9 4v14M15 6v14"/></svg></span>Explorar</button><button data-v="favs"><span class="ti"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/></svg></span>Favoritos</button><button data-v="calc"><span class="ti"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M8 7h8M8 12h2M12 12h2M16 12h0M8 16h2M12 16h2M16 16h0"/></svg></span>Calcular</button><button data-v="agenda"><span class="ti"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 10h16M9 3v4M15 3v4"/></svg></span>Agenda</button></nav>
 
 <div class="toast" id="toast" role="status"></div>
 <div class="sheet" id="sheet"><div class="box" id="sheetBox"></div></div>
@@ -407,7 +485,7 @@ const lots=[];
 CAIXA.trim().split('\n').forEach(l=>{const c=l.split('|');const id=c[0];
   lots.push({id:'cx'+id,src:'caixa',g:'imo',cat:'Imóveis Caixa',sub:c[4],title:c[4]+(c[3]?' · '+c[3].replace(/\w\S*/g,w=>w[0]+w.slice(1).toLowerCase()):''),
    price:+c[6],aval:+c[7],desc:+c[8],area:c[9]?+c[9]:null,qto:c[10]?+c[10]:null,fin:c[11]==='1',city:c[2],uf:c[1],lat:+c[12],lon:+c[13],
-   mod:MOD[c[5]]||c[5],seller:'Caixa Econômica Federal',end:null,bids:null,link:'https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel='+id});});
+   mod:MOD[c[5]]||c[5],seller:'Caixa Econômica Federal',end:null,bids:null,addr:c[14]||'',img:'https://venda-imoveis.caixa.gov.br/fotos/F'+id+'21.jpg',link:'https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnimovel='+id});});
 const slug=t=>norm(t).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const LBASE={superbid:'',li:'https://www.leilaoimovel.com.br',mega:'https://www.megaleiloes.com.br'};
 const seenSB=new Set();
@@ -415,7 +493,7 @@ LOTS.split('\n').forEach(r=>{const c=r.split('|');if(c.length<18)return;
   const t=c[5];const yrM=c[2]!=='imo'?t.match(/\b(19[5-9]\d|20[0-2]\d)\b/g):null;
   lots.push({id:c[0],src:c[1],g:c[2],cat:c[3],sub:c[4],title:t,price:+c[6]||null,aval:+c[7]||null,desc:c[8]!==''?+c[8]:null,area:null,qto:null,ano:yrM?+yrM[yrM.length-1]:null,
    city:c[9],uf:c[10],lat:+c[11],lon:+c[12],end:c[13]?new Date(c[13].replace(' ','T')+':00-03:00'):null,seller:c[14],bids:c[15]!==''?+c[15]:null,mod:c[16],
-   link:c[1]==='superbid'?'https://exchange.superbid.net/oferta/'+slug(t)+'-'+c[0].slice(2):LBASE[c[1]]+c[17]});
+   link:c[1]==='superbid'?'https://exchange.superbid.net/oferta/'+slug(t)+'-'+c[0].slice(2):LBASE[c[1]]+c[17],img:c[18]||'',addr:c[19]||''});
   if(c[1]==='superbid')seenSB.add(c[0]);});
 const MOTO_RE=/\b(CG|BIZ|YBR|XRE|NXR|BROS|TITAN|FAN|PCX|TWISTER|FAZER|CBX?|XTZ|XLR?|POP|SHINERAY|SCOOTER|MOTO|MOTOCICLETA|MOBYLETE|MOBILETE|DAFRA|SUNDOWN|INTRUDER|CRYPTON|NINJA|HARLEY|VESPA|LEAD|FACTOR|CROSSER|QUADRICICLO|TRICICLO|DK150|JET)\b/i;
 DETRANBA.trim().split('\n').forEach(r=>{const c=r.split('|');if(c.length<10)return;const t=c[1].replace(/\s+/g,' ').trim();
@@ -423,7 +501,7 @@ DETRANBA.trim().split('\n').forEach(r=>{const c=r.split('|');if(c.length<10)retu
   const suc=c[2].startsWith('S');const y=t.match(/(19[5-9]\d|20[0-2]\d)\/(19[5-9]\d|20[0-2]\d)/);
   lots.push({id:'nb'+c[0],src:'detran',g:moto?'moto':'car',cat:moto?'Motos':'Carros',sub:suc?(c[2]==='SM'?'Sucata aproveitável (motor inservível)':'Sucata aproveitável'):'Veículo conservado',
    title:t.replace(/\s*-\s*(19|20)\d\d\/(19|20)\d\d$/,''),price:+c[5]||null,aval:null,desc:null,area:null,qto:null,ano:y?+y[2]:null,
-   city:c[3],uf:'BA',lat:+c[7],lon:+c[8],addr:c[4],end:c[6]?new Date(c[6]+'T09:00:00-03:00'):null,mod:'Leilão Detran-BA (online)',seller:'DETRAN-BA · Nordeste Leilões',bids:null,
+   city:c[3],uf:'BA',lat:+c[7],lon:+c[8],addr:c[4],end:c[6]?new Date(c[6]+'T09:00:00-03:00'):null,mod:'Leilão Detran-BA (online)',seller:'DETRAN-BA · Nordeste Leilões',bids:null,img:c[10]?'https://nordesteleiloes-files.s3.amazonaws.com/lotes/fotos/'+c[10]:'',
    link:'https://www.nordesteleiloes.com.br/lotes/'+c[9]});});
 // Lotes já encerrados saem da lista e do mapa
 const NOW=Date.now();let HIDDEN=0;for(let i=lots.length-1;i>=0;i--){const e=lots[i].end;if(e&&+e<NOW-36e5){lots.splice(i,1);HIDDEN++;}}
@@ -462,7 +540,7 @@ $('chips').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;st.g=b.dat
 let _qt;$('q').oninput=e=>{clearTimeout(_qt);const v=e.target.value;_qt=setTimeout(()=>{st.q=v;st.page=40;renderAll();},v.length<3?350:180);};
 $('uf').onchange=e=>{selectUF(e.target.value);};
 $('tabs').onclick=e=>{const b=e.target.closest('button');if(b)show(b.dataset.v);};
-function show(v){document.querySelectorAll('#tabs button,#bnav button').forEach(x=>x.classList.toggle('on',x.dataset.v===v));document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id==='v-'+v));if(v==='favs')renderFavs();if(v==='opo')renderOpo();if(v==='agenda')renderAgenda();if(v==='mapa')requestAnimationFrame(apply);}
+function show(v){document.body.dataset.v=v;document.querySelectorAll('#tabs button,#bnav button').forEach(x=>x.classList.toggle('on',x.dataset.v===v));document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id==='v-'+v));if(v==='favs')renderFavs();if(v==='opo')renderOpo();if(v==='agenda')renderAgenda();if(v==='mapa')requestAnimationFrame(apply);}
 $('bnav').onclick=e=>{const b=e.target.closest('button');if(b)show(b.dataset.v);};
 $('legend').innerHTML=GROUPS.map(g=>`<span><i style="background:${g.c}"></i>${g.s}</span>`).join('');
 
@@ -572,7 +650,7 @@ function renderCity(){const cp=$('cityPanel');if(!st.city){cp.classList.remove('
 
 // ---------- Listas ----------
 function lotRow(l){const g=G[l.g];const sub=[l.ano?String(l.ano):'',l.city&&l.city+(l.uf?'/'+l.uf:''),l.src==='caixa'?l.mod:l.cat,l.end?endTxt(l.end):''].filter(Boolean).join(' · ');
- return `<div class="lot" data-id="${l.id}"><div class="ic" style="background:${g.c}">${g.ic}</div><div style="min-width:0"><div class="t">${esc(l.title)}</div><div class="m">${esc(sub)}</div></div><div class="p"><b>${l.price?brlK(l.price):'Consultar'}</b>${l.desc!=null?`<span class="tag ${l.desc>=50?'hot':''}">-${l.desc}%</span>`:isSuc(l)?'<span class="tag gray">sucata</span>':l.bids?`<span class="mut">${l.bids} lance${l.bids>1?'s':''}</span>`:''}</div></div>`;}
+ return `<div class="lot" data-id="${l.id}"><div class="ic" style="background:${g.c}">${g.ic}${l.img?`<img data-f loading="lazy" decoding="async" src="${esc(l.img)}" alt="">`:''}</div><div style="min-width:0"><div class="t">${esc(l.title)}</div><div class="m">${esc(sub)}</div></div><div class="p"><b>${l.price?brlK(l.price):'Consultar'}</b>${l.desc!=null?`<span class="tag ${l.desc>=50?'hot':''}">-${l.desc}%</span>`:isSuc(l)?'<span class="tag gray">sucata</span>':l.bids?`<span class="mut">${l.bids} lance${l.bids>1?'s':''}</span>`:''}</div></div>`;}
 function endTxt(d){const h=(d-Date.now())/36e5;if(h<0)return 'encerrado';if(h<24)return 'encerra em '+Math.max(1,Math.round(h))+'h';return 'até '+d.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'});}
 function bindRows(el){el.querySelectorAll('.lot').forEach(r=>r.onclick=()=>openLot(BYID.get(r.dataset.id)));}
 
@@ -612,16 +690,18 @@ function renderKPIs(){const L=base();const agg=aggActive();const cx=agg?(st.uf||
  if(ds==null){const wk=L.filter(l=>l.end&&l.end-Date.now()>0&&l.end-Date.now()<7*864e5).length;$('k4').textContent=wk.toLocaleString('pt-BR');$('k4l').textContent='encerram em 7d';}else{$('k4').textContent=ds+'%';$('k4l').textContent='desconto médio';}}
 function renderFilters(){const n=(st.max!==Infinity)+(!!st.desc)+(!!st.src)+(!!st.suc);$('fbtn').classList.toggle('act',n>0);$('fbtn').textContent='⚙ Filtros'+(n?' ('+n+')':'');
  const act=[...new Set([st.q&&'busca',st.g&&G[st.g].n,st.uf&&st.uf,st.near&&st.near.n+' ('+st.near.r+' km)',st.city&&st.city.city].filter(Boolean))];$('fInfo').textContent=act.length?'Ativo: '+act.join(' · '):'';}
-function renderAll(){renderChips();renderKPIs();renderPins();renderCity();renderList();renderFilters();if($('v-agenda').classList.contains('on'))renderAgenda();if($('v-opo').classList.contains('on'))renderOpo();}
+function renderAll(){if(typeof locLabel==='function'&&$('locTxt'))locLabel();renderChips();renderKPIs();renderPins();renderCity();renderList();renderFilters();if($('v-agenda').classList.contains('on'))renderAgenda();if($('v-opo').classList.contains('on'))renderOpo();}
 
 // ---------- Detalhe ----------
 function openLot(l){if(!l)return;{const s=store.get('rl_seen',[]).filter(x=>x!==l.id);s.unshift(l.id);store.set('rl_seen',s.slice(0,20));}const g=G[l.g];const fav=favs.has(l.id);
  const facts=[['Local',`${l.addr?l.addr+', ':''}${l.city}${l.uf?' / '+l.uf:''}`],['Modalidade',l.mod],l.aval?['Avaliação',brl(l.aval)]:null,l.desc!=null?['Desconto',l.desc+'%']:null,l.area?['Área privativa',l.area+' m²']:null,l.area&&l.price?['Preço por m²',brl(l.price/l.area)]:null,l.qto?['Quartos',l.qto]:null,l.ano?['Ano',l.ano]:null,l.src==='caixa'?['Aceita financiamento',l.fin?'Sim':'Não']:null,l.end?['Encerramento',l.end.toLocaleString('pt-BR',{dateStyle:'short',timeStyle:'short'})]:null,l.bids!=null&&l.src!=='caixa'?['Lances até a coleta',l.bids]:null,['Vendedor',l.seller],['Categoria',l.cat+(l.sub&&l.sub!==l.cat?' › '+l.sub:'')]].filter(Boolean);
- $('sheetBox').innerHTML=`<button class="close" id="sx" aria-label="Fechar">✕</button><span class="tag" style="background:${g.c};color:#fff">${g.n}</span> <span class="tag gray">${SRCN[l.src]}</span>
+ const top=facts.slice(0,4),rest=facts.slice(4);
+ $('sheetBox').innerHTML=`<button class="close" id="sx" aria-label="Fechar">✕</button>${l.img?`<div class="sph" style="--c:${g.c}"><i class="phic">${g.ic}</i><img data-f src="${esc(l.img)}" alt="Foto do lote"></div>`:''}<span class="tag" style="background:${g.c};color:#fff">${g.n}</span> <span class="tag gray">${SRCN[l.src]}</span>
   <h2>${esc(l.title)}</h2><div class="price">${l.price?`<span class="ptag">${brl(l.price)}</span>`:'Preço sob consulta'}${l.end?cdHtml(l.end):''} ${l.desc!=null?`<span class="tag ${l.desc>=50?'hot':''}">-${l.desc}%</span>`:''}</div>
-  <div class="grid2">${facts.map(([k,v])=>`<div><span>${k}</span><b>${esc(v)}</b></div>`).join('')}</div>
-  <div class="row2"><a class="btn" href="${l.link}">Ver anúncio oficial</a><button class="btn g" id="sCalc">Calcular lucro</button></div>
-  <div class="row2"><button class="btn g" id="sFav">${fav?'★ Nos favoritos':'☆ Favoritar'}</button><button class="btn g" id="sMap">Ver no mapa</button></div>
+  <div class="grid2">${top.map(([k,v])=>`<div><span>${k}</span><b>${esc(v)}</b></div>`).join('')}</div>
+  <a class="btn" href="${l.link}" target="_blank" rel="noopener">Ver anúncio oficial e dar lance</a>
+  <div class="acts"><button id="sCalc">🧮 Calcular lucro</button><button id="sFav">${fav?'♥ Salvo':'♡ Favoritar'}</button><button id="sMap">📍 Ver no mapa</button></div>
+  ${rest.length?`<details class="more-d"><summary>Mais detalhes</summary><div class="grid2">${rest.map(([k,v])=>`<div><span>${k}</span><b>${esc(v)}</b></div>`).join('')}</div></details>`:''}
   ${VEH.includes(l.g)?'<div class="fipe" id="fipeBox"></div>':''}
   <p class="note">Dados coletados em ${DATA_DATE}. Preço, disponibilidade e regras podem ter mudado: confirme no anúncio e leia o edital.</p>`;
  $('sheet').classList.add('on');$('sx').onclick=closeSheet;if(VEH.includes(l.g))fipeInit(l);
@@ -722,12 +802,12 @@ const OPO=[
  {seg:'out',t:'Barcos, joias, arte e outros',d:'Itens diferentes que aparecem nos leilões',f:l=>l.g==='div'&&l.price,s:(a,b)=>(b.bids||0)-(a.bids||0)||a.price-b.price,act:{g:'div',sortL:'bids'}},
 ];
 const TUDO=['Encerram em até 48 horas','Imóveis com 50% ou mais de desconto','Carros para rodar até R$ 30 mil','Motos até R$ 8 mil','Próximos leilões de Detran','Imóveis até R$ 80 mil','Máquinas pesadas e agro','Veículos mais disputados'];
-function oCard(l){const g=G[l.g];const tag=l.desc!=null?`<span class="tag ${l.desc>=50?'hot':''}">-${l.desc}%</span>`:isSuc(l)?'<span class="tag gray">sucata</span>':l.ano?`<span class="tag gray">${l.ano}</span>`:'';const f=favs.has(l.id);
- return `<div class="oc" data-id="${l.id}"><button class="ofav${f?' on':''}" data-fav="${l.id}" aria-label="${f?'Remover dos favoritos':'Favoritar'}">${f?'♥':'♡'}</button><div class="hd"><i style="background:${g.c}">${g.ic}</i>${esc(SRCN[l.src])}</div><div class="t">${esc(l.title)}</div><div class="pr"><span class="ptag">${l.price?brlK(l.price):'Consultar'}</span>${l.aval&&l.aval>l.price?`<s>${brlK(l.aval)}</s>`:''}${tag}</div><div class="ft"><span>${esc(l.city)}/${l.uf}</span>${l.end?cdHtml(l.end):''}</div></div>`;}
+function oCard(l){const g=G[l.g];const f=favs.has(l.id);const off=l.desc!=null&&l.desc>=20?`<span class="off">-${l.desc}%</span>`:isSuc(l)?'<span class="off gray">sucata</span>':'';
+ return `<div class="oc" data-id="${l.id}"><div class="ph" style="--c:${g.c}"><i class="phic">${g.ic}</i>${l.img?`<img data-f loading="lazy" decoding="async" src="${esc(l.img)}" alt="">`:''}${off}<button class="ofav${f?' on':''}" data-fav="${l.id}" aria-label="${f?'Remover dos favoritos':'Favoritar'}">${f?'♥':'♡'}</button><span class="ptag">${l.price?brlK(l.price):'Consultar'}</span></div><div class="bd"><div class="t">${esc(l.title)}</div><div class="ft"><span>${esc(l.city)}/${l.uf}${l.ano?' · '+l.ano:''}</span>${l.end?cdHtml(l.end):''}</div></div></div>`;}
 function oEv(e){return `<div class="oc evc" data-ev="${e.i}"><div class="hd"><i style="background:var(--g-car)">📅</i>${esc(e.org)}</div><div class="dt">${e.ini.getDate()}<small>${MES[e.ini.getMonth()]} · ${evWhen(e)}</small></div><div class="t">${esc(e.cities.join(', '))}</div><div class="pr"><b>${e.n.toLocaleString('pt-BR')}</b><span class="mut">lotes</span></div><div class="ft"><span>${esc(e.leil)}</span></div></div>`;}
 function renderOpo(){const pool=lots.filter(l=>(!st.uf||l.uf===st.uf)&&nearOk(l.lat,l.lon));
  const where=st.near?`até ${st.near.r} km de ${st.near.n}`:st.uf?UFN[st.uf]:'todo o Brasil';
- $('heroSub').textContent=`${pool.length.toLocaleString('pt-BR')} lotes abertos em ${where}: Caixa, Detrans, bancos, Superbid e leiloeiros oficiais. Dados de ${DATA_DATE}.`;renderQuick();renderTicker(pool);
+ $('heroSub').textContent=`${pool.length.toLocaleString('pt-BR')} lotes abertos em ${where}.`;renderQuick();renderTicker(pool);
  const evs=EVS.filter(e=>(!st.uf||e.uf===st.uf)&&nearOk(e.lat,e.lon));const d50=pool.filter(l=>l.desc>=50).length;const h48=pool.filter(l=>l.end&&+l.end<=H48).length;
 
  const seenL=store.get('rl_seen',[]).map(id=>BYID.get(id)).filter(Boolean);
@@ -804,7 +884,21 @@ $('quick').onclick=e=>{const b=e.target.closest('[data-q]');if(!b)return;const q
 $('hq').onsubmit=e=>{e.preventDefault();const v=$('heroQ').value.trim();clearAll();$('q').value=v;st.q=v;show('mapa');st.page=40;renderAll();sheetMode('full');};
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)){e.preventDefault();($('v-opo').classList.contains('on')?$('heroQ'):$('q')).focus();}if(e.key==='Escape')closeSheet();});
 
-fit();renderAll();renderAgenda();show('opo');
+// ---------- Local (painel) ----------
+function locLabel(){$('locTxt').textContent=st.near?`${st.near.n} · ${st.near.r} km`:st.uf?UFN[st.uf]:'Todo o Brasil';$('locBtn').classList.toggle('set',!!(st.near||st.uf));
+ $('rads').querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.r===$('nearR').value));}
+const openLoc=()=>{$('locPop').hidden=false;locLabel();setTimeout(()=>$('nearCity').focus(),50);};const closeLoc=()=>{$('locPop').hidden=true;};
+$('locBtn').onclick=openLoc;$('locX').onclick=closeLoc;$('locOk').onclick=()=>{$('nearCity').dispatchEvent(new Event('change'));closeLoc();};
+$('locPop').addEventListener('click',e=>{if(e.target===$('locPop'))closeLoc();});
+$('rads').onclick=e=>{const b=e.target.closest('[data-r]');if(!b)return;$('nearR').value=b.dataset.r;$('nearR').dispatchEvent(new Event('change'));locLabel();};
+$('locClr').onclick=()=>{$('nearX').click();$('uf').value='';$('uf').dispatchEvent(new Event('change'));closeLoc();};
+document.querySelector('.ofoot').onclick=e=>{const b=e.target.closest('[data-go]');if(b)show(b.dataset.go);};
+// fotos que não carregam somem e deixam o ícone da categoria
+document.addEventListener('error',e=>{const i=e.target;if(i.tagName==='IMG'&&i.hasAttribute('data-f'))i.remove();},true);
+// altura real do cabeçalho
+const hdr=document.querySelector('header');const setH=()=>document.documentElement.style.setProperty('--hdr',hdr.offsetHeight+'px');new ResizeObserver(setH).observe(hdr);setH();
+
+fit();renderAll();renderAgenda();show('opo');locLabel();
 const sv=store.get('rl_near',null);if(sv&&sv.v){$('nearCity').value=sv.v;$('nearR').value=sv.r;setNear();}
 
 window.clearAll=clearAll;
