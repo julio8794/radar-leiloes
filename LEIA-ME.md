@@ -1,6 +1,6 @@
 # Radar de Leilões — kit de atualização
 
-Para usar o app, abra **radar-leiloes.html** com dois cliques. Ele funciona offline e em qualquer navegador.
+O app fica no ar em https://julio8794.github.io/radar-leiloes/. O `index.html` também abre com dois cliques, offline.
 
 Esta pasta guarda tudo o que é preciso para gerar uma versão nova com dados frescos. A atualização automática roda a cada 2 dias e segue o roteiro abaixo.
 
@@ -45,9 +45,11 @@ Para cada fonte:
   - Acrescente uma linha por leilão novo com data futura e dados oficiais (data, cidades, nº de lotes, leiloeiro, site). Não repita o que já existe. Formato no topo do arquivo.
 
 **Depois da coleta:**
-1. `python3 build.py <data de hoje>`.
-2. Abra o HTML gerado num navegador headless e confira que a lista mostra lotes e que não há erro no console.
-3. Grave `radar-leiloes.html`, `relatorio.txt` e os arquivos novos de `raw/` de volta nesta pasta do computador.
+1. `python3 build.py <data de hoje>` (gera `radar-leiloes.html` e `relatorio.txt`).
+2. `cp radar-leiloes.html index.html`.
+3. Abra o `index.html` num navegador headless (Playwright em /opt/npm-tools/node_modules/playwright, Chrome em /usr/bin/google-chrome). Confira que a lista mostra lotes e que não há erro no console.
+4. Faça o commit de `index.html`, `relatorio.txt` e dos arquivos novos de `raw/`, e o push para `main`. O GitHub Pages publica sozinho em ~1 minuto em https://julio8794.github.io/radar-leiloes/
+   - Não envie `radar-leiloes.html`: está no .gitignore e é cópia do index.
 
 **Regras:**
 - Só páginas públicas, sem login.
