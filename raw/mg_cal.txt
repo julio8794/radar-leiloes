@@ -153,15 +153,25 @@ Quantidade de Veículos: 51.
 Pátio: Garroni Reboque.
 Visita ao Pátio: 08/01/2027 - 09h às 12h e 14h às 17h.
 
+MONTES CLAROS
+
+Edital nº 1878/2026
+
+Data: 11 a 14/01/2027.
+Hora: 08h do dia 11/01/2027 às 18h do dia 14/01/2027.
+Quantidade de Veículos: 375.
+Pátio: MOC Pátio.
+Visita ao Pátio: 07 a 08/01/2027 - 09h às 12h e 13h às 16h.
+
 TAIOBEIRAS
 
-Edital nº 1973/2026
+Edital nº 1973/2026 | Errata Edital nº 1973/2026
 
 Data: 08/01/2027.
 Hora: 08h do dia 08/01/2027 às 18h do dia 08/01/2027.
 Quantidade de Veículos: 50.
 Pátio: Garagem e Reboque Garra de Aguia.
-Visita ao Pátio: 07 a 08/12/2026 - 09h às 12h e 13h às 16h.
+Visita ao Pátio: 06 a 07/01/2027 - 09h às 12h e 13h às 16h.
 
 JAÍBA
 
@@ -181,6 +191,16 @@ Data: 06/01/2027.
 Hora: 08h do dia 06/01/2027 às 18h do dia 06/01/2027.
 Quantidade de Veículos: 95.
 Pátio: Veredas.
+Visita ao Pátio: 28 a 29/12/2026 - 09h às 12h e 13h às 16h.
+
+SÃO FRANCISCO
+
+Edital nº 1997/2026
+
+Data: 04 a 05/01/2027.
+Hora: 08h do dia 04/01/2027 às 18h do dia 05/01/2027.
+Quantidade de Veículos: 183.
+Pátio: Pátio de Veículos São Francisco.
 Visita ao Pátio: 28 a 29/12/2026 - 09h às 12h e 13h às 16h.
 
 MIRABELA
@@ -262,6 +282,16 @@ Hora: 08h do dia 17/12/2026 às 18h do dia 17/12/2026.
 Quantidade de Veículos: 27.
 Pátio: Auto Socorro Jacinto.
 Visita ao Pátio: 15 a 16/12/2026 - 09h às 12h e 13h às 16h.
+
+SÃO JOÃO DO PARAÍSO
+
+Edital nº 2001/2026
+
+Data: 17/12/2026.
+Hora: 08h do dia 17/12/2026 às 18h do dia 17/12/2026.
+Quantidade de Veículos: 91.
+Pátio: Pátio de Veículos Garagem e Reboque Ribas.
+Visita ao Pátio: 14 a 15/12/2026 - 09h às 12h e 13h às 16h.
 
 CORAÇÃO DE JESUS
 
@@ -362,6 +392,16 @@ Hora: 08h do dia 03/12/2026 às 18h do dia 04/12/2026.
 Quantidade de Veículos: 88.
 Pátio: Asanel.
 Visita ao Pátio: 01 a 02/12/2026 - 09h às 12h e 13h às 16h.
+
+UBERLÂNDIA
+
+Edital nº 1920/2026
+
+Data: 03 a 04/12/2026.
+Hora: 08h do dia 03/12/2026 às 17:55h do dia 04/12/2026.
+Quantidade de Veículos: 80.
+Pátio: Minas Pátio.
+Visita ao Pátio: 01 a 02/12/2026 - 08h às 17:55h.
 
 BELO HORIZONTE
 

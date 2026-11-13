@@ -1,16 +1,5 @@
-Edital EMAV: 0039/2026 (conforme Portarias nº 249 e 234/2022)
-Veículos/Sucatas: 313
-Data do Leilão: 11/11/2026 10:00:00
-Local do Leilão: https://www.leilaobutia.com.br/
-Leiloeiro Oficial: ANDRE BAZACAS VELHO
-Cidade: ENCANTADO
-Cidade: ARVOREZINHA
-Cidade: LAJEADO
-Cidade: GUAPORE
-Cidade: CRUZEIRO DO SUL
-Cidade: NOVA BASSANO
 Edital EMAV: 0040/2026 (conforme Portarias nº 249 e 234/2022)
-Veículos/Sucatas: 436
+Veículos/Sucatas: 435
 Data do Leilão: 25/11/2026 10:00:00
 Local do Leilão: https://www.ferronatoleiloes.com.br/
 Leiloeiro Oficial: LEANDRO FERRONATO
@@ -25,6 +14,8 @@ Data do Leilão: 02/12/2026 10:00:00
 Local do Leilão: https://www.leilaobutia.com.br/
 Leiloeiro Oficial: MANOEL LUIZ NEVES VELHO
 Cidade: PORTO ALEGRE
+Cidade: PORTO ALEGRE
+Cidade: PORTO ALEGRE
 Edital EMAV: 0042/2026 (conforme Portarias nº 249 e 234/2022)
 Veículos/Sucatas: 538
 Data do Leilão: 09/12/2026 10:00:00
@@ -33,3 +24,12 @@ Leiloeiro Oficial: ALEXANDRE RECH
 Cidade: SAO LEOPOLDO
 Cidade: CANOAS
 Cidade: SAPUCAIA DO SUL
+Edital EMAV: 0043/2026 (conforme Portarias nº 249 e 234/2022)
+Veículos/Sucatas: 411
+Data do Leilão: 16/12/2026 10:00:00
+Local do Leilão: https://www.luciverareisleiloes.com.br/
+Leiloeiro Oficial: LUCI VERA PRIMAZ DOS REIS
+Cidade: PORTO ALEGRE
+Cidade: PORTO ALEGRE
+Cidade: PORTO ALEGRE
+Cidade: PORTO ALEGRE
