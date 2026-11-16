@@ -155,7 +155,9 @@ for l in lines('leilaoimovel.txt'):
         m = TIP.search(href); t = (m.group(0).split('-', 1)[-1].replace('-', ' ') if m else 'Imóvel').capitalize()
     t = re.sub(r'\s+(Emgea|Caixa|Santander|Bradesco|Itau|Itaú)$', '', t)
     tg = [x for x in tags.split('/') if x]
-    add('li' + id_, 'li', 'imo', 'Imóveis', clean(tg[0] if tg else 'Leilão', 30), clean(t + (' · ' + bairro.title() if bairro else ''), 80), money(price), money(aval), desc or '',
+    pr_, av_ = money(price), money(aval)
+    if not (pr_ and av_ and int(pr_) < int(av_) * 0.98): desc = ''  # desconto só quando o preço está abaixo da avaliação
+    add('li' + id_, 'li', 'imo', 'Imóveis', clean(tg[0] if tg else 'Leilão', 30), clean(t + (' · ' + bairro.title() if bairro else ''), 80), pr_, av_, desc or '',
         canon(city, uf), uf, f'{g[0]:.3f}', f'{g[1]:.3f}', e, clean(tg[1] if len(tg) > 1 else 'Leiloeiro parceiro', 30), '', clean(tg[0] if tg else 'Leilão', 30), href, c[11] if len(c) > 11 else '', clean(c[12], 110) if len(c) > 12 else '')
 log('Leilão Imóvel:', len(rows) - n0); n0 = len(rows)
 
@@ -213,7 +215,7 @@ for fn in sorted(os.listdir(RAW)):
             if not g_: continue
             c[11], c[12] = f'{g_[0]:.3f}', f'{g_[1]:.3f}'
         try:  # lance simbólico (ex.: R$ 50 com avaliação de R$ 40 mil) não é desconto real
-            if c[6] and c[7] and float(c[6]) < 0.15 * float(c[7]): c[7] = c[8] = ''
+            if c[6] and c[7] and (float(c[6]) < 0.15 * float(c[7]) or float(c[6]) >= 0.98 * float(c[7])): c[7] = c[8] = ''
         except ValueError: pass
         c[9] = canon(city, uf); c[10] = uf
         seen.add(c[0]); rows.append('|'.join(clean(x, 240) if i in (5, 19) else x for i, x in enumerate(c[:20]))); n += 1

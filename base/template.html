@@ -507,7 +507,7 @@ DETRANBA.trim().split('\n').forEach(r=>{const c=r.split('|');if(c.length<10)retu
    city:c[3],uf:'BA',lat:+c[7],lon:+c[8],addr:c[4],end:c[6]?new Date(c[6]+'T09:00:00-03:00'):null,mod:'Leilão Detran-BA (online)',seller:'DETRAN-BA · Nordeste Leilões',bids:null,img:c[10]?'https://nordesteleiloes-files.s3.amazonaws.com/lotes/fotos/'+c[10]:'',
    link:'https://www.nordesteleiloes.com.br/lotes/'+c[9]});});
 // Lotes já encerrados saem da lista e do mapa
-const NOW=Date.now();let HIDDEN=0;for(let i=lots.length-1;i>=0;i--){const e=lots[i].end;if(e&&+e<NOW-36e5){lots.splice(i,1);HIDDEN++;}}
+const NOW=Date.now();let HIDDEN=0;for(let i=lots.length-1;i>=0;i--){const e=lots[i].end;if(e&&+e<NOW){lots.splice(i,1);HIDDEN++;}}
 // UF de lotes sem estado: deduz pelo ponto mais próximo de cidade conhecida
 const ufPts=[...AGG_PRE.map(a=>[a.lat,a.lon,a.uf]),...lots.filter(l=>l.uf).map(l=>[l.lat,l.lon,l.uf])];
 lots.filter(l=>!l.uf&&l.lat).forEach(l=>{let b=null,bd=1e9;for(const p of ufPts){const d=(p[0]-l.lat)**2+(p[1]-l.lon)**2;if(d<bd){bd=d;b=p[2];}}l.uf=b||'';if(!l.city)l.city='Cidade não informada';});
