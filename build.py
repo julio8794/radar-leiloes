@@ -310,6 +310,7 @@ data = '\n'.join([
     f"const CX_CITIES={len(cities)};",
     "const CX_MOD=" + json.dumps(dict(cx_mod), ensure_ascii=False) + ";",
     "const SRC_EXTRA=" + json.dumps(SRC_EXTRA, ensure_ascii=False) + ";",
+    "const GAR_CFG=" + (open(BASE('garagem_config.json'), encoding='utf-8').read().strip() if os.path.exists(BASE('garagem_config.json')) else 'null') + ";",
     "const SB_TOTALS=" + json.dumps(dict(sbt), ensure_ascii=False) + ";",
 ])
 out = t.replace('/*DATA*/', data).replace('<script>\n(async()=>{', '<script>const LOTS_GZ="' + gz('\n'.join(rows)) + '";const CAIXA_GZ="' + gz('\n'.join(cx_rows)) + '";</script>\n<script>\n(async()=>{', 1)

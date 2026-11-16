@@ -338,6 +338,7 @@ body:not([data-v=mapa]) #chips{display:none}
 .guide summary{font-weight:700;cursor:pointer;padding:2px 0}.guide ol{margin:8px 0 4px;padding-left:20px;font-size:14px;line-height:1.5}.guide li{margin:4px 0}
 .guide .warn{margin:8px 0 2px}
 
+.gshare{background:#F4F1FB;border:1px solid #D9CFF2;border-radius:12px;padding:10px 12px;margin:8px 0;font-size:13px}.gshare>div{display:flex;gap:8px;margin-top:6px;flex-wrap:wrap}.gshare .btn{flex:1 1 auto;width:auto;margin:0}
 .gk{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:10px 0}
 .gk>div{background:var(--bg,#F3F5F7);border-radius:12px;padding:10px}.gk span{display:block;font-size:12px;color:var(--mut,#5b6675)}.gk b{display:block;font-size:20px;margin:2px 0}.gk small{font-size:11.5px;color:var(--mut,#5b6675)}
 .neg{color:#D63A2F}.pos{color:#0B8A63}
@@ -1062,7 +1063,7 @@ window.__r={get NEWIDS(){return NEWIDS},lots,st,BYID,base:()=>base(),show:v=>sho
 // ================= Garagem (área privada, só no artefato do Claude) =================
 // Dados compartilhados entre as pessoas com acesso ao artefato: coleção "garagem" (1 doc por bem)
 // e "config/padrao" (margem, comissão). Fotos da vistoria vão para "assets"; análise por IA via "sample".
-const GAR={on:false,db:null,user:null,assets:null,sample:null,lim:null,me:null,items:new Map(),cfg:{margem:20,com:5},filtro:'ativos',editing:null,names:{}};
+const GAR={on:false,B:null,db:null,user:null,assets:null,sample:null,lim:null,me:null,items:new Map(),cfg:{margem:20,com:5},filtro:'ativos',editing:null,names:{}};
 const GST=[['interesse','Interesse','#5B6675'],['vistoria','Em vistoria','#2F6FDE'],['lance','Lance dado','#B8860B'],['arrematado','Arrematado','#0B8A63'],['preparo','Preparando','#7A4FB5'],['avenda','À venda','#D97706'],['vendido','Vendido','#14284B'],['descartado','Descartado','#9AA3AE']];
 const GSTM=Object.fromEntries(GST.map(s=>[s[0],s]));
 const ATIVOS=['interesse','vistoria','lance'],POSSE=['arrematado','preparo','avenda'];
@@ -1095,9 +1096,9 @@ function semaforo(it,c){if(!c.venda||c.lanceMax==null||!num(it.lance))return['gr
 const _saveT={},_saving={},_dirty={};
 function gSave(it,now){_dirty[it.id]=Date.now()+Math.random();it.upd=Date.now();GAR.items.set(it.id,it);clearTimeout(_saveT[it.id]);_saveT[it.id]=setTimeout(()=>gWrite(it.id),now?0:900);}
 async function gWrite(id){if(_saving[id]){_saveT[id]=setTimeout(()=>gWrite(id),400);return;}const it=GAR.items.get(id);if(!it)return;const stamp=_dirty[id];_saving[id]=true;
- try{await GAR.db.collection('garagem').doc(id).set(JSON.parse(JSON.stringify(it)));}catch(e){toast(e&&e.code==='quota_exceeded'?'Espaço da garagem cheio: apague itens antigos.':e&&e.code==='invalid_argument'?'Sem permissão para salvar (peça acesso de colaborador).':'Não salvou agora; tente de novo.');}
+ try{await GAR.B.write(id,JSON.parse(JSON.stringify(it)));}catch(e){toast(e&&e.code==='quota_exceeded'?'Espaço da garagem cheio: apague itens antigos.':e&&e.code==='invalid_argument'?'Sem permissão para salvar (peça acesso de colaborador).':'Não salvou agora; tente de novo.');}
  finally{_saving[id]=false;if(_dirty[id]===stamp)delete _dirty[id];}}
-async function gDelete(id){GAR.items.delete(id);try{await GAR.db.collection('garagem').doc(id).delete();}catch(e){toast('Não consegui apagar agora.');}}
+async function gDelete(id){GAR.items.delete(id);try{await GAR.B.del(id);}catch(e){toast('Não consegui apagar agora.');}}
 function gAddLot(l){if(GAR.items.has(l.id)){gOpen(l.id);return;}const it=novoItem(l);gSave(it,true);toast('Adicionado à Garagem');refreshGarBtn(l);}
 
 // ---------- tela da garagem ----------
@@ -1118,29 +1119,29 @@ function renderGaragem(){const box=$('garBox');if(!box)return;const all=[...GAR.
 function gCard(it){const c=gCalc(it);const s=GSTM[it.status]||GST[0];const [sc,st_]=semaforo(it,c);const g=G[it.g]||G.car;
  const line=POSSE.includes(it.status)||it.status==='vendido'?(c.lucroReal!=null?`Lucro real <b class="${c.lucroReal<0?'neg':'pos'}">${brl(Math.round(c.lucroReal))}</b>`:`Investido ${brl(Math.round(c.custoReal))}`)
   :`Lance ${num(it.lance)?brl(num(it.lance)):'—'} · máx <b class="${sc}">${c.lanceMax!=null?brl(c.lanceMax):'?'}</b>`;
- return `<div class="gcard" data-gid="${esc(it.id)}"><div class="gi" style="background:${g.c}">${g.ic}${it.fotos&&it.fotos[0]?`<img data-f src="/_blob/${esc(it.fotos[0])}" alt="">`:''}</div>
+ return `<div class="gcard" data-gid="${esc(it.id)}"><div class="gi" style="background:${g.c}">${g.ic}${it.fotos&&it.fotos[0]?`<img data-f src="${esc(GAR.B.photo(it.fotos[0]))}" alt="">`:''}</div>
   <div class="gb"><div class="gt">${esc(it.title)}</div><div class="gm">${[it.ano,it.city&&it.city+(it.uf?'/'+it.uf:''),it.end?'até '+new Date(it.end).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'}):''].filter(Boolean).join(' · ')}</div><div class="gl">${line}</div></div>
   <span class="gs" style="background:${s[2]}">${s[1]}</span></div>`;}
 async function resolveNames(ids){if(!GAR.user||!ids.length)return;try{const u=[...new Set(ids)].filter(i=>!(i in GAR.names));if(!u.length)return;const ps=await GAR.user.profiles(u);u.forEach(i=>{GAR.names[i]=(ps&&ps[i]&&ps[i].name)||'';});}catch(e){}}
 function gExportCsv(){const H=['Status','Bem','Cidade','UF','Ano','Lance atual','Lance máximo','Venda prevista','Reparos (média)','Custo total previsto','Lucro previsto','Arremate','Custos reais','Venda real','Lucro real','Link'];
  const rows=[...GAR.items.values()].map(it=>{const c=gCalc(it);return[GSTM[it.status][1],it.title,it.city,it.uf,it.ano||'',num(it.lance),c.lanceMax||'',c.venda||'',Math.round(c.rep),Math.round(c.custoTotal),c.lucro!=null?Math.round(c.lucro):'',num(it.arremate)||'',(it.reais||[]).reduce((s,r)=>s+num(r.valor),0)||'',num(it.vendido&&it.vendido.valor)||'',c.lucroReal!=null?Math.round(c.lucroReal):'',it.link];});
  const csv='﻿'+[H,...rows].map(r=>r.map(v=>`"${String(v).replace(/"/g,'""')}"`).join(';')).join('\r\n');
- window.claude.use('downloads').then(d=>d?d.save({filename:'garagem-radar.csv',data:csv}).then(()=>toast('Planilha salva')).catch(()=>{}):toast('Download indisponível aqui'));}
+ GAR.B.save('garagem-radar.csv',csv);}
 
 // ---------- editor ----------
 function gOpen(id){const it=GAR.items.get(id);if(!it)return;GAR.editing=id;const c=gCalc(it);const veh=it.g!=='imo';
  const stSel=`<select data-f="status">${GST.map(s=>`<option value="${s[0]}" ${it.status===s[0]?'selected':''}>${s[1]}</option>`).join('')}</select>`;
  const field=(k,label,v,ph,type)=>`<label class="gf"><span>${label}</span><input data-f="${k}" inputmode="decimal" value="${v?esc(String(v)):''}" placeholder="${ph||''}" ${type?`type="${type}"`:''}></label>`;
  $('sheetBox').innerHTML=`<button class="close" id="sx" aria-label="Fechar">✕</button><span class="tag gray">Garagem</span> <span class="tag" style="background:${GSTM[it.status][2]};color:#fff">${GSTM[it.status][1]}</span>
- <h2 contenteditable="true" id="gTitle" spellcheck="false">${esc(it.title)}</h2><p class="mut">${[it.ano,it.city&&it.city+'/'+it.uf,it.sub].filter(Boolean).map(esc).join(' · ')}${it.por&&GAR.names[it.por]?' · adicionado por '+esc(GAR.names[it.por]):''}</p>
+ <h2 contenteditable="true" id="gTitle" spellcheck="false">${esc(it.title)}</h2><p class="mut">${[it.ano,it.city&&it.city+'/'+it.uf,it.sub].filter(Boolean).map(esc).join(' · ')}${it.por&&GAR.names[it.por]?' · adicionado por '+esc(GAR.names[it.por]):it.por&&!GAR.user?' · adicionado por '+esc(it.por):''}</p>
  <div id="gSum"></div>
  <div class="gsec"><div class="g2">${`<label class="gf"><span>Situação</span>${stSel}</label>`}${field('lance','Lance atual (R$)',num(it.lance))}${field(veh?'fipe':'aval',veh?'Valor FIPE (R$)':'Avaliação (R$)',num(veh?it.fipe:it.aval),veh?'consulte na ficha do lote':'')}${field('venda','Venda prevista (R$)',num(it.venda),c.vendaAuto?'auto: '+brl(c.venda):'quanto você vende')}${field('margem','Margem mínima (%)',num(it.margem))}${field('com','Comissão leiloeiro (%)',num(it.com))}</div>
   ${it.link?`<a class="btn" href="${esc(it.link)}" target="_blank" rel="noopener">Abrir anúncio oficial</a>`:field('link','Link do anúncio',it.link,'https://','url')}</div>
  ${veh?`<details class="gsec" ${it.status==='vistoria'||!it.vistoria.ia?'open':''}><summary>🔍 Vistoria</summary>
   <div class="chk">${CHK.map(([k,l])=>`<div class="ck"><span>${l}</span><div class="ckb">${CHKI.map(([v,t])=>`<button data-ck="${k}" data-v="${v}" class="${(it.vistoria.check||{})[k]===v?'on '+v:''}">${t}</button>`).join('')}</div></div>`).join('')}</div>
   <label class="gf"><span>Anotações da vistoria (km, barulhos, o que viu no pátio)</span><textarea data-f="vistoria.notas" rows="3">${esc(it.vistoria.notas||'')}</textarea></label>
-  <div class="gfotos" id="gFotos">${(it.fotos||[]).map(f=>`<div class="gph"><img src="/_blob/${esc(f)}" alt=""><button data-rmf="${esc(f)}" aria-label="Remover foto">✕</button></div>`).join('')}</div>
-  <div class="gact">${GAR.assets?`<label class="btn g gup">📷 Adicionar fotos<input type="file" id="gFile" accept="image/*" multiple hidden></label>`:''}${GAR.sample?`<button class="btn" id="gIA">✨ Analisar com IA</button>`:''}</div>
+  <div class="gfotos" id="gFotos">${(it.fotos||[]).map(f=>`<div class="gph"><img src="${esc(GAR.B.photo(f))}" alt=""><button data-rmf="${esc(f)}" aria-label="Remover foto">✕</button></div>`).join('')}</div>
+  <div class="gact">${GAR.B.canUpload?`<label class="btn g gup">📷 Adicionar fotos<input type="file" id="gFile" accept="image/*" multiple hidden></label>`:''}${GAR.B.canIA?`<button class="btn" id="gIA">✨ Analisar com IA</button>`:''}</div>
   <div id="gIAout">${it.vistoria.ia?iaHtml(it.vistoria.ia):'<p class="mut">A IA olha as fotos e os dados do anúncio, aponta problemas visíveis e estima o custo de cada reparo. Use prints do anúncio e fotos da visita ao pátio.</p>'}</div></details>`:''}
  <details class="gsec" open><summary>🛠 Reparos previstos <b id="gRepT">${brl(Math.round(c.rep))}</b></summary><div id="gRep">${repHtml(it)}</div><button class="btn g" id="gRepAdd">＋ Reparo</button></details>
  <details class="gsec"><summary>💸 Custos de compra <b>${brl(Math.round(c.fixos+num(it.lance)*c.pctBase))}</b></summary><div id="gCus">${(it.custos||[]).map((x,i)=>`<label class="gf row"><span>${esc(x.l)}</span><input data-cu="${i}" inputmode="decimal" value="${x.pct!=null?x.pct:num(x.v)}"><em>${x.pct!=null?'%':'R$'}</em></label>`).join('')}</div></details>
@@ -1187,7 +1188,7 @@ function confirmDel(b){if(b.dataset.sure){return true;}b.dataset.sure=1;b.textCo
 const _blobs={};
 async function shrink(file){try{const bmp=await createImageBitmap(file);const k=Math.min(1,1600/Math.max(bmp.width,bmp.height));const c=document.createElement('canvas');c.width=Math.round(bmp.width*k);c.height=Math.round(bmp.height*k);c.getContext('2d').drawImage(bmp,0,0,c.width,c.height);return await new Promise(r=>c.toBlob(b=>r(b||file),'image/jpeg',0.82));}catch(e){return file;}}
 async function uploadFotos(it,files){const list=[...files].slice(0,12);if(!list.length)return;toast('Enviando '+list.length+' foto'+(list.length>1?'s':'')+'...');
- for(const f of list){const b=await shrink(f);try{const a=await GAR.assets.upload(b);it.fotos=[...(it.fotos||[]),a.id];_blobs[a.id]=b;
+ for(const f of list){const b=await shrink(f);try{const a=await GAR.B.upload(b);it.fotos=[...(it.fotos||[]),a.id];_blobs[a.id]=b;
    $('gFotos').insertAdjacentHTML('beforeend',`<div class="gph"><img src="${URL.createObjectURL(b)}" alt=""><button data-rmf="${esc(a.id)}" aria-label="Remover foto">✕</button></div>`);}catch(e){toast('Uma foto não subiu (tamanho ou permissão).');}}
  gSave(it,true);}
 async function fotoBlobs(it){const out=[];for(const id of (it.fotos||[]).slice(-(GAR.lim&&GAR.lim.maxCount||8))){if(_blobs[id]){out.push(_blobs[id]);continue;}
@@ -1197,43 +1198,77 @@ async function fotoBlobs(it){const out=[];for(const id of (it.fotos||[]).slice(-
 function iaHtml(ia){if(!ia)return'';return `<div class="gia"><p><b>${esc(ia.estado||'')}</b>${ia.confianca?` · confiança ${esc(ia.confianca)}`:''}${ia.nfotos!=null?` · ${ia.nfotos} foto${ia.nfotos===1?'':'s'}`:''}${ia.quando?` · ${new Date(ia.quando).toLocaleDateString('pt-BR')}`:''}</p><p>${esc(ia.resumo||'')}</p>
  ${(ia.riscos||[]).length?`<p class="mut"><b>Riscos:</b> ${ia.riscos.map(esc).join(' · ')}</p>`:''}${(ia.verificar||[]).length?`<p class="mut"><b>Conferir no pátio/edital:</b> ${ia.verificar.map(esc).join(' · ')}</p>`:''}</div>`;}
 async function runIA(it,btn){const out=$('gIAout');btn.disabled=true;out.innerHTML='<p class="mut">Analisando fotos e dados… (pode levar até 1 minuto)</p>';
- try{const imgs=GAR.lim?await fotoBlobs(it):[];const chk=CHK.map(([k,l])=>`- ${l}: ${({ok:'OK',atencao:'atenção',ruim:'ruim'})[(it.vistoria.check||{})[k]]||'não avaliado'}`).join('\n');
-  const prompt=`Você é um vistoriador de veículos de leilão no Brasil e orçamentista de oficina independente.
-Avalie o veículo abaixo para quem vai dar lance e revender. ${imgs.length?`Há ${imgs.length} foto(s) anexada(s) (prints do anúncio e/ou fotos do pátio).`:'Não há fotos: baseie-se só nos dados e diga que a confiança é baixa.'}
+ try{const imgs=GAR.B.kind==='claude'&&GAR.lim?await fotoBlobs(it):[];const chk=CHK.map(([k,l])=>`- ${l}: ${({ok:'OK',atencao:'atenção',ruim:'ruim'})[(it.vistoria.check||{})[k]]||'não avaliado'}`).join('\n');
+  const nf=GAR.B.kind==='claude'?imgs.length:(it.fotos||[]).length;const prompt=`Você é um vistoriador de veículos de leilão no Brasil e orçamentista de oficina independente.
+Avalie o veículo abaixo para quem vai dar lance e revender. ${nf?`Há ${nf} foto(s) anexada(s) (prints do anúncio e/ou fotos do pátio).`:'Não há fotos: baseie-se só nos dados e diga que a confiança é baixa.'}
 Dados: ${it.title} | ano ${it.ano||'?'} | ${it.sub||''} | cidade ${it.city||'?'}/${it.uf||''} | lance atual R$ ${num(it.lance)||'?'} | FIPE informada R$ ${num(it.fipe)||'?'} | origem ${SRCN[it.src]||it.src}.
 Checklist do usuário:\n${chk}\nAnotações: ${(it.vistoria.notas||'').slice(0,1500)||'nenhuma'}
 Liste só problemas visíveis ou fortemente indicados (não invente). Para cada um, estime custo em reais de peça+mão de obra em oficina independente na região, com faixa mínima e máxima realista. Inclua itens de praxe de veículo de leilão parado (bateria, pneus vencidos, fluidos, chave) apenas se fizer sentido.
 Responda SOMENTE com JSON neste formato:
 {"estado":"bom|regular|ruim|sucata","confianca":"baixa|media|alta","resumo":"2-3 frases","itens":[{"item":"peça ou serviço","obs":"o que foi visto","gravidade":"leve|media|grave","min":0,"max":0}],"riscos":["..."],"verificar":["o que conferir pessoalmente"],"revenda_sugerida":0}`;
-  const res=await GAR.sample.json(prompt,{images:imgs.length?imgs:undefined,modelTier:'default',onText:()=>{out.innerHTML='<p class="mut">Escrevendo a análise…</p>';}});
+  const res=await GAR.B.ia(prompt,it,imgs,()=>{out.innerHTML='<p class="mut">Escrevendo a análise…</p>';});
   if(!res||!Array.isArray(res.itens))throw{code:'invalid_json'};
   it.reparos=[...(it.reparos||[]).filter(r=>!r.ia),...res.itens.slice(0,30).map(x=>({item:String(x.item||'').slice(0,80),obs:[x.gravidade,x.obs].filter(Boolean).join(': ').slice(0,160),min:num(x.min),max:Math.max(num(x.max),num(x.min)),ia:true}))];
-  it.vistoria.ia={estado:res.estado||'',confianca:res.confianca||'',resumo:String(res.resumo||'').slice(0,600),riscos:(res.riscos||[]).slice(0,8).map(String),verificar:(res.verificar||[]).slice(0,8).map(String),nfotos:imgs.length,quando:Date.now(),revenda:num(res.revenda_sugerida)};
+  it.vistoria.ia={estado:res.estado||'',confianca:res.confianca||'',resumo:String(res.resumo||'').slice(0,600),riscos:(res.riscos||[]).slice(0,8).map(String),verificar:(res.verificar||[]).slice(0,8).map(String),nfotos:res._nf!=null?res._nf:imgs.length,quando:Date.now(),revenda:num(res.revenda_sugerida)};
   if(!num(it.venda)&&num(res.revenda_sugerida))it.venda=num(res.revenda_sugerida);
   if(it.status==='interesse')it.status='vistoria';gSave(it,true);gOpen(it.id);toast('Vistoria por IA concluída');}
- catch(e){const m={not_granted:'Você não autorizou o uso do Claude neste app.',rate_limited:'Muitas análises seguidas: tente daqui a pouco.',images_unavailable:'Envio de fotos indisponível aqui; a análise vai só com os dados.',image_rejected:'Alguma foto não foi aceita (formato/tamanho).',invalid_json:'A resposta veio incompleta. Tente de novo.',refused:'A IA não analisou essas imagens. Tente outras fotos.'}[e&&e.code]||'Não deu para analisar agora. Tente de novo.';
+ catch(e){const m=e&&e.msg?e.msg:{not_granted:'Você não autorizou o uso do Claude neste app.',rate_limited:'Muitas análises seguidas: tente daqui a pouco.',images_unavailable:'Envio de fotos indisponível aqui; a análise vai só com os dados.',image_rejected:'Alguma foto não foi aceita (formato/tamanho).',invalid_json:'A resposta veio incompleta. Tente de novo.',refused:'A IA não analisou essas imagens. Tente outras fotos.'}[e&&e.code]||'Não deu para analisar agora. Tente de novo.';
   out.innerHTML=`<p class="warn">${m}</p>`;btn.disabled=false;}}
 
 // ---------- integração com o app ----------
 function refreshGarBtn(l){const b=$('sGar');if(b)b.textContent=GAR.items.has(l.id)?'✓ Na garagem':'🚗 Garagem';}
-async function garInit(){try{if(!window.claude||!window.claude.use)return;const db=await window.claude.use('db');if(!db)return;GAR.db=db;
- GAR.user=await window.claude.use('user').catch(()=>null);GAR.me=GAR.user?await GAR.user.id().catch(()=>null):null;
- GAR.assets=await window.claude.use('assets').catch(()=>null);GAR.sample=await window.claude.use('sample').catch(()=>null);
- if(GAR.sample){const lim=await GAR.sample.limits().catch(()=>null);GAR.lim=lim&&lim.images||null;}
- GAR.on=true;document.body.classList.add('gar-on');bindEditorOnce();
+// ---------- motores (backends) ----------
+function backendClaude(db,assets,sample){return{kind:'claude',canUpload:!!assets,canIA:!!sample,
+ write:(id,d)=>db.collection('garagem').doc(id).set(d),del:id=>db.collection('garagem').doc(id).delete(),
+ upload:async b=>{const a=await assets.upload(b);return{id:a.id};},photo:id=>'/_blob/'+id,
+ ia:async(prompt,it,imgs,onT)=>{const r=await sample.json(prompt,{images:imgs.length?imgs:undefined,modelTier:'default',onText:onT});return r;},
+ save:(name,data)=>window.claude.use('downloads').then(d=>d?d.save({filename:name,data}).then(()=>toast('Planilha salva')).catch(()=>{}):toast('Download indisponível aqui')),
+ listen:(onData,onErr)=>db.collection('garagem').onSnapshot(s=>onData(s.docs.map(d=>JSON.parse(JSON.stringify(d.data())))),onErr)};}
+function backendSupa(cfg,key){const H={apikey:cfg.anon,Authorization:'Bearer '+cfg.anon,'x-garage-key':key};const R=cfg.url+'/rest/v1/garagem';
+ const chk=async r=>{if(!r.ok){const t=await r.text().catch(()=>'');throw{code:r.status===401||r.status===403?'invalid_argument':'unavailable',message:t};}return r;};
+ return{kind:'supa',canUpload:true,canIA:true,
+ write:(id,d)=>fetch(R,{method:'POST',headers:{...H,'content-type':'application/json',Prefer:'resolution=merge-duplicates,return=minimal'},body:JSON.stringify({space:key,id,data:d,upd:d.upd||Date.now()})}).then(chk),
+ del:id=>fetch(R+'?space=eq.'+encodeURIComponent(key)+'&id=eq.'+encodeURIComponent(id),{method:'DELETE',headers:H}).then(chk),
+ upload:async b=>{const path=key+'/'+gid()+gid()+'.jpg';await fetch(cfg.url+'/storage/v1/object/fotos/'+path,{method:'POST',headers:{...H,'content-type':b.type||'image/jpeg','x-upsert':'false'},body:b}).then(chk);return{id:path};},
+ photo:id=>cfg.url+'/storage/v1/object/public/fotos/'+id,
+ ia:async(prompt,it,imgs,onT)=>{onT&&onT();const r=await fetch(cfg.url+'/functions/v1/vistoria',{method:'POST',headers:{...H,'content-type':'application/json'},body:JSON.stringify({prompt,fotos:(it.fotos||[]).slice(-8).map(f=>cfg.url+'/storage/v1/object/public/fotos/'+f)})});
+  const j=await r.json().catch(()=>null);if(!r.ok||!j||!j.ok)throw{msg:(j&&j.erro)||'A IA não respondeu agora.'};const res=j.resultado||{};res._nf=j.fotos;return res;},
+ save:(name,data)=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([data],{type:'text/csv'}));a.download=name;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove();},800);toast('Planilha baixada');},
+ listen:(onData,onErr)=>{let stop=false,first=true;const load=()=>fetch(R+'?select=data&space=eq.'+encodeURIComponent(key)+'&order=upd.desc&limit=1000',{headers:H}).then(chk).then(r=>r.json()).then(rows=>{onData(rows.map(r=>r.data));first=false;}).catch(e=>{if(first)onErr(e);});
+  load();const t=setInterval(()=>{if(!document.hidden&&!stop)load();},20000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)load();});return()=>{stop=true;clearInterval(t);};}};}
+const GKEY_RE=/^[A-Za-z0-9_-]{24,64}$/;
+function garKeyFromUrl(){const m=(location.hash||'').match(/garagem=([A-Za-z0-9_-]{24,64})/);if(m){try{localStorage.setItem('rl_gkey',m[1]);}catch(e){}try{history.replaceState(null,'',location.pathname+location.search);}catch(e){}return m[1];}
+ try{const k=localStorage.getItem('rl_gkey');return k&&GKEY_RE.test(k)?k:null;}catch(e){return null;}}
+function garLink(){return SITE+'#garagem='+GAR.key;}
+async function garCreate(cfg){const k=Array.from(crypto.getRandomValues(new Uint8Array(24)),b=>'abcdefghijkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ23456789'[b%56]).join('');
+ const r=await fetch(cfg.url+'/rest/v1/rpc/criar_garagem',{method:'POST',headers:{apikey:cfg.anon,Authorization:'Bearer '+cfg.anon,'content-type':'application/json'},body:JSON.stringify({k})});
+ if(!r.ok)throw new Error('não criou');try{localStorage.setItem('rl_gkey',k);}catch(e){}return k;}
+function garEnableUI(){GAR.on=true;document.body.classList.add('gar-on');bindEditorOnce();
  document.querySelectorAll('[data-v="favs"]').forEach(b=>{const s=b.querySelector('.ti');b.lastChild.textContent='Garagem';if(s&&!s.querySelector('svg'))s.textContent='🚗';});
- $('v-favs').querySelector('.page').innerHTML='<div class="card panel"><h3>Garagem</h3><p class="mut" id="garNote">Carregando…</p><div id="garBox"></div></div>';
- const t=setTimeout(()=>{const n=$('garNote');if(n)n.textContent='Os dados da garagem ainda não chegaram. Verifique a conexão.';},10000);
- db.collection('garagem').onSnapshot(s=>{clearTimeout(t);const nm=new Map(s.docs.map(d=>[d.id,JSON.parse(JSON.stringify(d.data()))]));for(const [k,v] of GAR.items)if(_dirty[k])nm.set(k,v);GAR.items=nm;
-   const n=$('garNote');if(n)n.textContent='Seus bens em acompanhamento, do interesse até a venda. Compartilhado com quem tem acesso a este app.';
-   if($('v-favs').classList.contains('on'))renderGaragem();if(GAR.editing&&$('sheet').classList.contains('on')&&!$('sheetBox').contains(document.activeElement)){const it=GAR.items.get(GAR.editing);if(it)gSum(it);}},
-  e=>{clearTimeout(t);const n=$('garNote');if(n)n.textContent='Não foi possível abrir a garagem neste acesso.';});
- db.doc('config/padrao').get().then(s=>{if(s.exists){const d=s.data();GAR.cfg={margem:num(d.margem)||20,com:num(d.com)||5};}}).catch(()=>{});
+ $('v-favs').querySelector('.page').innerHTML=`<div class="card panel"><h3>Garagem</h3><p class="mut" id="garNote">Carregando…</p>${GAR.B.kind==='supa'?`<div class="gshare"><span>Quem tiver este link vê e edita a garagem:</span><div><button class="btn g" id="gLink">Copiar link da garagem</button><button class="btn g" id="gName">${GAR.myName?'Você: '+esc(GAR.myName):'Informar meu nome'}</button></div></div>`:''}<div id="garBox"></div></div>`;
  $('v-favs').addEventListener('click',e=>{const f=e.target.closest('[data-gf]');if(f){GAR.filtro=f.dataset.gf;renderGaragem();return;}const c=e.target.closest('.gcard');if(c){gOpen(c.dataset.gid);return;}
   if(e.target.id==='gNew'){const it=novoItem(null);gSave(it,true);gOpen(it.id);return;}
   if(e.target.id==='gCsv'){gExportCsv();return;}
+  if(e.target.id==='gLink'){const l=garLink();(navigator.clipboard?navigator.clipboard.writeText(l):Promise.reject()).then(()=>toast('Link copiado. Mande só para quem pode editar.')).catch(()=>prompt('Copie o link da garagem:',l));return;}
+  if(e.target.id==='gName'){const n=prompt('Seu nome (aparece nos veículos que você adicionar):',GAR.myName||'');if(n!=null){GAR.myName=n.trim().slice(0,40);GAR.me=GAR.myName;try{localStorage.setItem('rl_gname',GAR.myName);}catch(x){}e.target.textContent=GAR.myName?'Você: '+GAR.myName:'Informar meu nome';}return;}
   if(e.target.id==='gImp'){let n=0;favs.forEach(id=>{const l=BYID.get(id);if(l&&!GAR.items.has(id)){gSave(novoItem(l),true);n++;}});toast(n?n+' favorito(s) trazidos para a garagem':'Eles já estão na garagem');return;}});
- if($('v-favs').classList.contains('on'))renderGaragem();}catch(e){console.warn('garagem indisponível',e);}}
+ const t=setTimeout(()=>{const n=$('garNote');if(n)n.textContent='Os dados da garagem ainda não chegaram. Verifique a conexão.';},10000);
+ GAR.B.listen(list=>{clearTimeout(t);const nm=new Map(list.filter(d=>d&&d.id).map(d=>[d.id,d]));for(const [k,v] of GAR.items)if(_dirty[k])nm.set(k,v);GAR.items=nm;
+   const n=$('garNote');if(n)n.textContent='Seus bens em acompanhamento, do interesse até a venda.';
+   if($('v-favs').classList.contains('on'))renderGaragem();if(GAR.editing&&$('sheet').classList.contains('on')&&!$('sheetBox').contains(document.activeElement)){const it=GAR.items.get(GAR.editing);if(it)gSum(it);}},
+  e=>{clearTimeout(t);const n=$('garNote');if(n)n.textContent=GAR.B.kind==='supa'?'Link da garagem inválido ou sem conexão.':'Não foi possível abrir a garagem neste acesso.';});
+ if($('v-favs').classList.contains('on'))renderGaragem();}
+async function garInit(){try{
+ const cfg=typeof GAR_CFG!=='undefined'&&GAR_CFG&&GAR_CFG.url?GAR_CFG:null;
+ if(cfg&&!(window.claude&&window.claude.use&&location.hostname.endsWith('claude.ai'))){ // site: Supabase, só com o link da garagem
+  let key=garKeyFromUrl();if(!key&&/nova-garagem/.test(location.hash)){key=await garCreate(cfg).catch(()=>null);if(key){try{history.replaceState(null,'',location.pathname);}catch(e){}toast('Garagem criada! Copie o link na aba Garagem.');}}
+  if(!key)return;GAR.key=key;try{GAR.myName=localStorage.getItem('rl_gname')||'';}catch(e){GAR.myName='';}GAR.me=GAR.myName;GAR.B=backendSupa(cfg,key);garEnableUI();return;}
+ if(!window.claude||!window.claude.use)return;const db=await window.claude.use('db');if(!db)return;GAR.db=db;
+ GAR.user=await window.claude.use('user').catch(()=>null);GAR.me=GAR.user?await GAR.user.id().catch(()=>null):null;
+ const assets=await window.claude.use('assets').catch(()=>null);GAR.sample=await window.claude.use('sample').catch(()=>null);
+ if(GAR.sample){const lim=await GAR.sample.limits().catch(()=>null);GAR.lim=lim&&lim.images||null;}
+ db.doc('config/padrao').get().then(s=>{if(s.exists){const d=s.data();GAR.cfg={margem:num(d.margem)||20,com:num(d.com)||5};}}).catch(()=>{});
+ GAR.B=backendClaude(db,assets,GAR.sample);garEnableUI();}catch(e){console.warn('garagem indisponível',e);}}
 {const _rf=renderFavs;renderFavs=function(){if(GAR.on)renderGaragem();else _rf();};}
 {const _ol=openLot;openLot=function(l){_ol(l);if(!l||!GAR.on)return;GAR.editing=null;const acts=$('sheetBox').querySelector('.acts');if(!acts)return;const fb=$('sFav');
  if(fb){fb.id='sGar';fb.onclick=()=>gAddLot(l);refreshGarBtn(l);}}}

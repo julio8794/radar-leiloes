@@ -6,6 +6,7 @@ anchor = "\nfit();renderAll();renderAgenda();show('opo');locLabel();openFromHash
 assert anchor in t
 t = t.replace(anchor, "\n" + js + anchor, 1)
 css = """
+.gshare{background:#F4F1FB;border:1px solid #D9CFF2;border-radius:12px;padding:10px 12px;margin:8px 0;font-size:13px}.gshare>div{display:flex;gap:8px;margin-top:6px;flex-wrap:wrap}.gshare .btn{flex:1 1 auto;width:auto;margin:0}
 .gk{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:10px 0}
 .gk>div{background:var(--bg,#F3F5F7);border-radius:12px;padding:10px}.gk span{display:block;font-size:12px;color:var(--mut,#5b6675)}.gk b{display:block;font-size:20px;margin:2px 0}.gk small{font-size:11.5px;color:var(--mut,#5b6675)}
 .neg{color:#D63A2F}.pos{color:#0B8A63}
