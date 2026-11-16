@@ -6,8 +6,9 @@ Mega Leilões: 946
 u_copart.txt: 14057 lotes abertos
 u_freitas.txt: 1387 lotes abertos
 u_sodre.txt: 1476 lotes abertos
+u_vip.txt: 3129 lotes abertos
 u_zuk.txt: 934 lotes abertos
 Agenda pncp: 158 eventos
 Agenda: 249 leilões, 12757 lotes informados
 Não localizados no mapa: 42 [(('Sem Informação', 'SI'), 18), (('', 'NA'), 6), (('Não Informando', 'NI'), 6), (('Rio De Janeiro', 'NA'), 3), (('Fazenda Nova', 'PR'), 2)]
-OK: /home/claude/kit/radar-leiloes.html (4170 KB) · 60408 lotes · dados de 16/11/2026
+OK: /home/claude/kit/radar-leiloes.html (4397 KB) · 63537 lotes · dados de 16/11/2026

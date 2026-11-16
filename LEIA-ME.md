@@ -38,7 +38,7 @@ Para cada fonte:
 | u_zuk.txt | https://www.portalzuk.com.br/leilao-de-imoveis | scrapers/zuk.js (botão "Carregar mais" é lento: se parar antes do total, rode de novo com `window.__M={}` antes) | ~900–1.200 |
 | u_sodre.txt | https://www.sodresantoro.com.br/veiculos/lotes, depois /materiais/lotes, /imoveis/lotes, /sucatas/lotes | scrapers/sodre.js, uma seção por vez; acumula em sessionStorage (antes da 1ª seção rode `sessionStorage.removeItem('ssR')`; nas outras, a 1ª linha comentada do script) | ~2.000 |
 | u_freitas.txt | https://www.freitasleiloeiro.com.br/Leiloes/Pesquisar?query=&categoria=1, depois 2 e 3 | scrapers/freitas.js, uma categoria por vez; acumula em sessionStorage('ftR') (limpe antes da 1ª) | ~1.000–1.500 |
-| u_vip.txt | https://www.vipleiloes.com.br/pesquisa | scrapers/vip.js (~10 min; clica em "Próximo") | ~3.000 |
+| u_vip.txt | https://www.vipleiloes.com.br/pesquisa | scrapers/vip.js (~30 min; deixe a aba em primeiro plano se possível) | ~3.000 |
 | e_pncp.txt | https://pncp.gov.br/app/editais | scrapers/pncp.js (API pública documentada do PNCP; leilões de prefeituras, estados, Receita, Detrans) | ~150–250 eventos |
 
 **Fontes genéricas:** qualquer arquivo `raw/u_<fonte>.txt` no formato único de lotes

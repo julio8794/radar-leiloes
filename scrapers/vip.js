@@ -11,7 +11,8 @@ const grab=()=>{let k=0;for(const b of document.querySelectorAll('a.anc-body')){
  const t=title.toLowerCase();const g=/honda cg|cb |biz|pop|bros|titan|fan|xre|nxr|yamaha|factor|fazer|lander|crosser|nmax|suzuki|dafra|shineray|haojue|kawasaki|motos?\b/.test(t)?'moto':/caminh|scania|volvo|mercedes.*(atego|axor|accelo)|iveco|cargo|constellation|delivery|onibus|ônibus|carreta|reboque|semi/i.test(t)?'cam':'car';
  const card=b.closest('.crd-link')||b.parentElement;const img=(card.querySelector('img[src$=".jpg"],img[src$=".jpeg"],img[src$=".webp"]')||card.querySelector('img')||{}).src||'';
  __M[id]=1;k++;__R.push([id,'vip',g,{car:'Carros',moto:'Motos',cam:'Caminhões'}[g],S(km),S(title).slice(0,80),price||ini,'','',CAP[uf],uf,'','',dm?`${dm[3]}-${dm[2]}-${dm[1]} ${hm}`:'','VIP Leilões',bids,'Leilão online',b.href,img,'Pátio em '+uf+' (cidade no anúncio)'].join('|'));}catch(e){__st.err++;}}return k;};
-window.__job=(async()=>{for(let p=1;p<=(window.__MAXP||250);p++){__st.cur=p;grab();const first=(document.querySelector('a.anc-body')||{}).href;
- const nb=document.querySelector('a.page-link[aria-label="Next"]');if(!nb)break;nb.click();
- let w=0;while(w<150&&(document.querySelector('a.anc-body')||{}).href===first){await new Promise(r=>setTimeout(r,400));w++;if(w===75){const n2=document.querySelector('a.page-link[aria-label="Next"]');if(n2)n2.click();}}if(w>=150)break;await new Promise(r=>setTimeout(r,900));}
- __st.cur='FIM';})();return 'iniciado';})()
+const waitChange=first=>new Promise(res=>{const ok=()=>(document.querySelector('a.anc-body')||{}).href!==first;if(ok())return res(true);const mo=new MutationObserver(()=>{if(ok()){mo.disconnect();res(true);}});mo.observe(document.body,{childList:true,subtree:true});setTimeout(()=>{mo.disconnect();res(ok());},45000);});
+// espera por mutação do DOM (não por setTimeout), porque o Chrome limita timers em abas de fundo
+window.__job=(async()=>{for(let p=1;p<=(window.__MAXP||300);p++){__st.cur=p;grab();const first=(document.querySelector('a.anc-body')||{}).href;
+ const nb=document.querySelector('a.page-link[aria-label="Next"]');if(!nb)break;let ok=false;for(let t=0;t<4&&!ok;t++){const n=document.querySelector('a.page-link[aria-label="Next"]');if(!n)break;n.click();ok=await waitChange(first);}if(!ok)break;}
+ grab();__st.cur='FIM';})();return 'iniciado';})()
