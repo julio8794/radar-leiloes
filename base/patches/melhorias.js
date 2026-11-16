@@ -36,7 +36,10 @@ function icsDownload(name,ev){const now=new Date();const lines=['BEGIN:VCALENDAR
   ...(ev.allDay?['DTSTART;VALUE=DATE:'+ev.start.replace(/-/g,''),'DTEND;VALUE=DATE:'+ev.end.replace(/-/g,'')]:['DTSTART:'+icsDate(ev.start),'DTEND:'+icsDate(ev.endD)]),
   'SUMMARY:'+icsEsc(ev.title),'DESCRIPTION:'+icsEsc(ev.desc),'URL:'+ev.url,
   'BEGIN:VALARM','TRIGGER:'+ev.alarm,'ACTION:DISPLAY','DESCRIPTION:'+icsEsc(ev.alarmTxt),'END:VALARM','END:VEVENT','END:VCALENDAR'];
- const blob=new Blob([lines.join('\r\n')],{type:'text/calendar'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);a.click();
+ const txt=lines.join('\r\n');
+ if(window.claude&&window.claude.use){window.claude.use('downloads').then(d=>{if(!d)return icsBlob(name,txt);return d.save({filename:name,data:txt}).then(()=>toast('Lembrete salvo: abra o arquivo para pôr na sua agenda')).catch(()=>{});}).catch(()=>icsBlob(name,txt));return;}
+ icsBlob(name,txt);}
+function icsBlob(name,txt){const blob=new Blob([txt],{type:'text/calendar'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);a.click();
  setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove();},1000);toast('Lembrete baixado: abra o arquivo para pôr na sua agenda');}
 const isoDay=d=>{const z=new Date(d.getTime()-d.getTimezoneOffset()*6e4);return z.toISOString().slice(0,10);};
 const evKey=e=>e.uf+'|'+norm(e.org).slice(0,24)+'|'+isoDay(e.fim);
