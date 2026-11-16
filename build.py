@@ -277,13 +277,14 @@ for fn in sorted(os.listdir(RAW)):
         ini, fim, uf, city, org, lotes, plat, url, la, lo, obs, val, kd = c[:13]
         if NOEV.search(obs): continue
         url = url if url.startswith('http') else ('https://' + url if '.' in url else 'https://pncp.gov.br/app/editais')
-        k = (uf, norm(city), fim, val)
+        k = (uf, norm(city), fim, val, norm(obs)[:40])
         if k in seen_ev: continue
         seen_ev.add(k)
         kind = kd if kd in ('det', 'pub', 'pri', 'nic') else KINDDEF.get(src, 'pri')
+        if re.match(r'^DEPARTAMENTO (ESTADUAL )?DE TR[AÂ]NSITO', org, re.I): kind, org = 'det', 'Detran-' + uf
         try: v = str(round(float(val))) if val and float(val) > 100 else ''
         except: v = ''
-        b = len(EV); ev(fim if src == 'pncp' else (ini or fim), fim, uf, city, ('Prefeitura de ' + city) if re.match(r'^MUNIC[IÍ]PIO D', org, re.I) else org_nice(org), int(lotes) if lotes.isdigit() else 0, clean(plat, 40), url, clean(obs, 240), v, kind); n += len(EV) - b
+        b = len(EV); ev(fim if src == 'pncp' else (ini or fim), fim, uf, city, ('Prefeitura de ' + city) if re.match(r'^MUNIC[IÍ]PIO D', org, re.I) else org if org.startswith('Detran-') else org_nice(org), int(lotes) if lotes.isdigit() else 0, clean(plat, 40), url, clean(obs, 240), v, kind); n += len(EV) - b
     log(f'Agenda {src}:', n, 'eventos')
 # Detran-BA a partir dos lotes
 if nb_rows:

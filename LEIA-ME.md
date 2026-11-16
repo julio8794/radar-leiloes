@@ -38,7 +38,9 @@ Para cada fonte:
 | u_zuk.txt | https://www.portalzuk.com.br/leilao-de-imoveis | scrapers/zuk.js (botão "Carregar mais" é lento: se parar antes do total, rode de novo com `window.__M={}` antes) | ~900–1.200 |
 | u_sodre.txt | https://www.sodresantoro.com.br/veiculos/lotes, depois /materiais/lotes, /imoveis/lotes, /sucatas/lotes | scrapers/sodre.js, uma seção por vez; acumula em sessionStorage (antes da 1ª seção rode `sessionStorage.removeItem('ssR')`; nas outras, a 1ª linha comentada do script) | ~2.000 |
 | u_freitas.txt | https://www.freitasleiloeiro.com.br/Leiloes/Pesquisar?query=&categoria=1, depois 2 e 3 | scrapers/freitas.js, uma categoria por vez; acumula em sessionStorage('ftR') (limpe antes da 1ª) | ~1.000–1.500 |
-| u_vip.txt | https://www.vipleiloes.com.br/pesquisa | scrapers/vip.js (~30 min; deixe a aba em primeiro plano se possível) | ~3.000 |
+| u_vip.txt | https://www.vipleiloes.com.br/pesquisa | scrapers/vip.js (~10 min; clica em "Próximo") | ~3.000 |
+| e_detransp.txt | https://www.detran.sp.gov.br/detransp?id=editais_leilao | scrapers/detransp.js (tabela oficial de editais; instantâneo) | 3–15 leilões |
+| e_detranms.txt | https://www.detran.ms.gov.br/informativo/editais-leiloes-e-licitacoes/ | scrapers/detranms.js (instantâneo) | 2–8 leilões |
 | e_pncp.txt | https://pncp.gov.br/app/editais | scrapers/pncp.js (API pública documentada do PNCP; leilões de prefeituras, estados, Receita, Detrans) | ~150–250 eventos |
 
 **Fontes genéricas:** qualquer arquivo `raw/u_<fonte>.txt` no formato único de lotes
@@ -54,7 +56,9 @@ bonito a uma fonte nova, acrescente-a em `SRC_NAMES` no build.py.
   - Na virada do ano, troque 2026 por 2027 no endereço.
 - `raw/rs_cal.txt`: mesmo procedimento em https://pcsdetran.rs.gov.br/consulta-calendario-leilao.
 - `raw/agenda_extra.txt`: os outros estados, mantidos à mão.
-  - Faça 3–4 buscas na web por "leilão Detran" do mês corrente e do seguinte (DF, SP, PR, SC, GO, PE, CE, AL, SE, PB, RN, PI, MA, PA, AM, ES, RJ, MS, MT, TO, AC, RO).
+  - Faça 3–4 buscas na web por "leilão Detran" do mês corrente e do seguinte (DF, PR, SC, GO, PE, CE, SE, PB, RN, PI, MA, PA, AM, ES, RJ, MT, TO, AC, RO, RR, AP). SP e MS já são automáticos; leilões de Detran publicados no PNCP também entram sozinhos.
+  - Só use notícia com o ano 2026 explícito ou página oficial: muitas notícias de leilão são de anos anteriores.
+  - Páginas oficiais úteis: PR https://www.detran.pr.gov.br/Pagina/Leiloes-publicos · GO https://goias.gov.br/detran/leiloes/ · ES https://detran.es.gov.br (Editais de leilão)
   - Acrescente uma linha por leilão novo com data futura e dados oficiais (data, cidades, nº de lotes, leiloeiro, site). Não repita o que já existe. Formato no topo do arquivo.
 
 **Depois da coleta:**
