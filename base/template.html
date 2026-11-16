@@ -315,6 +315,8 @@ body:not([data-v=mapa]) #chips{display:none}
  .oc .ph{aspect-ratio:16/9}.orow{grid-auto-columns:64vw}
 }
 .bnav .ti{display:grid;place-items:center}
+.evk{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:6px;vertical-align:1px}
+.evobs{margin:12px 0 4px;font-size:14px;line-height:1.5;color:var(--ink)}
 </style>
 
 </head>
@@ -422,8 +424,8 @@ body:not([data-v=mapa]) #chips{display:none}
     <p class="ofoot">Dados públicos de Caixa, Detrans, Superbid, Mega Leilões e Leilão Imóvel. <button type="button" data-go="fontes">Fontes e como funciona</button> · <button type="button" data-go="calc">Calculadora de lucro</button></p>
   </div></section>
   <section class="view" id="v-agenda"><div class="page">
-    <div class="agh"><div><h2 style="margin:0 0 4px">Agenda de leilões de Detrans</h2><p class="mut" id="agSub" style="margin:0"></p></div>
-    <div class="agf"><select id="agUf" aria-label="Estado"></select><select id="agWhen" aria-label="Período"><option value="">Próximos</option><option value="7">Próximos 7 dias</option><option value="30">Próximos 30 dias</option></select></div></div>
+    <div class="agh"><div><h2 style="margin:0 0 4px">Agenda de leilões</h2><p class="mut" id="agSub" style="margin:0"></p></div>
+    <div class="agf"><select id="agUf" aria-label="Estado"></select><select id="agKind" aria-label="Tipo"><option value="">Todos os tipos</option><option value="det">Detrans</option><option value="pub">Prefeituras e órgãos públicos</option><option value="pri">Leiloeiros</option><option value="nic">Agro, arte e outros</option></select><select id="agWhen" aria-label="Período"><option value="">Próximos</option><option value="7">Próximos 7 dias</option><option value="30">Próximos 30 dias</option></select></div></div>
     <div id="agList"></div>
   </div></section>
   <section class="view" id="v-fontes"><div class="page">
@@ -479,7 +481,8 @@ const groupOf=cat=>{if(/sucata/i.test(cat))return 'suc';for(const g of GROUPS)if
 
 // ---------- Montagem dos dados ----------
 const AGG_PRE=CITIES.trim().split('\n').map(l=>{const c=l.split('|');return {city:c[0],uf:c[1],lat:+c[2],lon:+c[3],n:+c[4],desc:+c[5],min:+c[6]*1000};});
-const SRCN={caixa:'Caixa',superbid:'Superbid',detran:'Detran-BA',li:'Leilão Imóvel',mega:'Mega Leilões'};
+const SRCN=Object.assign({caixa:'Caixa',superbid:'Superbid',detran:'Detran-BA',li:'Leilão Imóvel',mega:'Mega Leilões'},typeof SRC_EXTRA!=='undefined'?SRC_EXTRA:{});
+{const s=document.getElementById('fSrc');if(s)s.innerHTML='<option value="">Todas as fontes</option>'+Object.entries(SRCN).sort((a,b)=>a[1].localeCompare(b[1])).map(([k,v])=>`<option value="${k}">${v}</option>`).join('')+'<option value="pncp">Agenda de órgãos públicos</option>';}
 const MOD={VDO:'Venda Direta Online',VO:'Venda Online',LSFI:'Leilão SFI (edital único)',LA:'Licitação Aberta'};
 const lots=[];
 CAIXA.trim().split('\n').forEach(l=>{const c=l.split('|');const id=c[0];
@@ -493,7 +496,7 @@ LOTS.split('\n').forEach(r=>{const c=r.split('|');if(c.length<18)return;
   const t=c[5];const yrM=c[2]!=='imo'?t.match(/\b(19[5-9]\d|20[0-2]\d)\b/g):null;
   lots.push({id:c[0],src:c[1],g:c[2],cat:c[3],sub:c[4],title:t,price:+c[6]||null,aval:+c[7]||null,desc:c[8]!==''?+c[8]:null,area:null,qto:null,ano:yrM?+yrM[yrM.length-1]:null,
    city:c[9],uf:c[10],lat:+c[11],lon:+c[12],end:c[13]?new Date(c[13].replace(' ','T')+':00-03:00'):null,seller:c[14],bids:c[15]!==''?+c[15]:null,mod:c[16],
-   link:c[1]==='superbid'?'https://exchange.superbid.net/oferta/'+slug(t)+'-'+c[0].slice(2):LBASE[c[1]]+c[17],img:c[18]||'',addr:c[19]||''});
+   link:c[1]==='superbid'?'https://exchange.superbid.net/oferta/'+slug(t)+'-'+c[0].slice(2):(LBASE[c[1]]||'')+c[17],img:c[18]||'',addr:c[19]||''});
   if(c[1]==='superbid')seenSB.add(c[0]);});
 const MOTO_RE=/\b(CG|BIZ|YBR|XRE|NXR|BROS|TITAN|FAN|PCX|TWISTER|FAZER|CBX?|XTZ|XLR?|POP|SHINERAY|SCOOTER|MOTO|MOTOCICLETA|MOBYLETE|MOBILETE|DAFRA|SUNDOWN|INTRUDER|CRYPTON|NINJA|HARLEY|VESPA|LEAD|FACTOR|CROSSER|QUADRICICLO|TRICICLO|DK150|JET)\b/i;
 DETRANBA.trim().split('\n').forEach(r=>{const c=r.split('|');if(c.length<10)return;const t=c[1].replace(/\s+/g,' ').trim();
@@ -752,31 +755,34 @@ $('files').onchange=async e=>{let n=0,aprox=0;const seen=new Set(lots.map(l=>l.i
 
 // ---------- Agenda dos Detrans ----------
 const DAY=864e5,TODAY=new Date(new Date().toDateString());
-const EVS=AGENDA.trim().split('\n').map((l,i)=>{const c=l.split('|');return {i,ini:new Date(c[0]+'T00:00:00-03:00'),fim:new Date(c[1]+'T23:59:00-03:00'),uf:c[2],cities:c[3].split(';'),org:c[4],n:+c[5],leil:c[6],url:c[7],lat:+c[8],lon:+c[9],obs:c[10]||''};}).filter(e=>e.fim>=TODAY);
+const EVK={det:'Leilão de Detran',pub:'Leilão público',pri:'Leilão',nic:'Leilão especial'},EVC={det:'var(--g-car)',pub:'#6A4BB0',pri:'#0B8A63',nic:'#B5651D'};
+function evGs(s,k){if(k==='det')return['car','moto','cam','suc'];const o=[];if(/im[oó]ve|terreno|lote(s)? urban|gleba|apartamento|pr[eé]dio|[aá]rea (de|p[uú]blica)|casa /i.test(s))o.push('imo');if(/ve[ií]cul|moto|caminh|carro|frota|[oô]nibus|ambul|sucata/i.test(s))o.push('car','moto','cam','suc');if(/m[aá]quina|trator|equipament|implement|p[aá] carreg|retro/i.test(s))o.push('maq','ind');if(/gado|bovino|equino|animais|semovente/i.test(s))o.push('div');return o.length?o:['ind','div','casa','tec'];}
+function evQ(e,cls){return e.n?`<b>${e.n.toLocaleString('pt-BR')}</b>${cls?'<span class="mut">lotes</span>':'lotes'}`:e.val>100?`<b>${brlK(e.val)}</b>${cls?'<span class="mut">em bens</span>':'em bens'}`:`<b>Edital</b>`;}
+const EVS=AGENDA.trim().split('\n').map((l,i)=>{const c=l.split('|');return {i,ini:new Date(c[0]+'T00:00:00-03:00'),fim:new Date(c[1]+'T23:59:00-03:00'),uf:c[2],cities:c[3].split(';'),org:c[4],n:+c[5],leil:c[6],url:c[7],lat:+c[8],lon:+c[9],obs:c[10]||'',val:+c[11]||0,kind:c[12]||'det',gs:evGs(c[10]+' '+c[4],c[12]||'det')};}).filter(e=>e.fim>=TODAY);
 const MES=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
 $('agUf').innerHTML='<option value="">Todos os estados</option>'+[...new Set(EVS.map(e=>e.uf))].sort().map(u=>`<option value="${u}">${UFN[u]}</option>`).join('');
-function agFilter(){const uf=$('agUf').value||st.uf;const w=+$('agWhen').value;const q=norm(st.q).split(/\s+/).filter(Boolean);
- return EVS.filter(e=>(!uf||e.uf===uf)&&nearOk(e.lat,e.lon)&&(!w||e.ini-TODAY<=w*DAY)&&(!q.length||q.every(x=>norm(e.cities.join(' ')+' '+e.org+' '+UFN[e.uf]).includes(x))));}
+function agFilter(){const uf=$('agUf').value||st.uf;const kd=$('agKind').value;const w=+$('agWhen').value;const q=norm(st.q).split(/\s+/).filter(Boolean);
+ return EVS.filter(e=>(!kd||e.kind===kd)&&(!uf||e.uf===uf)&&nearOk(e.lat,e.lon)&&(!w||e.ini-TODAY<=w*DAY)&&(!q.length||q.every(x=>norm(e.cities.join(' ')+' '+e.org+' '+UFN[e.uf]+' '+e.obs).includes(x))));}
 function evWhen(e){const d=Math.round((e.ini-TODAY)/DAY);return e.ini<=Date.now()&&e.fim>=Date.now()?'acontecendo':d<=0?'hoje':d===1?'amanhã':'em '+d+' dias';}
 function renderAgenda(){const L=agFilter();const tot=L.reduce((s,e)=>s+e.n,0);
- $('agSub').textContent=`${L.length} ${L.length===1?'leilão':'leilões'} · ${tot.toLocaleString('pt-BR')} veículos e sucatas${st.near?` até ${st.near.r} km de ${st.near.n}`:''}`;
+ $('agSub').textContent=`${L.length} ${L.length===1?'leilão':'leilões'}${tot?' · '+tot.toLocaleString('pt-BR')+' lotes informados':''}${st.near?` até ${st.near.r} km de ${st.near.n}`:''}`;
  let last='';$('agList').innerHTML=L.length?L.map(e=>{const mk=MES[e.ini.getMonth()]+' '+e.ini.getFullYear();const hd=mk!==last?`<div class="agd">${mk}</div>`:'';last=mk;const live=evWhen(e)==='acontecendo';
   const dias=e.fim-e.ini>DAY?` a ${e.fim.getDate()}/${e.fim.getMonth()+1}`:'';
-  return hd+`<div class="ev" data-ev="${e.i}"><div class="dt"><b>${e.ini.getDate()}</b><span>${MES[e.ini.getMonth()]}</span></div><div style="min-width:0"><div class="t">${e.org} · ${esc(e.cities[0])}${e.cities.length>1?' +'+(e.cities.length-1):''}${live?'<span class="live">AO VIVO</span>':''}</div><div class="m">${esc(e.cities.join(', '))} — ${esc(e.leil)}${dias?' · até'+dias:''}</div></div><div class="n"><b>${e.n.toLocaleString('pt-BR')}</b>lotes · ${evWhen(e)}</div></div>`;}).join(''):'<div class="empty">Nenhum leilão de Detran na agenda para esse filtro.</div>';
+  return hd+`<div class="ev" data-ev="${e.i}"><div class="dt"><b>${e.ini.getDate()}</b><span>${MES[e.ini.getMonth()]}</span></div><div style="min-width:0"><div class="t">${esc(e.org)}${norm(e.org).includes(norm(e.cities[0]))?'':' · '+esc(e.cities[0])}${e.cities.length>1?' +'+(e.cities.length-1):''}${live?'<span class="live">AO VIVO</span>':''}</div><div class="m">${e.kind==='det'?esc(e.cities.join(', '))+' — '+esc(e.leil):'<i class="evk" style="background:'+EVC[e.kind]+'"></i>'+esc(e.obs.slice(0,110))}${dias?' · até'+dias:''}</div></div><div class="n">${evQ(e)} · ${evWhen(e)}</div></div>`;}).join(''):'<div class="empty">Nenhum leilão na agenda para esse filtro.</div>';
  $('agList').querySelectorAll('.ev').forEach(r=>r.onclick=()=>openEv(EVS.find(e=>e.i===+r.dataset.ev)));}
 function openEv(e){if(!e)return;const fmt=d=>d.toLocaleDateString('pt-BR',{weekday:'short',day:'2-digit',month:'2-digit'});
- const facts=[['Data',fmt(e.ini)+(e.fim-e.ini>DAY?' a '+fmt(e.fim):'')],['Quando',evWhen(e)],['Lotes',e.n.toLocaleString('pt-BR')],['Estado',UFN[e.uf]],['Leiloeiro',e.leil],e.obs?['Detalhes',e.obs]:null].filter(Boolean);
- $('sheetBox').innerHTML=`<button class="close" id="sx" aria-label="Fechar">✕</button><span class="tag" style="background:var(--g-car);color:#fff">Leilão de Detran</span> <span class="tag gray">${e.org}</span>
-  <h2>${esc(e.org)} — ${esc(e.cities.join(', '))}</h2><div class="grid2">${facts.map(([k,v])=>`<div><span>${k}</span><b>${esc(String(v))}</b></div>`).join('')}</div>
-  <div class="row2"><a class="btn" href="${e.url}">Site do leilão / edital</a><button class="btn g" id="sMap">Ver no mapa</button></div>
-  <p class="note">Calendário oficial consultado em ${DATA_DATE}. Cadastre-se no site do leiloeiro com antecedência (geralmente 48 h) e confira o edital antes de dar lance.</p>`;
+ const facts=[['Data',fmt(e.ini)+(e.fim-e.ini>DAY?' a '+fmt(e.fim):'')],['Quando',evWhen(e)],e.n?['Lotes',e.n.toLocaleString('pt-BR')]:null,e.val>100?['Valor dos bens',brl(e.val)]:null,['Estado',UFN[e.uf]],[e.kind==='pub'?'Plataforma':'Leiloeiro',e.leil||'ver edital'],e.kind==='det'&&e.obs?['Detalhes',e.obs]:null].filter(Boolean);
+ $('sheetBox').innerHTML=`<button class="close" id="sx" aria-label="Fechar">✕</button><span class="tag" style="background:${EVC[e.kind]};color:#fff">${EVK[e.kind]}</span> <span class="tag gray">${e.org}</span>
+  <h2>${esc(e.org)}${norm(e.org).includes(norm(e.cities[0]))&&e.cities.length===1?'':' — '+esc(e.cities.join(', '))}</h2><div class="grid2">${facts.map(([k,v])=>`<div><span>${k}</span><b>${esc(String(v))}</b></div>`).join('')}</div>
+  ${e.kind!=='det'&&e.obs?`<p class="evobs">${esc(e.obs)}</p>`:''}<div class="row2"><a class="btn" href="${e.url}">Site do leilão / edital</a><button class="btn g" id="sMap">Ver no mapa</button></div>
+  <p class="note">${e.kind==='pub'?'Edital publicado no Portal Nacional de Contratações Públicas (PNCP)':'Calendário oficial'} consultado em ${DATA_DATE}. Cadastre-se no site do leiloeiro com antecedência (geralmente 48 h) e confira o edital antes de dar lance.</p>`;
  $('sheet').classList.add('on');$('sx').onclick=closeSheet;
  $('sMap').onclick=()=>{closeSheet();show('mapa');sheetMode('min');const[x,y]=P(e.lon,e.lat);scale=14;tx=500-x*scale;ty=500-y*scale;apply();};}
-$('agUf').onchange=renderAgenda;$('agWhen').onchange=renderAgenda;
-function renderAgPins(){const on=!st.g||['car','moto','cam','suc'].includes(st.g);const L=on&&st.src!=='caixa'&&st.src!=='superbid'&&st.src!=='li'&&st.src!=='mega'?EVS.filter(e=>(!st.uf||e.uf===st.uf)&&nearOk(e.lat,e.lon)):[];
- const s=9/scale;$('agl').innerHTML=L.map(e=>{const[x,y]=P(e.lon,e.lat);const dx=-14/scale,dy=-12/scale;return `<g class="agpin" data-ev="${e.i}" transform="translate(${x+dx},${y+dy})"><rect x="${-s}" y="${-s}" width="${2*s}" height="${2*s}" rx="${2.5/scale}" style="fill:var(--card);stroke:var(--g-car);stroke-width:${1.6/scale}"/><text x="0" y="${.5/scale}" text-anchor="middle" dominant-baseline="central" style="font-size:${7.5/scale}px;font-weight:700;fill:var(--g-car)">${e.ini.getDate()}/${e.ini.getMonth()+1}</text><title>${e.org} · ${e.cities[0]} · ${e.n} lotes</title></g>`;}).join('');}
+$('agUf').onchange=renderAgenda;$('agKind').onchange=renderAgenda;$('agWhen').onchange=renderAgenda;
+function renderAgPins(){const L=EVS.filter(e=>(!st.g||e.gs.includes(st.g))&&(!st.src||(st.src==='detran'&&e.kind==='det')||(st.src==='pncp'&&e.kind==='pub'))&&(!st.uf||e.uf===st.uf)&&nearOk(e.lat,e.lon));
+ const s=9/scale;$('agl').innerHTML=L.map(e=>{const[x,y]=P(e.lon,e.lat);const dx=-14/scale,dy=-12/scale;return `<g class="agpin" data-ev="${e.i}" transform="translate(${x+dx},${y+dy})"><rect x="${-s}" y="${-s}" width="${2*s}" height="${2*s}" rx="${2.5/scale}" style="fill:var(--card);stroke:${EVC[e.kind]};stroke-width:${1.6/scale}"/><text x="0" y="${.5/scale}" text-anchor="middle" dominant-baseline="central" style="font-size:${7.5/scale}px;font-weight:700;fill:${EVC[e.kind]}">${e.ini.getDate()}/${e.ini.getMonth()+1}</text><title>${esc(e.org)} · ${esc(e.cities[0])}</title></g>`;}).join('');}
 $('agl').addEventListener('click',ev=>{const g=ev.target.closest('.agpin');if(g){ev.stopPropagation();openEv(EVS.find(e=>e.i===+g.dataset.ev));}});
-$('agStats').innerHTML=`<p class="mut"><b style="color:var(--ink)">${EVS.length} leilões futuros</b> com ${EVS.reduce((s,e)=>s+e.n,0).toLocaleString('pt-BR')} lotes em ${new Set(EVS.map(e=>e.uf)).size} estados.</p>`;
+$('agStats').innerHTML=`<p class="mut"><b style="color:var(--ink)">${EVS.length} leilões futuros</b> em ${new Set(EVS.map(e=>e.uf)).size} estados: ${EVS.filter(e=>e.kind==='det').length} de Detrans e ${EVS.filter(e=>e.kind==='pub').length} de prefeituras e órgãos públicos.</p>`;
 const cntBy=(src,f)=>{const o={};lots.filter(l=>l.src===src).forEach(l=>{const k=f(l);o[k]=(o[k]||0)+1;});return Object.entries(o).sort((a,b)=>b[1]-a[1]);};
 $('liStats').innerHTML=`<p class="mut"><b style="color:var(--ink)">${lots.filter(l=>l.src==='li').length.toLocaleString('pt-BR')} imóveis</b> · `+cntBy('li',l=>l.mod).slice(0,6).map(([k,n])=>k+' '+n).join(' · ')+'</p>';
 $('mgStats').innerHTML=`<p class="mut"><b style="color:var(--ink)">${lots.filter(l=>l.src==='mega').length.toLocaleString('pt-BR')} lotes</b> · `+cntBy('mega',l=>G[l.g].s).map(([k,n])=>k+' '+n).join(' · ')+'</p>';
@@ -789,7 +795,8 @@ const OPO=[
  {seg:'imo',t:'Imóveis com 50% ou mais de desconto',d:'Preço bem abaixo da avaliação oficial',f:l=>l.g==='imo'&&l.desc>=50&&l.price,s:(a,b)=>b.desc-a.desc||a.price-b.price,act:{g:'imo',desc:50,sortL:'desc'}},
  {seg:'veic',t:'Carros para rodar até R$ 30 mil',d:'Conservados, com documento — sem sucatas',f:l=>l.g==='car'&&!isSuc(l)&&l.price>=2000&&l.price<=30000,s:(a,b)=>(b.bids||0)-(a.bids||0)||a.price-b.price,act:{g:'car',suc:'ok',max:30000,sortL:'low'}},
  {seg:'veic',t:'Motos até R$ 8 mil',d:'Conservadas, prontas para regularizar',f:l=>l.g==='moto'&&!isSuc(l)&&l.price>=300&&l.price<=8000,s:(a,b)=>(b.ano||0)-(a.ano||0)||a.price-b.price,act:{g:'moto',suc:'ok',max:8000,sortL:'ano'}},
- {seg:'veic',t:'Próximos leilões de Detran',d:'Calendários oficiais dos pátios',ev:true},
+ {seg:'veic',t:'Próximos leilões de Detran',d:'Calendários oficiais dos pátios',ev:'det'},
+ {seg:'*',t:'Prefeituras e órgãos públicos',d:'Veículos, máquinas e imóveis públicos (PNCP)',ev:'pub'},
  {seg:'imo',t:'Imóveis até R$ 80 mil',d:'Entrada mais baixa para começar',f:l=>l.g==='imo'&&l.price>=5000&&l.price<=80000,s:(a,b)=>(b.desc||0)-(a.desc||0)||a.price-b.price,act:{g:'imo',max:80000,sortL:'desc'}},
  {seg:'imo',t:'Leilões judiciais e de bancos',d:'Judiciais, extrajudiciais, PGFN, EMGEA e bancos',f:l=>l.g==='imo'&&(l.src==='li'||l.src==='mega')&&l.price,s:(a,b)=>(b.desc||0)-(a.desc||0),act:{g:'imo',src:'li',sortL:'desc'}},
  {seg:'imo',t:'Caixa: aceitam financiamento',d:'Imóveis da Caixa que podem ser financiados',f:l=>l.src==='caixa'&&l.fin&&l.price,s:(a,b)=>(b.desc||0)-(a.desc||0),act:null},
@@ -801,10 +808,10 @@ const OPO=[
  {seg:'out',t:'Tecnologia, casa e escritório',d:'Eletrônicos, móveis, cozinha industrial',f:l=>(l.g==='tec'||l.g==='casa')&&l.price,s:(a,b)=>(b.bids||0)-(a.bids||0)||a.price-b.price,act:{g:'tec',sortL:'bids'}},
  {seg:'out',t:'Barcos, joias, arte e outros',d:'Itens diferentes que aparecem nos leilões',f:l=>l.g==='div'&&l.price,s:(a,b)=>(b.bids||0)-(a.bids||0)||a.price-b.price,act:{g:'div',sortL:'bids'}},
 ];
-const TUDO=['Encerram em até 48 horas','Imóveis com 50% ou mais de desconto','Carros para rodar até R$ 30 mil','Motos até R$ 8 mil','Próximos leilões de Detran','Imóveis até R$ 80 mil','Máquinas pesadas e agro','Veículos mais disputados'];
+const TUDO=['Encerram em até 48 horas','Imóveis com 50% ou mais de desconto','Carros para rodar até R$ 30 mil','Motos até R$ 8 mil','Próximos leilões de Detran','Prefeituras e órgãos públicos','Imóveis até R$ 80 mil','Máquinas pesadas e agro','Veículos mais disputados'];
 function oCard(l){const g=G[l.g];const f=favs.has(l.id);const off=l.desc!=null&&l.desc>=20?`<span class="off">-${l.desc}%</span>`:isSuc(l)?'<span class="off gray">sucata</span>':'';
  return `<div class="oc" data-id="${l.id}"><div class="ph" style="--c:${g.c}"><i class="phic">${g.ic}</i>${l.img?`<img data-f loading="lazy" decoding="async" src="${esc(l.img)}" alt="">`:''}${off}<button class="ofav${f?' on':''}" data-fav="${l.id}" aria-label="${f?'Remover dos favoritos':'Favoritar'}">${f?'♥':'♡'}</button><span class="ptag">${l.price?brlK(l.price):'Consultar'}</span></div><div class="bd"><div class="t">${esc(l.title)}</div><div class="ft"><span>${esc(l.city)}/${l.uf}${l.ano?' · '+l.ano:''}</span>${l.end?cdHtml(l.end):''}</div></div></div>`;}
-function oEv(e){return `<div class="oc evc" data-ev="${e.i}"><div class="hd"><i style="background:var(--g-car)">📅</i>${esc(e.org)}</div><div class="dt">${e.ini.getDate()}<small>${MES[e.ini.getMonth()]} · ${evWhen(e)}</small></div><div class="t">${esc(e.cities.join(', '))}</div><div class="pr"><b>${e.n.toLocaleString('pt-BR')}</b><span class="mut">lotes</span></div><div class="ft"><span>${esc(e.leil)}</span></div></div>`;}
+function oEv(e){return `<div class="oc evc" data-ev="${e.i}"><div class="hd"><i style="background:${EVC[e.kind]}">📅</i>${esc(e.org)}</div><div class="dt">${e.ini.getDate()}<small>${MES[e.ini.getMonth()]} · ${evWhen(e)}</small></div><div class="t">${esc(e.cities.join(', '))}</div><div class="pr">${evQ(e,1)}</div><div class="ft"><span>${esc(e.leil)}</span></div></div>`;}
 function renderOpo(){const pool=lots.filter(l=>(!st.uf||l.uf===st.uf)&&nearOk(l.lat,l.lon));
  const where=st.near?`até ${st.near.r} km de ${st.near.n}`:st.uf?UFN[st.uf]:'todo o Brasil';
  $('heroSub').textContent=`${pool.length.toLocaleString('pt-BR')} lotes abertos em ${where}.`;renderQuick();renderTicker(pool);
@@ -813,7 +820,7 @@ function renderOpo(){const pool=lots.filter(l=>(!st.uf||l.uf===st.uf)&&nearOk(l.
  const seenL=store.get('rl_seen',[]).map(id=>BYID.get(id)).filter(Boolean);
  const secs=OPO.filter(s=>opoSeg?(s.seg===opoSeg||s.seg==='*'):TUDO.includes(s.t));if(!opoSeg)secs.sort((a,b)=>TUDO.indexOf(a.t)-TUDO.indexOf(b.t));
  let html=seenL.length&&!opoSeg?`<section class="osec"><div class="osh"><div><h3>Vistos por último</h3><p>Os lotes que você abriu neste aparelho</p></div><div class="nav"><button class="ar" data-sc="-1" aria-label="Anterior">‹</button><button class="ar" data-sc="1" aria-label="Próximo">›</button></div></div><div class="orow">${seenL.slice(0,14).map(oCard).join('')}</div></section>`:'';secs.forEach((s,i)=>{let items,n;
-  if(s.ev){items=evs.slice(0,12).map(oEv);n=evs.length;}else{const L=pool.filter(l=>s.f(l)&&(!opoSeg||SEGG[opoSeg](l.g)));n=L.length;items=L.sort(s.s).slice(0,14).map(oCard);}
+  if(s.ev){const E=evs.filter(e=>s.ev===true||e.kind===s.ev);items=E.slice(0,12).map(oEv);n=E.length;}else{const L=pool.filter(l=>s.f(l)&&(!opoSeg||SEGG[opoSeg](l.g)));n=L.length;items=L.sort(s.s).slice(0,14).map(oCard);}
   if(!items.length)return;const k=OPO.indexOf(s);
   html+=`<section class="osec"><div class="osh"><div><h3>${s.t}</h3><p>${s.d} · ${n.toLocaleString('pt-BR')} ${s.ev?'leilões':'lotes'}</p></div><div class="nav"><button class="ar" data-sc="-1" aria-label="Anterior">‹</button><button class="ar" data-sc="1" aria-label="Próximo">›</button>${s.ev?'<button data-ag="1">Ver agenda</button>':s.act?`<button data-act="${k}">Ver todos</button>`:''}</div></div><div class="orow">${items.join('')}</div></section>`;});
  $('opoBody').innerHTML=html||'<div class="empty">Nenhuma oportunidade com esse filtro de local. Aumente o raio ou escolha outro estado.</div>';}

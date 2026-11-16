@@ -1,8 +1,13 @@
 Caixa: 23783 imóveis em 1249 cidades
 Detran-BA: 1555 lotes
-Superbid: 15676 lotes abertos de 15767 coletados
-Leilão Imóvel: 938
+Superbid: 15382 lotes abertos de 15767 coletados
+Leilão Imóvel: 888
 Mega Leilões: 946
-Agenda: 95 leilões de Detran, 13675 lotes
-Não localizados no mapa: 40 [(('Sem Informação', 'SI'), 18), (('', 'NA'), 6), (('Não Informando', 'NI'), 6), (('Rio De Janeiro', 'NA'), 3), (('Fazenda Nova', 'PR'), 2)]
-OK: /home/claude/radar-leiloes/radar-leiloes.html (3061 KB) · 42898 lotes · dados de 13/11/2026
+u_copart.txt: 14057 lotes abertos
+u_freitas.txt: 1387 lotes abertos
+u_sodre.txt: 1476 lotes abertos
+u_zuk.txt: 934 lotes abertos
+Agenda pncp: 158 eventos
+Agenda: 249 leilões, 12757 lotes informados
+Não localizados no mapa: 42 [(('Sem Informação', 'SI'), 18), (('', 'NA'), 6), (('Não Informando', 'NI'), 6), (('Rio De Janeiro', 'NA'), 3), (('Fazenda Nova', 'PR'), 2)]
+OK: /home/claude/kit/radar-leiloes.html (4170 KB) · 60408 lotes · dados de 16/11/2026

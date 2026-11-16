@@ -12,7 +12,8 @@ from collections import Counter, defaultdict
 from datetime import date, datetime, timedelta
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-R = lambda f: os.path.join(HERE, 'raw', f)
+RAW = os.path.join(HERE, 'raw')
+R = lambda f: os.path.join(RAW, f)
 BASE = lambda f: os.path.join(HERE, 'base', f)
 TODAY = date.fromisoformat(sys.argv[1]) if len(sys.argv) > 1 else date.today()
 REPORT = []
@@ -183,16 +184,53 @@ for l in lines('mega.txt'):
         f'{g_[0]:.3f}', f'{g_[1]:.3f}', e, 'Mega Leilões', '', tipo or 'Leilão', href, c[11] if len(c) > 11 else '', '')
 log('Mega Leilões:', len(rows) - n0)
 
-# ======================= AGENDA DETRANS =======================
+# ======================= FONTES GENÉRICAS (raw/u_<fonte>.txt) =======================
+# id|src|g|cat|sub|titulo|preco|aval|desc|cidade|UF|lat|lon|fim|vendedor|lances|modalidade|link|foto|endereco
+SRC_NAMES = {'copart': 'Copart', 'zuk': 'Portal Zuk', 'bradesco': 'Vitrine Bradesco', 'bb': 'Seu Imóvel BB', 'santander': 'Santander Imóveis', 'sodre': 'Sodré Santoro',
+             'vip': 'VIP Leilões', 'milan': 'Milan Leilões', 'frazao': 'Frazão Leilões', 'franco': 'Franco Leilões', 'freitas': 'Freitas Leiloeiro', 'sold': 'Sold Leilões',
+             'biasi': 'Biasi Leilões', 'lancerural': 'Lance Rural', 'resale': 'Resale', 'leilomaster': 'Leilomaster', 'kronberg': 'Kronberg Leilões'}
+SRC_EXTRA = {}
+for fn in sorted(os.listdir(RAW)):
+    if not (fn.startswith('u_') and fn.endswith('.txt')): continue
+    n = 0
+    for l in lines(fn):
+        c = l.split('|')
+        if len(c) < 18: continue
+        c += [''] * (20 - len(c))
+        if c[0] in seen or not still_open(c[13]): continue
+        city, uf = re.sub(r'\s+(I{1,3}|IV|V)$', '', re.sub(r'\s*\(.*?\)\s*', ' ', c[9]).strip()), c[10].strip().upper()
+        city = {('PIRAPORA', 'SP'): 'Pirapora do Bom Jesus', ('LEILÃO PÁTIO PORTO SEGURO', 'SP'): 'São Paulo'}.get((city.upper(), uf), city)
+        if not c[11] or not c[12]:
+            g_ = geo(city, uf) if uf else None
+            if not g_: continue
+            c[11], c[12] = f'{g_[0]:.3f}', f'{g_[1]:.3f}'
+        if c[2] not in CATN: c[2] = 'div'
+        if c[2] == 'imo' and c[19].startswith('Local de'):  # cidade do imóvel no título ("... - CIDADE - UF")
+            m = re.search(r'[-–]\s*([^-–]{3,40}?)\s*[-/]\s*([A-Z]{2})\s*$', c[5]) or re.match(r'^([^.,;:-]{3,40}?)\s*[-/]\s*([A-Z]{2})\b', c[5])
+            if m and geo(m.group(1), m.group(2)): city, uf = m.group(1).strip(), m.group(2); c[19] = ''; c[11] = c[12] = ''
+        if not c[11]:
+            g_ = geo(city, uf)
+            if not g_: continue
+            c[11], c[12] = f'{g_[0]:.3f}', f'{g_[1]:.3f}'
+        try:  # lance simbólico (ex.: R$ 50 com avaliação de R$ 40 mil) não é desconto real
+            if c[6] and c[7] and float(c[6]) < 0.15 * float(c[7]): c[7] = c[8] = ''
+        except ValueError: pass
+        c[9] = canon(city, uf); c[10] = uf
+        seen.add(c[0]); rows.append('|'.join(clean(x, 240) if i in (5, 19) else x for i, x in enumerate(c[:20]))); n += 1
+        SRC_EXTRA[c[1]] = SRC_NAMES.get(c[1], c[1].title())
+    log(f'{fn}:', n, 'lotes abertos')
+
+# ======================= AGENDA =======================
 EV = []
-def ev(ini, fim, uf, cities, org, lotes, leil, url, obs=''):
+def ev(ini, fim, uf, cities, org, lotes, leil, url, obs='', val='', kind='det'):
     if fim < TODAY.isoformat(): return
+    if uf not in CAP: return
     g = None
     for cty in cities.split(';'):
         g = geo(cty.strip(), uf)
         if g: break
     g = g or MUN[key(CAP[uf], uf)]
-    EV.append('|'.join(map(str, [ini, fim, uf, ';'.join(canon(x.strip(), uf) for x in cities.split(';')), org, lotes, leil, url, f'{g[0]:.4f}', f'{g[1]:.4f}', obs])))
+    EV.append('|'.join(map(str, [ini, fim, uf, ';'.join(canon(x.strip(), uf) for x in cities.split(';')), org, lotes or 0, leil, url, f'{g[0]:.4f}', f'{g[1]:.4f}', obs, val, kind])))
 # MG (texto da página de calendário)
 mg = '\n'.join(lines('mg_cal.txt'))
 for c, ed, d, h, q, p in re.findall(r'\n([A-ZÁÉÍÓÚÂÊÔÃÕÇ\' \-]{3,40})\n+Edital nº ([\d/]+)\n+Data: ([^\n]+)\nHora: ([^\n]+)\nQuantidade de Veículos: (\d+)\.\nPátio: ([^\n]+)\.', '\n' + mg):
@@ -219,12 +257,40 @@ for l in lines('agenda_extra.txt'):
     if l.startswith('#'): continue
     c = l.split('|')
     if len(c) >= 8: ev(*c[:8], c[8] if len(c) > 8 else '')
+# Fontes genéricas de eventos: raw/e_<fonte>.txt  ini|fim|UF|cidade|orgao|lotes|plataforma|url|lat|lon|descricao|valor|esfera/tipo
+KINDDEF = {'pncp': 'pub'}
+NOEV = re.compile(r'cess[aã]o onerosa|direitos? credit[oó]ri|fluxos? financeir|folha de pagamento', re.I)
+def org_nice(o):
+    o = o.strip()
+    m = re.match(r'^MUNIC[IÍ]PIO (DA ESTANCIA TURISTICA )?D[EOA]S? (.+)$', o, re.I)
+    if m: return 'Prefeitura de ' + m.group(2).title().replace(' De ', ' de ').replace(' Do ', ' do ').replace(' Da ', ' da ').replace(' Dos ', ' dos ').replace(' Das ', ' das ')
+    if o == 'MINISTERIO DA ECONOMIA': return 'Receita Federal'
+    if o.isupper(): o = o.title()
+    return re.sub(r'\b(De|Do|Da|Dos|Das|E)\b', lambda x: x.group(1).lower(), o)
+for fn in sorted(os.listdir(RAW)):
+    if not (fn.startswith('e_') and fn.endswith('.txt')): continue
+    src = fn[2:-4]; seen_ev = set(); n = 0
+    for l in lines(fn):
+        c = l.split('|')
+        if len(c) < 8 or l.startswith('#'): continue
+        c += [''] * (13 - len(c))
+        ini, fim, uf, city, org, lotes, plat, url, la, lo, obs, val, kd = c[:13]
+        if NOEV.search(obs): continue
+        url = url if url.startswith('http') else ('https://' + url if '.' in url else 'https://pncp.gov.br/app/editais')
+        k = (uf, norm(city), fim, val)
+        if k in seen_ev: continue
+        seen_ev.add(k)
+        kind = kd if kd in ('det', 'pub', 'pri', 'nic') else KINDDEF.get(src, 'pri')
+        try: v = str(round(float(val))) if val and float(val) > 100 else ''
+        except: v = ''
+        b = len(EV); ev(fim if src == 'pncp' else (ini or fim), fim, uf, city, ('Prefeitura de ' + city) if re.match(r'^MUNIC[IÍ]PIO D', org, re.I) else org_nice(org), int(lotes) if lotes.isdigit() else 0, clean(plat, 40), url, clean(obs, 240), v, kind); n += len(EV) - b
+    log(f'Agenda {src}:', n, 'eventos')
 # Detran-BA a partir dos lotes
 if nb_rows:
     ds = sorted({r.split('|')[6] for r in nb_rows if r.split('|')[6]}); cs = Counter(r.split('|')[3] for r in nb_rows)
     ev(ds[0], ds[-1], 'BA', ';'.join(c for c, _ in cs.most_common(12)), 'Detran-BA', len(nb_rows), 'Nordeste Leilões', 'https://www.nordesteleiloes.com.br', 'Lotes detalhados no mapa (filtro de fonte Detran-BA)')
 EV.sort()
-log('Agenda:', len(EV), 'leilões de Detran,', sum(int(e.split('|')[5]) for e in EV), 'lotes')
+log('Agenda:', len(EV), 'leilões,', sum(int(e.split('|')[5]) for e in EV), 'lotes informados')
 
 # ======================= HTML =======================
 gz = lambda s: base64.b64encode(gzip.compress(s.encode('utf-8'), 9)).decode()
@@ -240,6 +306,7 @@ data = '\n'.join([
     f"const CX_COUNT={len(cx_rows)};",
     f"const CX_CITIES={len(cities)};",
     "const CX_MOD=" + json.dumps(dict(cx_mod), ensure_ascii=False) + ";",
+    "const SRC_EXTRA=" + json.dumps(SRC_EXTRA, ensure_ascii=False) + ";",
     "const SB_TOTALS=" + json.dumps(dict(sbt), ensure_ascii=False) + ";",
 ])
 out = t.replace('/*DATA*/', data).replace('<script>\n(async()=>{', '<script>const LOTS_GZ="' + gz('\n'.join(rows)) + '";const CAIXA_GZ="' + gz('\n'.join(cx_rows)) + '";</script>\n<script>\n(async()=>{', 1)
