@@ -1,0 +1,2 @@
+{"name":"Radar de Leilões","short_name":"Radar Leilões","description":"Leilões de imóveis, veículos e bens de todo o Brasil num só mapa","start_url":"./","scope":"./","display":"standalone","background_color":"#F3F5F7","theme_color":"#14284B","lang":"pt-BR",
+ "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"},{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}

@@ -13,4 +13,4 @@ Agenda detransp: 6 eventos
 Agenda pncp: 160 eventos
 Agenda: 262 leilões, 12842 lotes informados
 Não localizados no mapa: 42 [(('Sem Informação', 'SI'), 18), (('', 'NA'), 6), (('Não Informando', 'NI'), 6), (('Rio De Janeiro', 'NA'), 3), (('Fazenda Nova', 'PR'), 2)]
-OK: /home/claude/kit/radar-leiloes.html (4401 KB) · 63537 lotes · dados de 16/11/2026
+OK: /home/claude/kit/radar-leiloes.html (4414 KB) · 63537 lotes · dados de 16/11/2026
