@@ -203,6 +203,16 @@ Quantidade de Veículos: 95.
 Pátio: Veredas.
 Visita ao Pátio: 28 a 29/12/2026 - 09h às 12h e 13h às 16h.
 
+JUIZ DE FORA
+
+Edital nº 1983/2026
+
+Data: 04 a 08/01/2027.
+Hora: 08h do dia 04/01/2027 às 08h do dia 08/01/2027.
+Quantidade de Veículos: 279.
+Pátio: Suprema.
+Visita ao Pátio: 28 a 29/12/2026 - 09h às 17h.
+
 SÃO FRANCISCO
 
 Edital nº 1997/2026
@@ -282,6 +292,26 @@ Hora: 08h do dia 18/12/2026 às 18h do dia 18/12/2026.
 Quantidade de Veículos: 32.
 Pátio: Jequiguincho.
 Visita ao Pátio: 14 a 15/12/2026 - 09h às 12h e 13h às 16h.
+
+TRÊS PONTAS
+
+Edital nº 2005/2026
+
+Data: 18 a 22/12/2026.
+Hora: 08h do dia 18/12/2026 às 17h do dia 22/12/2026.
+Quantidade de Veículos: 89.
+Pátio: Reboque Padre Vitor.
+Visita ao Pátio: 16/12/2026 - 08h às 12h e 14h às 17h.
+
+ESPINOSA
+
+Edital nº 1971/2026
+
+Data: 17 a 18/12/2026.
+Hora: 08h do dia 17/12/2026 às 18h do dia 18/12/2026.
+Quantidade de Veículos: 114.
+Pátio: Pátio de Veículos de Espinosa Ltda.
+Visita ao Pátio: 15 a 16/12/2026 - 09h às 12h e 13h às 16h.
 
 JACINTO
 
@@ -405,7 +435,7 @@ Visita ao Pátio: 23 a 27/11/2026 - 08:30h às 12h e 13h às 18h.
 
 BELO HORIZONTE
 
-Edital nº 1977/2026
+Edital nº 1977/2026 | Errata Edital nº 1977/2026
 
 Data: 03 a 04/12/2026.
 Hora: 08h do dia 03/12/2026 às 18h do dia 04/12/2026.
@@ -445,11 +475,11 @@ Visita ao Pátio: 25 a 26/11/2026 - 09h às 12h e 13h às 16h.
 
 BELO HORIZONTE
 
-Edital nº 1987/2026
+Edital nº 1987/2026 | Errata Edital nº 1987/2026
 
 Data: 01 a 03/12/2026.
 Hora: 08h do dia 01/12/2026 às 18h do dia 03/12/2026.
-Quantidade de Veículos: 149.
+Quantidade de Veículos: 148.
 Pátio: Novo BH.
 Visita ao Pátio: 26 a 27/11/2026 - 09h às 12h e 13h às 16h.
 
@@ -693,9 +723,9 @@ Quantidade de Veículos: 65.
 Pátio: Autolandia.
 Visita ao Pátio: 18 a 19/11/2026 - 08h às 17:55h.
 
-BARBACENA
+BARBACENA - REVOGADO
 
-Edital nº 1911/2026
+Edital nº 1911/2026 | REVOGAÇÃO Edital nº 1911/2026
 
 Data: 23 a 25/11/2026.
 Hora: 08h do dia 23/11/2026 às 17h do dia 25/11/2026.
