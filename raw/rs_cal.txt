@@ -61,7 +61,7 @@ Abrir Edital
 
 Edital EMAV: 0041/2026 (conforme Portarias nº 249 e 234/2022)
 
-Veículos/Sucatas: 471
+Veículos/Sucatas: 469
 
 Data do Leilão: 02/12/2026 10:00:00
 
@@ -95,7 +95,7 @@ Abrir Edital
 
 Edital EMAV: 0042/2026 (conforme Portarias nº 249 e 234/2022)
 
-Veículos/Sucatas: 538
+Veículos/Sucatas: 537
 
 Data do Leilão: 09/12/2026 10:00:00
 
@@ -129,7 +129,7 @@ Abrir Edital
 
 Edital EMAV: 0043/2026 (conforme Portarias nº 249 e 234/2022)
 
-Veículos/Sucatas: 411
+Veículos/Sucatas: 410
 
 Data do Leilão: 16/12/2026 10:00:00
 

@@ -1,16 +1,16 @@
-Caixa: 23756 imóveis em 1245 cidades
-Detran-BA: 1540 lotes
-Superbid: 17095 lotes abertos de 17183 coletados
-Leilão Imóvel: 939
-Mega Leilões: 904
-u_copart.txt: 14249 lotes abertos
-u_freitas.txt: 1387 lotes abertos
-u_sodre.txt: 1476 lotes abertos
-u_vip.txt: 3041 lotes abertos
-u_zuk.txt: 861 lotes abertos
+Caixa: 25223 imóveis em 1277 cidades
+Detran-BA: 1549 lotes
+Superbid: 16177 lotes abertos de 16241 coletados
+Leilão Imóvel: 941
+Mega Leilões: 809
+u_copart.txt: 14494 lotes abertos
+u_freitas.txt: 1404 lotes abertos
+u_sodre.txt: 1697 lotes abertos
+u_vip.txt: 2352 lotes abertos
+u_zuk.txt: 1023 lotes abertos
 Agenda detranms: 5 eventos
 Agenda detransp: 5 eventos
-Agenda pncp: 164 eventos
-Agenda: 264 leilões, 12600 lotes informados
-Não localizados no mapa: 40 [(('Sem Informação', 'SI'), 17), (('', 'NA'), 6), (('Não Informando', 'NI'), 6), (('Rio De Janeiro', 'NA'), 3), (('Fazenda Nova', 'PR'), 2)]
-OK: /home/claude/radar-leiloes/radar-leiloes.html (4583 KB) · 65248 lotes · dados de 17/11/2026
+Agenda pncp: 172 eventos
+Agenda: 261 leilões, 11406 lotes informados
+Não localizados no mapa: 35 [(('Sem Informação', 'SI'), 12), (('Não Informando', 'NI'), 7), (('', 'NA'), 5), (('Rio De Janeiro', 'NA'), 2), (('Fazenda Nova', 'PR'), 2)]
+OK: /home/claude/radar-leiloes/radar-leiloes.html (4571 KB) · 65669 lotes · dados de 23/11/2026

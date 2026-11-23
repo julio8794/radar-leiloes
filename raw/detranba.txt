@@ -1,19 +1,19 @@
-230-001|HONDA/POP 110I - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800||230-001-veiculo-conservado-hondapop-110i-20162016|5d891277f01e439a3951a96d8c3afb1b.jpg
-230-002|SHINERAY/50Q - 2022/2022|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500||230-002-veiculo-conservado-shineray50q-20222022|acb96d1ae0024a583af69206f035dfaf.jpg
-230-003|HONDA/CG 125 FAN ES - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800||230-003-veiculo-conservado-hondacg-125-fan-es-20102010|10b593e6f15fcf27887d80c1f1e10a0c.jpg
-230-004|HONDA/CG 125I CARGO - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|900||230-004-veiculo-conservado-hondacg-125i-cargo-20162016|4931ac83946b2aac4afb18e7ae0b5834.jpg
-230-005|HONDA/CG150 TITAN MIX EX - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|900||230-005-veiculo-conservado-hondacg150-titan-mix-ex-20102010|bb445da9ab7b972ec6db2205461b9d42.jpg
-230-006|HONDA/CG 160 TITAN EX - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000||230-006-veiculo-conservado-hondacg-160-titan-ex-20162016|0193f131b1ae9f82d9dc5cad26ccfd7e.jpg
-230-007|HONDA/CG 160 START - 2025/2025|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000||230-007-veiculo-conservado-hondacg-160-start-20252025|60f95256ab6196bb0a143a1f07f4e81c.jpg
-230-008|HONDA/CG 125 FAN - 2008/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|700||230-008-veiculo-conservado-hondacg-125-fan-20082008|1a52b088d96a622491926cc20d69f5ee.jpg
-230-009|YAMAHA/YBR 125K - 2007/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500||230-009-veiculo-conservado-yamahaybr-125k-20072008|c9edd4c871fb0d3d294d7522ce426558.jpg
-230-010|HONDA/CG150 TITAN MIX KS - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800||230-010-veiculo-conservado-hondacg150-titan-mix-ks-20102010|323d117889318aba9180e91b11fc9e5a.jpg
-230-011|HONDA/CG 160 FAN - 2019/2020|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000||230-011-veiculo-conservado-hondacg-160-fan-20192020|8bfaba33dda2ae9d0969d047d3d32221.jpg
-230-012|HONDA/CG 125 FAN - 2005/2005|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|700||230-012-veiculo-conservado-hondacg-125-fan-20052005|bc337ec0c1f4a184e8eb6d9a6f399866.jpg
-230-013|I/SHINERAY XY 50 Q - 2013/2014|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|300||230-013-veiculo-conservado-ishineray-xy-50-q-20132014|0ba46200ce3b2117d4e4777452cd08e2.jpg
-230-014|FORD/FIESTA FLEX - 2010/2011|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|3000||230-014-veiculo-conservado-fordfiesta-flex-20102011|5164f2b56d276b5d34ebfcd35a4ba277.jpg
-230-015|YAMAHA/YBR 125E - 2008/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|600||230-015-veiculo-conservado-yamahaybr-125e-20082008|19b468132f1f92dfadadbe8e763ae602.jpg
-230-016|PEUGEOT/207PASSION XR S - 2009/2009|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000||230-016-veiculo-conservado-peugeot207passion-xr-s-20092009|53ff576c005ab0a60a3574faf0ddb454.jpg
+230-001|HONDA/POP 110I - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800|2026-11-25|230-001-veiculo-conservado-hondapop-110i-20162016|5d891277f01e439a3951a96d8c3afb1b.jpg
+230-002|SHINERAY/50Q - 2022/2022|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500|2026-11-25|230-002-veiculo-conservado-shineray50q-20222022|acb96d1ae0024a583af69206f035dfaf.jpg
+230-003|HONDA/CG 125 FAN ES - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800|2026-11-25|230-003-veiculo-conservado-hondacg-125-fan-es-20102010|10b593e6f15fcf27887d80c1f1e10a0c.jpg
+230-004|HONDA/CG 125I CARGO - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|900|2026-11-25|230-004-veiculo-conservado-hondacg-125i-cargo-20162016|4931ac83946b2aac4afb18e7ae0b5834.jpg
+230-005|HONDA/CG150 TITAN MIX EX - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|900|2026-11-25|230-005-veiculo-conservado-hondacg150-titan-mix-ex-20102010|bb445da9ab7b972ec6db2205461b9d42.jpg
+230-006|HONDA/CG 160 TITAN EX - 2016/2016|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000|2026-11-25|230-006-veiculo-conservado-hondacg-160-titan-ex-20162016|0193f131b1ae9f82d9dc5cad26ccfd7e.jpg
+230-007|HONDA/CG 160 START - 2025/2025|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000|2026-11-25|230-007-veiculo-conservado-hondacg-160-start-20252025|60f95256ab6196bb0a143a1f07f4e81c.jpg
+230-008|HONDA/CG 125 FAN - 2008/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|700|2026-11-25|230-008-veiculo-conservado-hondacg-125-fan-20082008|1a52b088d96a622491926cc20d69f5ee.jpg
+230-009|YAMAHA/YBR 125K - 2007/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500|2026-11-25|230-009-veiculo-conservado-yamahaybr-125k-20072008|c9edd4c871fb0d3d294d7522ce426558.jpg
+230-010|HONDA/CG150 TITAN MIX KS - 2010/2010|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800|2026-11-25|230-010-veiculo-conservado-hondacg150-titan-mix-ks-20102010|323d117889318aba9180e91b11fc9e5a.jpg
+230-011|HONDA/CG 160 FAN - 2019/2020|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000|2026-11-25|230-011-veiculo-conservado-hondacg-160-fan-20192020|8bfaba33dda2ae9d0969d047d3d32221.jpg
+230-012|HONDA/CG 125 FAN - 2005/2005|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|700|2026-11-25|230-012-veiculo-conservado-hondacg-125-fan-20052005|bc337ec0c1f4a184e8eb6d9a6f399866.jpg
+230-013|I/SHINERAY XY 50 Q - 2013/2014|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|300|2026-11-25|230-013-veiculo-conservado-ishineray-xy-50-q-20132014|0ba46200ce3b2117d4e4777452cd08e2.jpg
+230-014|FORD/FIESTA FLEX - 2010/2011|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|3000|2026-11-25|230-014-veiculo-conservado-fordfiesta-flex-20102011|5164f2b56d276b5d34ebfcd35a4ba277.jpg
+230-015|YAMAHA/YBR 125E - 2008/2008|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|600|2026-11-25|230-015-veiculo-conservado-yamahaybr-125e-20082008|19b468132f1f92dfadadbe8e763ae602.jpg
+230-016|PEUGEOT/207PASSION XR S - 2009/2009|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000|2026-11-25|230-016-veiculo-conservado-peugeot207passion-xr-s-20092009|53ff576c005ab0a60a3574faf0ddb454.jpg
 230-017|HONDA/CG 160 FAN - 2023/2023|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000||230-017-veiculo-conservado-hondacg-160-fan-20232023|b9952fe2c16523d9d3879bfa9d6f0d7e.jpg
 230-018|VEÍCULO CONSERVADOHONDA/CG 150 TITAN EX - 2011/2012|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|900||230-018-veiculo-conservadohondacg-150-titan-ex-20112012|a967e9508aa600637756cf1941d64d77.jpg
 231-001|HONDA/CG 125 FAN KS - 2012/2012|C|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800||231-001-veiculo-conservado-hondacg-125-fan-ks-20122012|110188582af8025d263cb32c8827c7d3.jpg
@@ -46,38 +46,38 @@
 233-022|YAMAHA/YS150 FAZER SED - 2013/2014|C|Baixa de Santo Antônio, Salvador - BA|1000||233-022-veiculo-conservado-yamahays150-fazer-sed-20132014|b4fa729c1221a9ec71c5a2bfc5f6913e.jpg
 233-023|YAMAHA/XTZ250 LANDER - 2021/2021|C|Baixa de Santo Antônio, Salvador - BA|2000||233-023-veiculo-conservado-yamahaxtz250-lander-20212021|826d2ce63be501bdbe70d03231855db5.jpg
 233-024|YAMAHA/FAZER250 BLUEFLEX - 2014/2014|C|Baixa de Santo Antônio, Salvador - BA|2000||233-024-veiculo-conservado-yamahafazer250-blueflex-20142014|f2afa34d2ff830b8750114dba8952353.jpg
-233-025|VW/POLO TRACK MA - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|7000||233-025-veiculo-conservado-vwpolo-track-ma-20232023|e0052a3543cbca7d71dbde75b970e17b.png
-233-026|HONDA/CG 125 FAN KS - 2012/2012|C|Baixa de Santo Antônio, Salvador - BA|800||233-026-veiculo-conservado-hondacg-125-fan-ks-20122012|4df8871cf70a37f0918ba41936af3205.jpg
-233-027|SHINERAY/50Q - 2020/2021|C|Baixa de Santo Antônio, Salvador - BA|500||233-027-veiculo-conservado-shineray50q-20202021|12176d463df3bb3ebeb370d263e09fff.jpg
-233-028|HONDA/POP 110I - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|1000||233-028-veiculo-conservado-hondapop-110i-20232023|b618cb27ad4d239efdaa00ab6018f56e.jpg
-233-029|VW/FOX 1.0 - 2007/2008|C|Baixa de Santo Antônio, Salvador - BA|3000||233-029-veiculo-conservado-vwfox-10-20072008|9611375a345020d7b58cca6107c27071.jpeg
-233-030|YAMAHA/YBR 125K - 2005/2006|C|Baixa de Santo Antônio, Salvador - BA|500||233-030-veiculo-conservado-yamahaybr-125k-20052006|bd06f9d7fbb4fe4f5b0ccb1f24ae1537.jpg
-233-031|HONDA/CG 125 FAN KS - 2011/2011|C|Baixa de Santo Antônio, Salvador - BA|800||233-031-veiculo-conservado-hondacg-125-fan-ks-20112011|7c2ae493b74d81e703d7bf13ee45fb3a.jpg
-233-032|HONDA/CG 160 FAN - 2024/2024|C|Baixa de Santo Antônio, Salvador - BA|2000||233-032-veiculo-conservado-hondacg-160-fan-20242024|50d1a94b16c14961e816921dd96de7ba.jpg
-233-033|YAMAHA/YS150 FAZER SED - 2024/2025|C|Baixa de Santo Antônio, Salvador - BA|1000||233-033-veiculo-conservado-yamahays150-fazer-sed-20242025|f5df1663a46a5e9bdf4eee8888296e23.jpeg
-233-034|HONDA/NXR150 BROS ESD - 2012/2013|C|Baixa de Santo Antônio, Salvador - BA|2000||233-034-veiculo-conservado-hondanxr150-bros-esd-20122013|1897d819d0f59f31cbf5bc659de34bdb.jpeg
-233-035|HONDA/NXR150 BROS KS - 2007/2007|C|Baixa de Santo Antônio, Salvador - BA|700||233-035-veiculo-conservado-hondanxr150-bros-ks-20072007|1fb806389e434c5a7bfef583b5835000.jpeg
-233-036|HONDA/CG 160 START - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|2000||233-036-veiculo-conservado-hondacg-160-start-20232023|3186c2135417f5c050c85db66e0bf477.jpg
-233-037|VW/GOL 1.0 - 2011/2012|C|Baixa de Santo Antônio, Salvador - BA|3000||233-037-veiculo-conservado-vwgol-10-20112012|3c6a5bae449433ec3dc4556002699180.jpeg
-233-038|HONDA/POP100 - 2011/2011|C|Baixa de Santo Antônio, Salvador - BA|600||233-038-veiculo-conservado-hondapop100-20112011|d21b9be405ec2224edf26507b4e220ef.jpg
-233-039|HONDA/CG 125 FAN KS - 2010/2010|C|Baixa de Santo Antônio, Salvador - BA|800||233-039-veiculo-conservado-hondacg-125-fan-ks-20102010|86699cb4a6c33f4960c62c6fcc8b4503.jpg
-233-040|DAFRA/RIVA 150 - 2012/2012|C|Baixa de Santo Antônio, Salvador - BA|400||233-040-veiculo-conservado-dafrariva-150-20122012|af9ccc24bc1e77f806e97d25f5463668.jpeg
-233-041|HONDA/CBX 250 TWISTER - 2006/2006|C|Baixa de Santo Antônio, Salvador - BA|800||233-041-veiculo-conservado-hondacbx-250-twister-20062006|c62d17efab0a12848501b6c7f8d5a3c6.jpeg
-233-042|HONDA/NXR160 BROS ESD - 2014/2015|C|Baixa de Santo Antônio, Salvador - BA|2000||233-042-veiculo-conservado-hondanxr160-bros-esd-20142015|0bbb33f740199fa93a7c76233f8f25b1.jpeg
-233-043|HONDA/CG150 FAN ESDI - 2015/2015|C|Baixa de Santo Antônio, Salvador - BA|2000||233-043-veiculo-conservado-hondacg150-fan-esdi-20152015|c2357d28f05c5817762817407cccfed2.jpeg
-233-044|HONDA / CB300F TWISTER CBS - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|3000||233-044-veiculo-conservado-honda-cb300f-twister-cbs-20232023|060a1b035b8991034da3cc1cc8e93714.jpeg
-233-045|HONDA/POP 110I - 2024/2024|C|Baixa de Santo Antônio, Salvador - BA|2000||233-045-veiculo-conservado-hondapop-110i-20242024|65d76f91cc06c82a0352e1e914b6dc91.jpeg
-233-046|HONDA/CB 300R - 2010/2010|C|Baixa de Santo Antônio, Salvador - BA|1000||233-046-veiculo-conservado-hondacb-300r-20102010|d8a810c2511cf6c5c2db88bd4094a823.jpeg
-233-047|HONDA/CG 160 TITAN - 2021/2022|C|Baixa de Santo Antônio, Salvador - BA|2000||233-047-veiculo-conservado-hondacg-160-titan-20212022|1836ee42e8087d576bbb804ebce066dd.jpeg
-233-048|HONDA/POP 110I - 2022/2022|C|Baixa de Santo Antônio, Salvador - BA|1000||233-048-veiculo-conservado-hondapop-110i-20222022|09c47a035fdfcf2bb73d887c8953c0c8.jpeg
-233-049|CHEV/TRAILBLAZER LT D4A - 2016/2016|C|Baixa de Santo Antônio, Salvador - BA|20000||233-049-veiculo-conservado-chevtrailblazer-lt-d4a-20162016|b586f3bea2aebef62b11196adc4e1cb1.jpeg
-233-050|HONDA/CG 125 FAN - 2008/2008|C|Baixa de Santo Antônio, Salvador - BA|700||233-050-veiculo-conservado-hondacg-125-fan-20082008|79d6223a81d0d12440ed51d07b441c70.jpeg
-234-001|VW/POLO SEDAN 1.6 COMFOR - 2012/2013|C|Baixa de Santo Antônio, Salvador - BA|5000||234-001-veiculo-conservado-vwpolo-sedan-16-comfor-20122013|a90f59baa558726e47a2508c1e0e9691.jpeg
-234-002|VW/VOYAGE 1.6L MB5 - 2018/2019|C|Baixa de Santo Antônio, Salvador - BA|5000||234-002-veiculo-conservado-vwvoyage-16l-mb5-20182019|aff4eed56f53331893cd6ea90e6a7173.jpeg
-234-003|HONDA/XRE 300 - 2013/2013|C|Baixa de Santo Antônio, Salvador - BA|2000||234-003-veiculo-conservado-hondaxre-300-20132013|df25241b1a157ff15655f198a9ed1c64.jpg
-234-004|HONDA/HR-V EX CVT - 2015/2016|C|Baixa de Santo Antônio, Salvador - BA|9000||234-004-veiculo-conservado-hondahr-v-ex-cvt-20152016|dc6d4c828458f2c3b780f76f0f4140cf.jpeg
-234-005|YAMAHA/CROSSER S ABS - 2023/2024|C|Baixa de Santo Antônio, Salvador - BA|2000||234-005-veiculo-conservado-yamahacrosser-s-abs-20232024|9ac5d590a89787a9163380ba3183d13e.jpeg
-234-006|CHEV/SPIN 1.8L AT LTZ - 2014/2015|C|Baixa de Santo Antônio, Salvador - BA|6000||234-006-veiculo-conservado-chevspin-18l-at-ltz-20142015|5fdf09ac84c46ee07a8d4e2da71261dd.jpeg
+233-025|VW/POLO TRACK MA - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|7000|2026-11-25|233-025-veiculo-conservado-vwpolo-track-ma-20232023|e0052a3543cbca7d71dbde75b970e17b.png
+233-026|HONDA/CG 125 FAN KS - 2012/2012|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-026-veiculo-conservado-hondacg-125-fan-ks-20122012|4df8871cf70a37f0918ba41936af3205.jpg
+233-027|SHINERAY/50Q - 2020/2021|C|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|233-027-veiculo-conservado-shineray50q-20202021|12176d463df3bb3ebeb370d263e09fff.jpg
+233-028|HONDA/POP 110I - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-028-veiculo-conservado-hondapop-110i-20232023|b618cb27ad4d239efdaa00ab6018f56e.jpg
+233-029|VW/FOX 1.0 - 2007/2008|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|233-029-veiculo-conservado-vwfox-10-20072008|9611375a345020d7b58cca6107c27071.jpeg
+233-030|YAMAHA/YBR 125K - 2005/2006|C|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|233-030-veiculo-conservado-yamahaybr-125k-20052006|bd06f9d7fbb4fe4f5b0ccb1f24ae1537.jpg
+233-031|HONDA/CG 125 FAN KS - 2011/2011|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-031-veiculo-conservado-hondacg-125-fan-ks-20112011|7c2ae493b74d81e703d7bf13ee45fb3a.jpg
+233-032|HONDA/CG 160 FAN - 2024/2024|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-032-veiculo-conservado-hondacg-160-fan-20242024|50d1a94b16c14961e816921dd96de7ba.jpg
+233-033|YAMAHA/YS150 FAZER SED - 2024/2025|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-033-veiculo-conservado-yamahays150-fazer-sed-20242025|f5df1663a46a5e9bdf4eee8888296e23.jpeg
+233-034|HONDA/NXR150 BROS ESD - 2012/2013|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-034-veiculo-conservado-hondanxr150-bros-esd-20122013|1897d819d0f59f31cbf5bc659de34bdb.jpeg
+233-035|HONDA/NXR150 BROS KS - 2007/2007|C|Baixa de Santo Antônio, Salvador - BA|700|2026-11-25|233-035-veiculo-conservado-hondanxr150-bros-ks-20072007|1fb806389e434c5a7bfef583b5835000.jpeg
+233-036|HONDA/CG 160 START - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-036-veiculo-conservado-hondacg-160-start-20232023|3186c2135417f5c050c85db66e0bf477.jpg
+233-037|VW/GOL 1.0 - 2011/2012|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|233-037-veiculo-conservado-vwgol-10-20112012|3c6a5bae449433ec3dc4556002699180.jpeg
+233-038|HONDA/POP100 - 2011/2011|C|Baixa de Santo Antônio, Salvador - BA|600|2026-11-25|233-038-veiculo-conservado-hondapop100-20112011|d21b9be405ec2224edf26507b4e220ef.jpg
+233-039|HONDA/CG 125 FAN KS - 2010/2010|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-039-veiculo-conservado-hondacg-125-fan-ks-20102010|86699cb4a6c33f4960c62c6fcc8b4503.jpg
+233-040|DAFRA/RIVA 150 - 2012/2012|C|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|233-040-veiculo-conservado-dafrariva-150-20122012|af9ccc24bc1e77f806e97d25f5463668.jpeg
+233-041|HONDA/CBX 250 TWISTER - 2006/2006|C|Baixa de Santo Antônio, Salvador - BA|800|2026-11-25|233-041-veiculo-conservado-hondacbx-250-twister-20062006|c62d17efab0a12848501b6c7f8d5a3c6.jpeg
+233-042|HONDA/NXR160 BROS ESD - 2014/2015|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-042-veiculo-conservado-hondanxr160-bros-esd-20142015|0bbb33f740199fa93a7c76233f8f25b1.jpeg
+233-043|HONDA/CG150 FAN ESDI - 2015/2015|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-043-veiculo-conservado-hondacg150-fan-esdi-20152015|c2357d28f05c5817762817407cccfed2.jpeg
+233-044|HONDA / CB300F TWISTER CBS - 2023/2023|C|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|233-044-veiculo-conservado-honda-cb300f-twister-cbs-20232023|060a1b035b8991034da3cc1cc8e93714.jpeg
+233-045|HONDA/POP 110I - 2024/2024|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-045-veiculo-conservado-hondapop-110i-20242024|65d76f91cc06c82a0352e1e914b6dc91.jpeg
+233-046|HONDA/CB 300R - 2010/2010|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-046-veiculo-conservado-hondacb-300r-20102010|d8a810c2511cf6c5c2db88bd4094a823.jpeg
+233-047|HONDA/CG 160 TITAN - 2021/2022|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|233-047-veiculo-conservado-hondacg-160-titan-20212022|1836ee42e8087d576bbb804ebce066dd.jpeg
+233-048|HONDA/POP 110I - 2022/2022|C|Baixa de Santo Antônio, Salvador - BA|1000|2026-11-25|233-048-veiculo-conservado-hondapop-110i-20222022|09c47a035fdfcf2bb73d887c8953c0c8.jpeg
+233-049|CHEV/TRAILBLAZER LT D4A - 2016/2016|C|Baixa de Santo Antônio, Salvador - BA|20000|2026-11-25|233-049-veiculo-conservado-chevtrailblazer-lt-d4a-20162016|b586f3bea2aebef62b11196adc4e1cb1.jpeg
+233-050|HONDA/CG 125 FAN - 2008/2008|C|Baixa de Santo Antônio, Salvador - BA|700|2026-11-25|233-050-veiculo-conservado-hondacg-125-fan-20082008|79d6223a81d0d12440ed51d07b441c70.jpeg
+234-001|VW/POLO SEDAN 1.6 COMFOR - 2012/2013|C|Baixa de Santo Antônio, Salvador - BA|5000|2026-11-25|234-001-veiculo-conservado-vwpolo-sedan-16-comfor-20122013|a90f59baa558726e47a2508c1e0e9691.jpeg
+234-002|VW/VOYAGE 1.6L MB5 - 2018/2019|C|Baixa de Santo Antônio, Salvador - BA|5000|2026-11-25|234-002-veiculo-conservado-vwvoyage-16l-mb5-20182019|aff4eed56f53331893cd6ea90e6a7173.jpeg
+234-003|HONDA/XRE 300 - 2013/2013|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|234-003-veiculo-conservado-hondaxre-300-20132013|df25241b1a157ff15655f198a9ed1c64.jpg
+234-004|HONDA/HR-V EX CVT - 2015/2016|C|Baixa de Santo Antônio, Salvador - BA|9000|2026-11-25|234-004-veiculo-conservado-hondahr-v-ex-cvt-20152016|dc6d4c828458f2c3b780f76f0f4140cf.jpeg
+234-005|YAMAHA/CROSSER S ABS - 2023/2024|C|Baixa de Santo Antônio, Salvador - BA|2000|2026-11-25|234-005-veiculo-conservado-yamahacrosser-s-abs-20232024|9ac5d590a89787a9163380ba3183d13e.jpeg
+234-006|CHEV/SPIN 1.8L AT LTZ - 2014/2015|C|Baixa de Santo Antônio, Salvador - BA|6000|2026-11-25|234-006-veiculo-conservado-chevspin-18l-at-ltz-20142015|5fdf09ac84c46ee07a8d4e2da71261dd.jpeg
 234-007|RENAULT/SANDERO AUT1016V - 2010/2011|C|Baixa de Santo Antônio, Salvador - BA|3000||234-007-veiculo-conservado-renaultsandero-aut1016v-20102011|5eda00814f490622b162c33c1b9b90ee.jpeg
 235-001|FIAT/STRADA TREK CE FLEX - 2009/2010|C|Rodovia BR101, Santo Antônio de Jesus - BA|4000||235-001-veiculo-conservado-fiatstrada-trek-ce-flex-20092010|0c31b875afef8a2f5b9f751cf6ab069d.jpeg
 235-002|HONDA/CG 125 FAN - 2006/2006|C|Rodovia BR101, Santo Antônio de Jesus - BA|700||235-002-veiculo-conservado-hondacg-125-fan-20062006|21d462e69f80d3f1b8888c11d0c8f402.jpeg
@@ -126,22 +126,22 @@
 236-001|HONDA/CG 160 START - 2022/2023|C|Rodovia BR101, Santo Antônio de Jesus - BA|2000||236-001-veiculo-conservado-hondacg-160-start-20222023|00ec3bd37338432ba4ab717eeb00fe13.jpeg
 237-019|APROVEITÁVEL HONDA/CG 150 TITAN KS - 2006/2007|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|400||237-019-sucata-aproveitavel-hondacg-150-titan-ks-20062007|d63b9df5db45e65b5fb79996711c9dd6.jpg
 237-020|APROVEITÁVEL HONDA/CG 150 FAN ESI - 2010/2010|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500||237-020-sucata-aproveitavel-hondacg-150-fan-esi-20102010|c472989570709088868cff0f8d8ec167.jpg
-237-021|APROVEITÁVEL GM/CORSA HATCH MAXX - 2010/2011|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000||237-021-sucata-aproveitavel-gmcorsa-hatch-maxx-20102011|7f05d410f2fc96fb7162f61af86157d6.png
-237-022|APROVEITÁVEL GM/CORSA SUPER - 1997/1997|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|600||237-022-sucata-aproveitavel-gmcorsa-super-19971997|8e09ca7fcf11b11f4327f6fa9c8b28ed.png
-237-023|APROVEITÁVEL HYUNDAI/HB20 1.0M UNIQUE - 2018/2019|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|4000||237-023-sucata-aproveitavel-hyundaihb20-10m-unique-20182019|370c222246a5f61e76f40185521276a9.png
-237-024|APROVEITÁVEL SUNDOWN/MAX 125 SED - 2008/2008|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|200||237-024-sucata-aproveitavel-sundownmax-125-sed-20082008|6a9e8ffbf9d806d78e563833bb33cf24.jpg
-237-025|APROVEITÁVEL DAFRA/SPEED 150 CARGO - 2009/2010|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|200||237-025-sucata-aproveitavel-dafraspeed-150-cargo-20092010|d6fded1a90809ee9ff7ab3549b6854d1.jpg
-237-026|APROVEITÁVEL HONDA/CG 125 FAN ES - 2009/2009|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|400||237-026-sucata-aproveitavel-hondacg-125-fan-es-20092009|270ea4f074b99effdb4b694567ddd870.jpg
-237-027|APROVEITÁVEL GM/CHEVROLET CLASSIC LS - 2012/2012|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000||237-027-sucata-aproveitavel-gmchevrolet-classic-ls-20122012|de0a612ab799c2f7fc23e89095639eb5.png
-237-028|APROVEITÁVEL HONDA/CG150 FAN ESDI - 2014/2014|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|700||237-028-sucata-aproveitavel-hondacg150-fan-esdi-20142014|4eb5a723c7ca8518613d21357923bfbf.jpg
-237-029|APROVEITÁVEL HONDA/CG 150 TITAN ES - 2007/2007|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500||237-029-sucata-aproveitavel-hondacg-150-titan-es-20072007|2db81f821c90fa76d73d5333558c3f63.jpg
-237-030|APROVEITÁVEL YAMAHA/LANDER XTZ250 - 2008/2008|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|600||237-030-sucata-aproveitavel-yamahalander-xtz250-20082008|ca81c389fb57c71cb298be6e06357e70.jpg
-237-031|APROVEITÁVEL HONDA/POP100 - 2012/2012|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|400||237-031-sucata-aproveitavel-hondapop100-20122012|528f261eca3f6fde716183ea4765e426.jpg
-237-032|APROVEITÁVEL HONDA/CG 125 FAN ES - 2012/2013|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500||237-032-sucata-aproveitavel-hondacg-125-fan-es-20122013|b8c6d5f2d3bc43e04b201db9068cd70d.jpg
-237-033|APROVEITÁVEL COM MOTOR INSERVÍVEL VW/GOL MI - 1997/1997|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|200||237-033-sucata-aproveitavel-com-motor-inservivel-vwgol-mi-19971997|2e1d370018fa7c0ad5894a2c887ff824.png
-237-034|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 150 TITAN ESD - 2004/2004|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|200||237-034-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-esd-20042004|c87711fe538899fe509240f882f41f93.jpg
-237-035|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN KS - 2000/2000|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|100||237-035-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20002000|dee402bd9e7b6b7c62890c05deb4768f.jpg
-237-036|APROVEITÁVEL COM MOTOR INSERVÍVEL I/KIA SOUL EX 1.6L - 2010/2010|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800||237-036-sucata-aproveitavel-com-motor-inservivel-ikia-soul-ex-16l-20102010|41def8bc2c0e8267bd20dfc84577dba1.png
+237-021|APROVÁVEL GM/CORSA HATCH MAXX - 2010/2011|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000|2026-11-25|237-021-sucata-aproveitavel-gmcorsa-hatch-maxx-20102011|7f05d410f2fc96fb7162f61af86157d6.png
+237-022|APROVEITÁVEL GM/CORSA SUPER - 1997/1997|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|600|2026-11-25|237-022-sucata-aproveitavel-gmcorsa-super-19971997|8e09ca7fcf11b11f4327f6fa9c8b28ed.png
+237-023|APROVÁVEL HYUNDAI/HB20 1.0M UNIQUE - 2018/2019|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|4000|2026-11-25|237-023-sucata-aproveitavel-hyundaihb20-10m-unique-20182019|370c222246a5f61e76f40185521276a9.png
+237-024|APROVÁVEL SUNDOWN/MAX 125 SED - 2008/2008|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|200|2026-11-25|237-024-sucata-aproveitavel-sundownmax-125-sed-20082008|6a9e8ffbf9d806d78e563833bb33cf24.jpg
+237-025|APROVEITÁVEL DAFRA/SPEED 150 CARGO - 2009/2010|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|200|2026-11-25|237-025-sucata-aproveitavel-dafraspeed-150-cargo-20092010|d6fded1a90809ee9ff7ab3549b6854d1.jpg
+237-026|APROVÁVEL HONDA/CG 125 FAN ES - 2009/2009|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|400|2026-11-25|237-026-sucata-aproveitavel-hondacg-125-fan-es-20092009|270ea4f074b99effdb4b694567ddd870.jpg
+237-027|APROVÁVEL GM/CHEVROLET CLASSIC LS - 2012/2012|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|2000|2026-11-25|237-027-sucata-aproveitavel-gmchevrolet-classic-ls-20122012|de0a612ab799c2f7fc23e89095639eb5.png
+237-028|APROVÁVEL HONDA/CG150 FAN ESDI - 2014/2014|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|700|2026-11-25|237-028-sucata-aproveitavel-hondacg150-fan-esdi-20142014|4eb5a723c7ca8518613d21357923bfbf.jpg
+237-029|APROVÁVEL HONDA/CG 150 TITAN ES - 2007/2007|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500|2026-11-25|237-029-sucata-aproveitavel-hondacg-150-titan-es-20072007|2db81f821c90fa76d73d5333558c3f63.jpg
+237-030|APROVEITÁVEL YAMAHA/LANDER XTZ250 - 2008/2008|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|600|2026-11-25|237-030-sucata-aproveitavel-yamahalander-xtz250-20082008|ca81c389fb57c71cb298be6e06357e70.jpg
+237-031|APROVEITÁVEL HONDA/POP100 - 2012/2012|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|400|2026-11-25|237-031-sucata-aproveitavel-hondapop100-20122012|528f261eca3f6fde716183ea4765e426.jpg
+237-032|APROVÁVEL HONDA/CG 125 FAN ES - 2012/2013|S|Avenida Padre Afonso Goldinho, Alagoinhas - B...|500|2026-11-25|237-032-sucata-aproveitavel-hondacg-125-fan-es-20122013|b8c6d5f2d3bc43e04b201db9068cd70d.jpg
+237-033|APROVÁVEL COM MOTOR INSERVÍVEL VW/GOL MI - 1997/1997|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|200|2026-11-25|237-033-sucata-aproveitavel-com-motor-inservivel-vwgol-mi-19971997|2e1d370018fa7c0ad5894a2c887ff824.png
+237-034|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/CG 150 TITAN ESD - 2004/2004|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|200|2026-11-25|237-034-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-esd-20042004|c87711fe538899fe509240f882f41f93.jpg
+237-035|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN KS - 2000/2000|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|100|2026-11-25|237-035-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20002000|dee402bd9e7b6b7c62890c05deb4768f.jpg
+237-036|APROVÁVEL COM MOTOR INSERVÍVEL I/KIA SOUL EX 1.6L - 2010/2010|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|800|2026-11-25|237-036-sucata-aproveitavel-com-motor-inservivel-ikia-soul-ex-16l-20102010|41def8bc2c0e8267bd20dfc84577dba1.png
 237-037|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN - 1995/1995|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|100||237-037-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-19951995|03044b60ba95dce7ea7abd49f2bcb9fd.jpg
 237-038|APROVEITÁVEL COM MOTOR INSERVÍVEL GM/CELTA - 2001/2001|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|300||237-038-sucata-aproveitavel-com-motor-inservivel-gmcelta-20012001|4e3c8cb44598e5bf59cb0c922e7c20af.png
 237-039|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN KS - 2000/2000|SM|Avenida Padre Afonso Goldinho, Alagoinhas - B...|100||237-039-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20002000|2920218f5502d53a40e2142548c647f8.jpg
@@ -174,22 +174,22 @@
 240-066|APROVEITÁVEL COM MOTOR INSERVÍVEL FIAT/PALIO WEEKEND STILE - 2001/2002|SM|Baixa de Santo Antônio, Salvador - BA|300||240-066-sucata-aproveitavel-com-motor-inservivel-fiatpalio-weekend-stile-20012002|02024295fa4b0e33a0d90632e0d773a9.jpeg
 240-067|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 FAN - 2007/2007|SM|Baixa de Santo Antônio, Salvador - BA|100||240-067-sucata-aproveitavel-com-motor-inservivel-hondacg-125-fan-20072007|f34a9e29f9c17baa7ea64cb8987d3431.jpeg
 241-008|APROVEITÁVEL HONDA/NXR 150 BROS MIX ES - 2009/2010|S|Baixa de Santo Antônio, Salvador - BA|500||241-008-sucata-aproveitavel-hondanxr-150-bros-mix-es-20092010|281c33e67d080ea7249916a117644a28.jpg
-241-009|APROVEITÁVEL HONDA/CG 125 TITAN KS - 2003/2003|S|Baixa de Santo Antônio, Salvador - BA|400||241-009-sucata-aproveitavel-hondacg-125-titan-ks-20032003|4e6f7ca09fbe5e542feabaaf9a77cd5a.jpg
-241-010|APROVEITÁVEL HONDA/CG 125 FAN - 2008/2008|S|Baixa de Santo Antônio, Salvador - BA|400||241-010-sucata-aproveitavel-hondacg-125-fan-20082008|1857077795210c17e901595453415522.jpeg
-242-001|APROVEITÁVEL HONDA/CG 125 FAN KS - 2009/2010|S|Baixa de Santo Antônio, Salvador - BA|500||242-001-sucata-aproveitavel-hondacg-125-fan-ks-20092010|f6d13f13d7b4867a0f0863da786d3979.jpg
-242-002|APROVEITÁVEL HONDA/CBX 250 TWISTER - 2008/2008|S|Baixa de Santo Antônio, Salvador - BA|500||242-002-sucata-aproveitavel-hondacbx-250-twister-20082008|4edbbe988b4c33e72398b4a96d6e0379.jpeg
-242-003|APROVEITÁVEL VW/NOVO VOYAGE TL MBV - 2017/2018|S|Baixa de Santo Antônio, Salvador - BA|3000||242-003-sucata-aproveitavel-vwnovo-voyage-tl-mbv-20172018|f73216149891cea55306d278824161e2.jpeg
-242-004|APROVEITÁVEL COM MOTOR INSERVÍVEL FIAT/PALIO FIRE FLEX - 2007/2007|SM|Baixa de Santo Antônio, Salvador - BA|400||242-004-sucata-aproveitavel-com-motor-inservivel-fiatpalio-fire-flex-20072007|e9098308de845779b8b86677a4df293c.jpeg
-242-005|APROVEITÁVEL COM MOTOR INSERVÍVEL GM/CORSA ST - 2001/2002|SM|Baixa de Santo Antônio, Salvador - BA|500||242-005-sucata-aproveitavel-com-motor-inservivel-gmcorsa-st-20012002|063e467593af9027872ae779906adfc1.jpeg
-243-045|APROVEITÁVEL DAFRA/TVS APACHE RTR 150 - 2011/2012|S|Rodovia BR101, Santo Antônio de Jesus - BA|300||243-045-sucata-aproveitavel-dafratvs-apache-rtr-150-20112012|374146239c56c6659ba3d3b832d11848.jpeg
-243-046|APROVEITÁVEL HONDA/CBX 250 TWISTER - 2003/2003|S|Rodovia BR101, Santo Antônio de Jesus - SP|400||243-046-sucata-aproveitavel-hondacbx-250-twister-20032003|7842a44c0429f4cedd87bcaa25633412.jpeg
-243-047|APROVEITÁVEL GM/MERIVA MAXX - 2011/2012|S|Rodovia BR101, Santo Antônio de Jesus - BA|2000||243-047-sucata-aproveitavel-gmmeriva-maxx-20112012|4ff60c3f63084040c39ce3a4ca77c164.jpeg
-243-048|APROVEITÁVEL HONDA/NXR150 BROS KS - 2006/2006|S|Rodovia BR101, Santo Antônio de Jesus - N/I|400||243-048-sucata-aproveitavel-hondanxr150-bros-ks-20062006|5e4ddb10e4b7f5238c0ea1b659d82e3b.jpeg
-243-049|APROVEITÁVEL HONDA/CG 125 FAN KS - 2010/2010|S|Rodovia BR101, Santo Antônio de Jesus - BA|500||243-049-sucata-aproveitavel-hondacg-125-fan-ks-20102010|54dc255bd9513d58a69a66b56c95edd9.jpeg
-243-050|APROVEITÁVEL CICLOMOTOR/L13154 - 2013/2013|S|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-050-sucata-aproveitavel-ciclomotorl13154-20132013|2dc4c468036146f69bcfbf3a9054f11c.jpeg
-243-051|APROVEITÁVEL I/FIAT SIENA FIRE FLEX - 2009/2010|S|Rodovia BR101, Santo Antônio de Jesus - BA|2000||243-051-sucata-aproveitavel-ifiat-siena-fire-flex-20092010|fccfe71185e0eb09ccdef91fc7f7200c.jpeg
-243-052|APROVEITÁVEL I/SHINERAY XY 50 Q - 2014/2015|S|Rodovia BR101, Santo Antônio de Jesus - N/I|200||243-052-sucata-aproveitavel-ishineray-xy-50-q-20142015|d917da25179821010b51210e925b4f05.jpeg
-243-053|APROVEITÁVEL HONDA/CG 125 FAN KS - 2009/2010|S|Rodovia BR101, Santo Antônio de Jesus - BA|500||243-053-sucata-aproveitavel-hondacg-125-fan-ks-20092010|bae9c395bd6e0e4474beab4cb0880d55.jpeg
+241-009|APROVÁVEL HONDA/CG 125 TITAN KS - 2003/2003|S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|241-009-sucata-aproveitavel-hondacg-125-titan-ks-20032003|4e6f7ca09fbe5e542feabaaf9a77cd5a.jpg
+241-010|APROVÁVEL HONDA/CG 125 FAN - 2008/2008|S|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|241-010-sucata-aproveitavel-hondacg-125-fan-20082008|1857077795210c17e901595453415522.jpeg
+242-001|APROVÁVEL HONDA/CG 125 FAN KS - 2009/2010|S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|242-001-sucata-aproveitavel-hondacg-125-fan-ks-20092010|f6d13f13d7b4867a0f0863da786d3979.jpg
+242-002|APROVÁVEL HONDA/CBX 250 TWISTER - 2008/2008|S|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|242-002-sucata-aproveitavel-hondacbx-250-twister-20082008|4edbbe988b4c33e72398b4a96d6e0379.jpeg
+242-003|APROVÁVEL VW/NOVO VOYAGE TL MBV - 2017/2018|S|Baixa de Santo Antônio, Salvador - BA|3000|2026-11-25|242-003-sucata-aproveitavel-vwnovo-voyage-tl-mbv-20172018|f73216149891cea55306d278824161e2.jpeg
+242-004|APROVÁVEL COM MOTOR INSERVÍVEL FIAT/PALIO FIRE FLEX - 2007/2007|SM|Baixa de Santo Antônio, Salvador - BA|400|2026-11-25|242-004-sucata-aproveitavel-com-motor-inservivel-fiatpalio-fire-flex-20072007|e9098308de845779b8b86677a4df293c.jpeg
+242-005|APROVÁVEL COM MOTOR INSERVÍVEL GM/CORSA ST - 2001/2002|SM|Baixa de Santo Antônio, Salvador - BA|500|2026-11-25|242-005-sucata-aproveitavel-com-motor-inservivel-gmcorsa-st-20012002|063e467593af9027872ae779906adfc1.jpeg
+243-045|APROVÁVEL DAFRA/TVS APACHE RTR 150 - 2011/2012|S|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-045-sucata-aproveitavel-dafratvs-apache-rtr-150-20112012|374146239c56c6659ba3d3b832d11848.jpeg
+243-046|APROVÁVEL HONDA/CBX 250 TWISTER - 2003/2003|S|Rodovia BR101, Santo Antônio de Jesus - SP|400|2026-11-25|243-046-sucata-aproveitavel-hondacbx-250-twister-20032003|7842a44c0429f4cedd87bcaa25633412.jpeg
+243-047|APROVÁVEL GM/MERIVA MAXX - 2011/2012|S|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|243-047-sucata-aproveitavel-gmmeriva-maxx-20112012|4ff60c3f63084040c39ce3a4ca77c164.jpeg
+243-048|APROVÁVEL HONDA/NXR150 BROS KS - 2006/2006|S|Rodovia BR101, Santo Antônio de Jesus - N/I|400|2026-11-25|243-048-sucata-aproveitavel-hondanxr150-bros-ks-20062006|5e4ddb10e4b7f5238c0ea1b659d82e3b.jpeg
+243-049|APROVÁVEL HONDA/CG 125 FAN KS - 2010/2010|S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|243-049-sucata-aproveitavel-hondacg-125-fan-ks-20102010|54dc255bd9513d58a69a66b56c95edd9.jpeg
+243-050|APROVÁVEL CICLOMOTOR/L13154 - 2013/2013|S|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-050-sucata-aproveitavel-ciclomotorl13154-20132013|2dc4c468036146f69bcfbf3a9054f11c.jpeg
+243-051|APROVÁVEL I/FIAT SIENA FIRE FLEX - 2009/2010|S|Rodovia BR101, Santo Antônio de Jesus - BA|2000|2026-11-25|243-051-sucata-aproveitavel-ifiat-siena-fire-flex-20092010|fccfe71185e0eb09ccdef91fc7f7200c.jpeg
+243-052|APROVÁVEL I/SHINERAY XY 50 Q - 2014/2015|S|Rodovia BR101, Santo Antônio de Jesus - N/I|200|2026-11-25|243-052-sucata-aproveitavel-ishineray-xy-50-q-20142015|d917da25179821010b51210e925b4f05.jpeg
+243-053|APROVÁVEL HONDA/CG 125 FAN KS - 2009/2010|S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|243-053-sucata-aproveitavel-hondacg-125-fan-ks-20092010|bae9c395bd6e0e4474beab4cb0880d55.jpeg
 243-054|APROVEITÁVEL I/FORD FOCUS 1.6 FLEX HA - 2007/2008|S|Rodovia BR101, Santo Antônio de Jesus - BA|2000||243-054-sucata-aproveitavel-iford-focus-16-flex-ha-20072008|6420e77f9705c34635fee045e856f65f.jpeg
 243-055|APROVEITÁVEL HONDA/CG 150 TITAN ESD - 2004/2005|S|Rodovia BR101, Santo Antônio de Jesus - BA|500||243-055-sucata-aproveitavel-hondacg-150-titan-esd-20042005|d5f2378b408b6538030020ccd1cbcc9a.jpeg
 243-056|APROVEITÁVEL YAMAHA/FACTOR YBR125 ED - 2010/2011|S|Rodovia BR101, Santo Antônio de Jesus - BA|400||243-056-sucata-aproveitavel-yamahafactor-ybr125-ed-20102011|8c694606410840ac40c821955f288515.jpeg
@@ -222,38 +222,38 @@
 243-085|APROVEITÁVEL HONDA/CG 125 FAN KS - 2014/2014|S|Rodovia BR101, Santo Antônio de Jesus - BA|500||243-085-sucata-aproveitavel-hondacg-125-fan-ks-20142014|c43a683802b79dfe2a9685c761b199fe.jpeg
 243-086|APROVEITÁVEL COM MOTOR INSERVÍVEL I/ SHINERAY 50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-086-sucata-aproveitavel-com-motor-inservivel-i-shineray-50-nini|cb1f0b31fc7b75d5d8c4ac109bb86d80.jpeg
 243-087|APROVEITÁVEL COM MOTOR INSERVÍVEL KASINSKI/WIN 110 60 - 2011/2012|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-087-sucata-aproveitavel-com-motor-inservivel-kasinskiwin-110-60-20112012|ede01f6b53a90a56fc4cbe8c6236d851.jpeg
-243-088|APROVEITÁVEL COM MOTOR INSERVÍVEL SHINERAY / JET 50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-088-sucata-aproveitavel-com-motor-inservivel-shineray-jet-50-nini|45f98aa66233e8f803b958ed7db5ffff.jpeg
-243-089|APROVEITÁVEL COM MOTOR INSERVÍVEL HUARI / MARVA 50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-089-sucata-aproveitavel-com-motor-inservivel-huari-marva-50-nini|028c269e0ec554450f556d7e830db106.jpeg
-243-090|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 150 TITAN KS - 2004/2005|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-090-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-ks-20042005|90d463b33a9a5bd49c18e44047a269cf.jpeg
-243-091|APROVEITÁVEL COM MOTOR INSERVÍVEL FORD/FIESTA - 2006/2007|SM|Rodovia BR101, Santo Antônio de Jesus - BA|400||243-091-sucata-aproveitavel-com-motor-inservivel-fordfiesta-20062007|7b55b0e3ffdc6253859c819b22fbfddc.jpeg
-243-092|APROVEITÁVEL COM MOTOR INSERVÍVEL GM/CELTA 3 PORTAS SUPER - 2003/2003|SM|Rodovia BR101, Santo Antônio de Jesus - BA|300||243-092-sucata-aproveitavel-com-motor-inservivel-gmcelta-3-portas-super-20032003|50caf352b6faf8bd82e692e95aac2d9c.jpeg
-243-093|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/POP100 - 2007/2007|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-093-sucata-aproveitavel-com-motor-inservivel-hondapop100-20072007|cf65e25a67f3618eb18f157149768e2b.jpeg
-243-094|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN KSE - 2003/2003|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-094-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-kse-20032003|fb2355076e21a7d4cf61e4c3c5d58bd9.jpeg
-243-095|APROVEITÁVEL COM MOTOR INSERVÍVEL KASINSKI/SOFT - 2012/2013|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-095-sucata-aproveitavel-com-motor-inservivel-kasinskisoft-20122013|96d7ecace974c2ef6bfa555500bd300b.jpeg
-243-096|APROVEITÁVEL COM MOTOR INSERVÍVEL I WUYANG 50QT - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-096-sucata-aproveitavel-com-motor-inservivel-i-wuyang-50qt-nini|67ca3e4ed24ed9f7838e85c2ae406c9e.jpeg
-243-097|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 150 TITAN KS - 2004/2005|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-097-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-ks-20042005|aa9f1bf38322ab4fcad4e8df63508e8a.jpeg
-243-098|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 160 FAN - 2020/2020|SM|Rodovia BR101, Santo Antônio de Jesus - BA|300||243-098-sucata-aproveitavel-com-motor-inservivel-hondacg-160-fan-20202020|c77106696712118fb12156900027bc7e.jpeg
-243-099|APROVEITÁVEL COM MOTOR INSERVÍVEL DAFRA/SUPER 100 - 2011/2011|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-099-sucata-aproveitavel-com-motor-inservivel-dafrasuper-100-20112011|65e10f08afb64e2e523e2f2b62b273e8.jpeg
-243-100|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN KS - 2003/2004|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-100-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20032004|14ce490cc9f0e300be757e30b9da87d7.jpeg
-243-101|APROVEITÁVEL COM MOTOR INSERVÍVEL SHINERAY / PHOENIX XY50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-101-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-xy50-nini|9d10d4f22e0562508d25f6d44f6ddeee.jpeg
-243-102|APROVEITÁVEL COM MOTOR INSERVÍVEL SHINERAY / PHOENIX XY50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-102-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-xy50-nini|80f329240f8df1a6a0c5dbbae665e937.jpeg
-243-103|APROVEITÁVEL COM MOTOR INSERVÍVEL BENZ/JONNY 50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-103-sucata-aproveitavel-com-motor-inservivel-benzjonny-50-nini|d71a1c2e0517422f961169c24059e4c5.jpeg
-243-104|APROVEITÁVEL COM MOTOR INSERVÍVEL SHINERAY / 49 CC JET - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-104-sucata-aproveitavel-com-motor-inservivel-shineray-49-cc-jet-nini|43e922c2ed97c050e4545647cc9cc830.jpeg
-243-105|APROVEITÁVEL COM MOTOR INSERVÍVEL FIAT/UNO ELECTRONIC - 1995/1995|SM|Rodovia BR101, Santo Antônio de Jesus - BA|200||243-105-sucata-aproveitavel-com-motor-inservivel-fiatuno-electronic-19951995|c6136c819734ba9d472d88db156873f9.jpeg
-243-107|APROVEITÁVEL COM MOTOR INSERVÍVEL DAFRA/SUPER 50 - 2010/2011|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-107-sucata-aproveitavel-com-motor-inservivel-dafrasuper-50-20102011|ac24c7879b5784cd94a5802a45c10234.jpeg
-243-108|APROVEITÁVEL COM MOTOR INSERVÍVEL KASINSKI/SOFT - 2010/2011|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||243-108-sucata-aproveitavel-com-motor-inservivel-kasinskisoft-20102011|89040f260ac4001ad90bf7213bb4a37b.jpeg
-244-070|APROVEITÁVEL CHEV/PRISMA 10MT JOYE - 2018/2019|S|Rodovia BR101, Santo Antônio de Jesus - BA|3000||244-070-sucata-aproveitavel-chevprisma-10mt-joye-20182019|6ce350cbc55f96114810133a56b5a589.jpeg
-244-071|APROVEITÁVEL FORD/KA - 2005/2005|S|Rodovia BR101, Santo Antônio de Jesus - BA|700||244-071-sucata-aproveitavel-fordka-20052005|c846c4ac71fca9a99cbdf3ef67a91bbf.jpeg
-244-106|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/POP100 - 2008/2008|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100||244-106-sucata-aproveitavel-com-motor-inservivel-hondapop100-20082008|df0ce564ed69e8ee9b2fe8a3a4544c36.jpeg
-245-002|APROVEITÁVEL YAMAHA/FAZER YS250 - 2008/2008|S|Rodovia BR101, Santo Antônio de Jesus - BA|500||245-002-sucata-aproveitavel-yamahafazer-ys250-20082008|105e6ba95caee3a7af5b24171a5976a2.jpeg
-245-003|APROVEITÁVEL COM MOTOR INSERVÍVEL I/PEUGEOT 207HB XR - 2011/2012|SM|Rodovia BR101, Santo Antônio de Jesus - BA|400||245-003-sucata-aproveitavel-com-motor-inservivel-ipeugeot-207hb-xr-20112012|40ed8926afd7c995fae0abceac39cd18.jpeg
-248-001|HONDA/NXR150 BROS ES - 2008/2008|C|Avenida Jorge Amado, Camaçari - BA|800||248-001-veiculo-conservado-hondanxr150-bros-es-20082008|a979b3c808fabeabc396379481813a6b.jpg
-248-002|SHINERAY/50Q - 2015/2016|C|Avenida Jorge Amado, Camaçari - BA|300||248-002-veiculo-conservado-shineray50q-20152016|c181060b93502e7c904981555f55bf89.jpg
-248-003|GM/CELTA 4P SPIRIT - 2009/2010|C|Avenida Jorge Amado, Camaçari - BA|3000||248-003-veiculo-conservado-gmcelta-4p-spirit-20092010|484d52730092eb9317c999e85baf0479.jpg
-248-004|HYUNDAI/HB20 1.0M COMFOR - 2014/2014|C|Avenida Jorge Amado, Camaçari - BA|5000||248-004-veiculo-conservado-hyundaihb20-10m-comfor-20142014|5ef5e20627d684b62a70c55e89f193d3.jpg
-248-005|FIAT/STRADA ADVENT FLEX - 2015/2015|C|Avenida Jorge Amado, Camaçari - BA|6000||248-005-veiculo-conservado-fiatstrada-advent-flex-20152015|74a1566a5a5cf2cb4d0e570113330ee1.jpg
-248-006|VW/NOVO GOL 1.0 - 2012/2013|C|Avenida Jorge Amado, Camaçari - BA|4000||248-006-veiculo-conservado-vwnovo-gol-10-20122013|f7455a0d4b572458cd3b2fcddd677d43.jpg
-248-007|I/SHINERAY XY 50 Q - 2013/2013|C|Avenida Jorge Amado, Camaçari - BA|300||248-007-veiculo-conservado-ishineray-xy-50-q-20132013|66737a27a98c265898b124866a44f83f.jpg
+243-088|APROVÁVEL COM MOTOR INSERVÍVEL SHINERAY / JET 50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-088-sucata-aproveitavel-com-motor-inservivel-shineray-jet-50-nini|45f98aa66233e8f803b958ed7db5ffff.jpeg
+243-089|APROVÁVEL COM MOTOR INSERVÍVEL HUARI / MARVA 50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-089-sucata-aproveitavel-com-motor-inservivel-huari-marva-50-nini|028c269e0ec554450f556d7e830db106.jpeg
+243-090|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/CG 150 TITAN KS - 2004/2005|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-090-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-ks-20042005|90d463b33a9a5bd49c18e44047a269cf.jpeg
+243-091|APROVÁVEL COM MOTOR INSERVÍVEL FORD/FIESTA - 2006/2007|SM|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|243-091-sucata-aproveitavel-com-motor-inservivel-fordfiesta-20062007|7b55b0e3ffdc6253859c819b22fbfddc.jpeg
+243-092|APROVÁVEL COM MOTOR INSERVÍVEL GM/CELTA 3 PORTAS SUPER - 2003/2003|SM|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-092-sucata-aproveitavel-com-motor-inservivel-gmcelta-3-portas-super-20032003|50caf352b6faf8bd82e692e95aac2d9c.jpeg
+243-093|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/POP100 - 2007/2007|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-093-sucata-aproveitavel-com-motor-inservivel-hondapop100-20072007|cf65e25a67f3618eb18f157149768e2b.jpeg
+243-094|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN KSE - 2003/2003|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-094-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-kse-20032003|fb2355076e21a7d4cf61e4c3c5d58bd9.jpeg
+243-095|APROVÁVEL COM MOTOR INSERVÍVEL KASINSKI/SOFT - 2012/2013|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-095-sucata-aproveitavel-com-motor-inservivel-kasinskisoft-20122013|96d7ecace974c2ef6bfa555500bd300b.jpeg
+243-096|APROVÁVEL COM MOTOR INSERVÍVEL I WUYANG 50QT - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-096-sucata-aproveitavel-com-motor-inservivel-i-wuyang-50qt-nini|67ca3e4ed24ed9f7838e85c2ae406c9e.jpeg
+243-097|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/CG 150 TITAN KS - 2004/2005|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-097-sucata-aproveitavel-com-motor-inservivel-hondacg-150-titan-ks-20042005|aa9f1bf38322ab4fcad4e8df63508e8a.jpeg
+243-098|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/CG 160 FAN - 2020/2020|SM|Rodovia BR101, Santo Antônio de Jesus - BA|300|2026-11-25|243-098-sucata-aproveitavel-com-motor-inservivel-hondacg-160-fan-20202020|c77106696712118fb12156900027bc7e.jpeg
+243-099|APROVÁVEL COM MOTOR INSERVÍVEL DAFRA/SUPER 100 - 2011/2011|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-099-sucata-aproveitavel-com-motor-inservivel-dafrasuper-100-20112011|65e10f08afb64e2e523e2f2b62b273e8.jpeg
+243-100|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN KS - 2003/2004|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-100-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-ks-20032004|14ce490cc9f0e300be757e30b9da87d7.jpeg
+243-101|APROVÁVEL COM MOTOR INSERVÍVEL SHINERAY / PHOENIX XY50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-101-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-xy50-nini|9d10d4f22e0562508d25f6d44f6ddeee.jpeg
+243-102|APROVÁVEL COM MOTOR INSERVÍVEL SHINERAY / PHOENIX XY50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-102-sucata-aproveitavel-com-motor-inservivel-shineray-phoenix-xy50-nini|80f329240f8df1a6a0c5dbbae665e937.jpeg
+243-103|APROVÁVEL COM MOTOR INSERVÍVEL BENZ/JONNY 50 - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-103-sucata-aproveitavel-com-motor-inservivel-benzjonny-50-nini|d71a1c2e0517422f961169c24059e4c5.jpeg
+243-104|APROVÁVEL COM MOTOR INSERVÍVEL SHINERAY / 49 CC JET - N/I/N/I|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-104-sucata-aproveitavel-com-motor-inservivel-shineray-49-cc-jet-nini|43e922c2ed97c050e4545647cc9cc830.jpeg
+243-105|APROVÁVEL COM MOTOR INSERVÍVEL FIAT/UNO ELETRÔNICO - 1995/1995|SM|Rodovia BR101, Santo Antônio de Jesus - BA|200|2026-11-25|243-105-sucata-aproveitavel-com-motor-inservivel-fiatuno-electronic-19951995|c6136c819734ba9d472d88db156873f9.jpeg
+243-107|APROVÁVEL COM MOTOR INSERVÍVEL DAFRA/SUPER 50 - 2010/2011|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-107-sucata-aproveitavel-com-motor-inservivel-dafrasuper-50-20102011|ac24c7879b5784cd94a5802a45c10234.jpeg
+243-108|APROVÁVEL COM MOTOR INSERVÍVEL KASINSKI/SOFT - 2010/2011|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|243-108-sucata-aproveitavel-com-motor-inservivel-kasinskisoft-20102011|89040f260ac4001ad90bf7213bb4a37b.jpeg
+244-070|APROVÁVEL CHEV/PRISMA 10MT JOYE - 2018/2019|S|Rodovia BR101, Santo Antônio de Jesus - BA|3000|2026-11-25|244-070-sucata-aproveitavel-chevprisma-10mt-joye-20182019|6ce350cbc55f96114810133a56b5a589.jpeg
+244-071|APROVÁVEL FORD/KA - 2005/2005|S|Rodovia BR101, Santo Antônio de Jesus - BA|700|2026-11-25|244-071-sucata-aproveitavel-fordka-20052005|c846c4ac71fca9a99cbdf3ef67a91bbf.jpeg
+244-106|APROVÁVEL COM MOTOR INSERVÍVEL HONDA/POP100 - 2008/2008|SM|Rodovia BR101, Santo Antônio de Jesus - BA|100|2026-11-25|244-106-sucata-aproveitavel-com-motor-inservivel-hondapop100-20082008|df0ce564ed69e8ee9b2fe8a3a4544c36.jpeg
+245-002|APROVEITÁVEL YAMAHA/FAZER YS250 - 2008/2008|S|Rodovia BR101, Santo Antônio de Jesus - BA|500|2026-11-25|245-002-sucata-aproveitavel-yamahafazer-ys250-20082008|105e6ba95caee3a7af5b24171a5976a2.jpeg
+245-003|APROVÁVEL COM MOTOR INSERVÍVEL I/PEUGEOT 207HB XR - 2011/2012|SM|Rodovia BR101, Santo Antônio de Jesus - BA|400|2026-11-25|245-003-sucata-aproveitavel-com-motor-inservivel-ipeugeot-207hb-xr-20112012|40ed8926afd7c995fae0abceac39cd18.jpeg
+248-001|HONDA/NXR150 BROS ES - 2008/2008|C|Avenida Jorge Amado, Camaçari - BA|800|2026-11-27|248-001-veiculo-conservado-hondanxr150-bros-es-20082008|a979b3c808fabeabc396379481813a6b.jpg
+248-002|SHINERAY/50Q - 2015/2016|C|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|248-002-veiculo-conservado-shineray50q-20152016|c181060b93502e7c904981555f55bf89.jpg
+248-003|GM/CELTA 4P SPIRIT - 2009/2010|C|Avenida Jorge Amado, Camaçari - BA|3000|2026-11-27|248-003-veiculo-conservado-gmcelta-4p-spirit-20092010|484d52730092eb9317c999e85baf0479.jpg
+248-004|HYUNDAI/HB20 1.0M COMFOR - 2014/2014|C|Avenida Jorge Amado, Camaçari - BA|5000|2026-11-27|248-004-veiculo-conservado-hyundaihb20-10m-comfor-20142014|5ef5e20627d684b62a70c55e89f193d3.jpg
+248-005|FIAT/STRADA ADVENT FLEX - 2015/2015|C|Avenida Jorge Amado, Camaçari - BA|6000|2026-11-27|248-005-veiculo-conservado-fiatstrada-advent-flex-20152015|74a1566a5a5cf2cb4d0e570113330ee1.jpg
+248-006|VW/NOVO GOL 1.0 - 2012/2013|C|Avenida Jorge Amado, Camaçari - BA|4000|2026-11-27|248-006-veiculo-conservado-vwnovo-gol-10-20122013|f7455a0d4b572458cd3b2fcddd677d43.jpg
+248-007|I/SHINERAY XY 50 Q - 2013/2013|C|Avenida Jorge Amado, Camaçari - BA|300|2026-11-27|248-007-veiculo-conservado-ishineray-xy-50-q-20132013|66737a27a98c265898b124866a44f83f.jpg
 248-008|HONDA/CG 160 FAN - 2022/2023|C|Rua Francisco Drumond, Camaçari - BA|2000||248-008-veiculo-conservado-hondacg-160-fan-20222023|9ecf36e7d0404b32e1fa66148b927b2b.jpg
 248-009|HONDA/POP 110I - 2023/2024|C|Avenida Jorge Amado, Camaçari - BA|2000||248-009-veiculo-conservado-hondapop-110i-20232024|b737e89d91f05f00b7484356218b9936.jpg
 248-010|GM/VECTRA SD EXPRESSION - 2007/2008|C|Avenida Jorge Amado, Camaçari - BA|4000||248-010-veiculo-conservado-gmvectra-sd-expression-20072008|60e7976340aa2aa39d240c6a5f45ccad.jpg
@@ -263,7 +263,7 @@
 248-014|DAFRA/TVS APACHE RTR 150 - 2011/2012|C|Avenida Jorge Amado, Camaçari - BA|500||248-014-veiculo-conservado-dafratvs-apache-rtr-150-20112012|acd31f4eace3bc8f015e83629339cbba.jpg
 248-015|HONDA/ELITE 125 - 2021/2021|C|Avenida Jorge Amado,, Camaçari - BA|2000||248-015-veiculo-conservado-hondaelite-125-20212021|2f968eaf90cf2c6229e1fe1160fd040d.jpg
 248-016|GM/CELTA 4P LIFE - 2006/2007|C|Avenida Jorge Amado, Camaçari - BA|2000||248-016-veiculo-conservado-gmcelta-4p-life-20062007|1543bb42d99ce97c0f0541e83dd2c9ba.jpg
-248-017|I/FORD FIESTA STREET - 2002/2002|C|Avenida Jorge Amado, Camaçari - BA|1000||248-017-veiculo-conservado-iford-fiesta-street-20022002|5902285c03d228d9ae52f4aa2625a7cc.jpg
+248-017|RUA I/FORD FIESTA - 2002/2002|C|Avenida Jorge Amado, Camaçari - BA|1000||248-017-veiculo-conservado-iford-fiesta-street-20022002|5902285c03d228d9ae52f4aa2625a7cc.jpg
 248-018|CHEV/SPIN 1.8L MT LS E - 2018/2019|C|Avenida Jorge Amado, Camaçari - BA|7000||248-018-veiculo-conservado-chevspin-18l-mt-ls-e-20182019|a2a1c7d4813188a5248776b2828b93f8.jpg
 248-019|YAMAHA/FACTOR YBR125 K - 2009/2009|C|Avenida Jorge Amado, Camaçari - BA|600||248-019-veiculo-conservado-yamahafactor-ybr125-k-20092009|a3bdec3faa7fe23b96b02ecb5f8a1c80.jpg
 248-020|CHEV/PRISMA 1.0MT LT - 2015/2015|C|Avenida Jorge Amado, Camaçari - BA|5000||248-020-veiculo-conservado-chevprisma-10mt-lt-20152015|e00203b9b58a6864a47cf210b5d467ad.jpg
@@ -339,7 +339,7 @@
 254-004|I/HAOJIAN AVELLOZ AZ1 - 2025/2026|C|Avenida Laura Nunes, Vitória da Conquista - B...|900||254-004-veiculo-conservado-ihaojian-avelloz-az1-20252026|109fb4d184b5a4a1cca23fcf22aa39e5.jpg
 254-005|DAFRA/SPEED 150 - 2009/2010|C|Avenida Laura Nunes, Vitória da Conquista - B...|400||254-005-veiculo-conservado-dafraspeed-150-20092010|a154ef6404a4d3889ddf82c33a9e7da6.jpg
 254-006|GM/CELTA 4P LIFE - 2007/2008|C|Avenida Laura Nunes, Vitória da Conquista - B...|2000||254-006-veiculo-conservado-gmcelta-4p-life-20072008|b26aa8a80c9c018cb4e0c21bed85bd38.jpg
-254-007|JTA/SUZUKI EN125 YES - 2008/2008|C|Avenida Laura Nunes, Vitória da Conquista - B...|500||254-007-veiculo-conservado-jtasuzuki-en125-yes-20082008|e175255c7fb212a4c71c10195b3c41f4.jpg
+254-007|JTA/SUZUKI EN125 SIM - 2008/2008|C|Avenida Laura Nunes, Vitória da Conquista - B...|500||254-007-veiculo-conservado-jtasuzuki-en125-yes-20082008|e175255c7fb212a4c71c10195b3c41f4.jpg
 254-008|HONDA/CG 125 FAN - 2008/2008|C|Avenida Laura Nunes, Vitória da Conquista - B...|700||254-008-veiculo-conservado-hondacg-125-fan-20082008|b8a18c325904b35217617e19fff79d9e.jpg
 254-009|HONDA/CG 160 START - 2025/2025|C|Avenida Laura Nunes, Vitória da Conquista - B...|2000||254-009-veiculo-conservado-hondacg-160-start-20252025|7c3e9e942280c4587a447b92e66e6a08.jpg
 254-010|SHINERAY/XY125-6A - 2024/2024|C|Avenida Laura Nunes, Vitória da Conquista - B...|700||254-010-veiculo-conservado-shinerayxy125-6a-20242024|eda3d3647e6427aa3a4038f9c55c04d5.jpg
@@ -426,10 +426,10 @@
 261-065|APROVEITÁVEL HONDA/CG 150 TITAN KS - 2007/2008|S|Rua Arcolin, Feira de Santana - BA|500||261-065-sucata-aproveitavel-hondacg-150-titan-ks-20072008|dad919424aa34cb10851d4a5cf427b9b.jpg
 261-066|APROVEITÁVEL HONDA/POP 110I - 2019/2019|S|Rua Arcolin, Feira de Santana - BA|600||261-066-sucata-aproveitavel-hondapop-110i-20192019|a85d8572c7314eac9a640db61a0eb280.jpg
 261-067|APROVEITÁVEL HONDA/CG 125 TITAN KS - 2003/2003|S|Rua Arcolin, Feira de Santana - BA|400||261-067-sucata-aproveitavel-hondacg-125-titan-ks-20032003|ea436c21f551b4016da1639a3e3d4990.jpg
-261-068|APROVEITÁVEL YAMAHA/YBR125 FACTOR K - 2013/2014|S|Rua Arcolin, Feira de Santana - BA|400||261-068-sucata-aproveitavel-yamahaybr125-factor-k-20132014|a1e40122083f6fc763ad75200ef7b1bf.jpg
+261-068|APROVEITÁVEL YAMAHA/YBR125 FATOR K - 2013/2014|S|Rua Arcolin, Feira de Santana - BA|400||261-068-sucata-aproveitavel-yamahaybr125-factor-k-20132014|a1e40122083f6fc763ad75200ef7b1bf.jpg
 261-069|APROVEITÁVEL HONDA/CG 150 TITAN KS - 2004/2005|S|Rua Arcolin, Feira de Santana - BA|400||261-069-sucata-aproveitavel-hondacg-150-titan-ks-20042005|06c891687d30a8feed1e4b37602054ff.jpg
 261-070|APROVEITÁVEL HONDA/NXR125 BROS KS - 2003/2003|S|Rua Arcolin, Feira de Santana - BA|400||261-070-sucata-aproveitavel-hondanxr125-bros-ks-20032003|3f3c5b4ba852e6a6294e4cd9d2158ba8.jpg
-261-071|APROVEITÁVEL JTA/SUZUKI EN125 YES - 2008/2008|S|Rua Arcolin, Feira de Santana - BA|300||261-071-sucata-aproveitavel-jtasuzuki-en125-yes-20082008|62872c0078d6b500b508200f2a56ecd9.jpg
+261-071|APROVEITÁVEL JTA/SUZUKI EN125 SIM - 2008/2008|S|Rua Arcolin, Feira de Santana - BA|300||261-071-sucata-aproveitavel-jtasuzuki-en125-yes-20082008|62872c0078d6b500b508200f2a56ecd9.jpg
 261-072|APROVEITÁVEL HONDA/CG 125 TITAN KS - 2003/2004|S|Rua Arcolin, Feira de Santana - BA|400||261-072-sucata-aproveitavel-hondacg-125-titan-ks-20032004|2cb22018148c19704571819ccd78143f.jpg
 261-073|APROVEITÁVEL HONDA/CG 150 TITAN ES - 2004/2005|S|Rua Arcolin, Feira de Santana - BA|400||261-073-sucata-aproveitavel-hondacg-150-titan-es-20042005|34479457d9e6dcdb50f278b77c4b44d2.jpg
 261-074|APROVEITÁVEL HONDA/CG 150 FAN ESI - 2010/2011|S|Rua Arcolin, Feira de Santana - BA|500||261-074-sucata-aproveitavel-hondacg-150-fan-esi-20102011|bcbbcb7d6d16525f6ede81e832af499c.jpg
@@ -486,7 +486,7 @@
 261-125|APROVEITÁVEL COM MOTOR INSERVÍVEL GM/CORSA WIND - 1995/1996|SM|Rua Arcolin, Feira de Santana - BA|200||261-125-sucata-aproveitavel-com-motor-inservivel-gmcorsa-wind-19951996|259ce42d1b826f8d0f255472b4fc21f6.jpg
 261-126|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TITAN KSE - 2003/2003|SM|Rua Arcolin, Feira de Santana - BA|100||261-126-sucata-aproveitavel-com-motor-inservivel-hondacg-125-titan-kse-20032003|ee8c91c5ffa1de305f118813da9a6df0.jpg
 261-127|APROVEITÁVEL COM MOTOR INSERVÍVEL HUARI MARVA - N/I/N/I|SM|Rua Arcolin, Feira de Santana - BA|100||261-127-sucata-aproveitavel-com-motor-inservivel-huari-marva-nini|abed2026221b1f852533c73d4c7b5501.jpg
-261-128|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 TODAY - 1991/1991|SM|Rua Arcolin, Feira de Santana - BA|100||261-128-sucata-aproveitavel-com-motor-inservivel-hondacg-125-today-19911991|442d9eae8dc62c9c16e925b1ce3ad190.jpg
+261-128|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 HOJE - 1991/1991|SM|Rua Arcolin, Feira de Santana - BA|100||261-128-sucata-aproveitavel-com-motor-inservivel-hondacg-125-today-19911991|442d9eae8dc62c9c16e925b1ce3ad190.jpg
 262-004|APROVEITÁVEL HONDA/CBX 250 TWISTER - 2007/2008|S|Rua Arcolin, Feira de Santana - BA|500||262-004-sucata-aproveitavel-hondacbx-250-twister-20072008|798f916942e1ccb6100a9f3e0301fbf1.jpg
 262-005|APROVEITÁVEL HONDA/NXR150BROS MIX ESD - 2010/2010|S|Rua Arcolin, Feira de Santana - BA|600||262-005-sucata-aproveitavel-hondanxr150bros-mix-esd-20102010|3b195ddf863aa4b1b5d48a8191899735.jpg
 262-006|APROVEITÁVEL FORD/FIESTA SEDAN1.6FLEX - 2009/2009|S|Rua Arcolin, Feira de Santana - BA|2000||262-006-sucata-aproveitavel-fordfiesta-sedan16flex-20092009|b16b92310201a109266082491e66d9c2.jpg
@@ -525,7 +525,7 @@
 264-026|APROVEITÁVEL I/FORD FOCUS 1.8L HA - 2002/2002|S|Avenida Laura Nunes, Vitória da Conquista - B...|700||264-026-sucata-aproveitavel-iford-focus-18l-ha-20022002|c669cb8bfd94896ed3dde21841d85982.jpg
 264-027|APROVEITÁVEL DAFRA/RIVA 150 - 2014/2015|S|Avenida Laura Nunes, Vitória da Conquista - B...|300||264-027-sucata-aproveitavel-dafrariva-150-20142015|ff154cc44e45ad20693f8f40dccb644f.jpg
 264-028|APROVEITÁVEL HONDA/CG150 FAN ESDI - 2013/2014|S|Avenida Laura Nunes, Vitória da Conquista - B...|700||264-028-sucata-aproveitavel-hondacg150-fan-esdi-20132014|99bb5e051812c0c33d41fdccbd6ea2a3.jpg
-264-029|APROVEITÁVEL JTA/SUZUKI EN125 YES - 2009/2009|S|Avenida Laura Nunes, Vitória da Conquista - B...|300||264-029-sucata-aproveitavel-jtasuzuki-en125-yes-20092009|aea40536642f3f822be1369ca2715e06.jpg
+264-029|APROVEITÁVEL JTA/SUZUKI EN125 SIM - 2009/2009|S|Avenida Laura Nunes, Vitória da Conquista - B...|300||264-029-sucata-aproveitavel-jtasuzuki-en125-yes-20092009|aea40536642f3f822be1369ca2715e06.jpg
 264-030|APROVEITÁVEL VW/GOL 16V POWER - 2001/2002|S|Avenida Laura Nunes, Vitória da Conquista - B...|800||264-030-sucata-aproveitavel-vwgol-16v-power-20012002|9bc91d963bc24e32a10104e1fd05db00.jpg
 264-031|APROVEITÁVEL CHEVROLET/CLASSIC - 2010/2010|S|Avenida Laura Nunes, Vitória da Conquista - B...|2000||264-031-sucata-aproveitavel-chevroletclassic-20102010|bc3a395789d047dde6bf6cc9c4b17763.jpg
 264-032|APROVEITÁVEL HONDA/CBX 250 TWISTER - 2007/2007|S|Avenida Laura Nunes, Vitória da Conquista - B...|500||264-032-sucata-aproveitavel-hondacbx-250-twister-20072007|01d2297e4971aceb52c64bba2736d683.jpg
@@ -556,7 +556,7 @@
 264-057|APROVEITÁVEL HONDA/CG 150 TITAN KS - 2006/2006|S|Avenida Laura Nunes, Vitória da Conquista - B...|400||264-057-sucata-aproveitavel-hondacg-150-titan-ks-20062006|38e91b280012463ccef8419baf0f2445.jpg
 264-058|APROVEITÁVEL HONDA/CG 160 START - 2021/2021|S|Avenida Laura Nunes, Vitória da Conquista - B...|700||264-058-sucata-aproveitavel-hondacg-160-start-20212021|7b133f709dde96839e1b1c0134212840.jpg
 264-059|APROVEITÁVEL FIAT/STRADA FIRE FLEX - 2011/2011|S|Avenida Laura Nunes, Vitória da Conquista - B...|3000||264-059-sucata-aproveitavel-fiatstrada-fire-flex-20112011|2dfc5768970859ec05406c5bdb6a5a68.jpg
-264-060|APROVEITÁVEL I/GM CLASSIC LIFE - 2008/2008|S|Avenida Laura Nunes, Vitória da Conquista - B...|2000||264-060-sucata-aproveitavel-igm-classic-life-20082008|9ccf44d8d985254d97f05a4df4effac7.jpg
+264-060|APROVEITÁVEL I/GM VIDA CLÁSSICA - 2008/2008|S|Avenida Laura Nunes, Vitória da Conquista - B...|2000||264-060-sucata-aproveitavel-igm-classic-life-20082008|9ccf44d8d985254d97f05a4df4effac7.jpg
 264-061|APROVEITÁVEL YAMAHA/FZ25 FAZER - 2022/2022|S|Avenida Laura Nunes, Vitória da Conquista - B...|2000||264-061-sucata-aproveitavel-yamahafz25-fazer-20222022|cd747ae07e465fd54508f238ffeef0c2.jpg
 264-062|APROVEITÁVEL COM MOTOR INSERVÍVEL HONDA/CG 125 - 1986/1986|SM|Avenida Laura Nunes, Vitória da Conquista - B...|100||264-062-sucata-aproveitavel-com-motor-inservivel-hondacg-125-19861986|6357b0d7aba9840f062c2907b8b5f95b.jpg
 264-063|APROVEITÁVEL COM MOTOR INSERVÍVEL PEUGEOT/206 SW14 PRES FX - 2008/2008|SM|Avenida Laura Nunes, Vitória da Conquista - B...|300||264-063-sucata-aproveitavel-com-motor-inservivel-peugeot206-sw14-pres-fx-20082008|5290bfed5af52193575c8c80c6d21a68.jpg
@@ -636,7 +636,7 @@
 268-001|APROVEITÁVEL GM/CORSA SEDAN JOY - 2005/2005|S|Rua 23, Santo Antônio de Jesus - BA|2500||268-001-sucata-aproveitavel-gmcorsa-sedan-joy-20052005|2b5270e81d40a822fe8c3ac98e556193.jpg
 269-001|APROEITÁVEL DAFRA/SPEED 150 - 2008/2008|S|Rua 23, Santo Antônio de Jesus - BA|200||269-001-sucata-aproeitavel-dafraspeed-150-20082008|354af888547c3c921efdc5858a206b6f.jpg
 269-002|APROEITÁVEL HONDA/NXR160 BROS ESDD - 2015/2015|S|Rua 23, Santo Antônio de Jesus - BA|950||269-002-sucata-aproeitavel-hondanxr160-bros-esdd-20152015|66965814259d7788d742388c8259894c.jpg
-272-001|JTA/SUZUKI EN125 YES SE - 2011/2012|C|Rua Florença, BRUMADO - BA|850||272-001-veiculo-conservado-jtasuzuki-en125-yes-se-20112012|d815cf5681c6c1de97b957a8dee91982.jpeg
+272-001|JTA/SUZUKI EN125 SIM SE - 2011/2012|C|Rua Florença, BRUMADO - BA|850||272-001-veiculo-conservado-jtasuzuki-en125-yes-se-20112012|d815cf5681c6c1de97b957a8dee91982.jpeg
 272-002|SUNDOWN / HUNTER 100 - 2008/2008|C|Rua Florença, BRUMADO - BA|550||272-002-veiculo-conservado-sundown-hunter-100-20082008|f6f79ead7703c4470534f02f7411a90a.jpeg
 272-003|YAMAHA / FACTOR YBR125 ED - 2009/2009|C|Rua Florença, BRUMADO - BA|900||272-003-veiculo-conservado-yamaha-factor-ybr125-ed-20092009|fe3377c7cf6f09164fb5c9d42a5dbcf2.jpeg
 273-010|SUNDOWN / WEB 100 - 2008/2008|C|Rua Florença, BRUMADO - BA|550||273-010-veiculo-conservado-sundown-web-100-20082008|295f3474a79ab49ae5d472636b81c96c.jpeg
@@ -646,25 +646,25 @@
 274-004|HONDA / BIZ 125 ES - 2008/2008|C|Avenida David Jonas Fadini, Eunápolis - BA|850||274-004-veiculo-conservado-honda-biz-125-es-20082008|c61f49c76410d59c1f5e8ff8c5d61498.jpeg
 274-005|HONDA / CG 125 FAN KS - 2010/2011|C|Avenida David Jonas Fadini, Eunápolis - BA|950||274-005-veiculo-conservado-honda-cg-125-fan-ks-20102011|103d2517e1a3ba920815dd1c3e147653.jpeg
 274-006|HONDA / CG 125 FAN - 2006/2007|C|Avenida David Jonas Fadini, Eunápolis - BA|850||274-006-veiculo-conservado-honda-cg-125-fan-20062007|4348e162119bddbfd876744e39cb952e.jpeg
-275-001|HONDA / CB 300R - 2009/2010|C|Avenida Eduardo Fróes da Mota, FEIRA DE SANTA...|900||275-001-veiculo-conservado-honda-cb-300r-20092010|82cfe6fe39cf5712fe2cc14c0711b482.jpeg
-275-002|HONDA / POP 110I - 2020/2020|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|1100||275-002-veiculo-conservado-honda-pop-110i-20202020|26e892e2785141d265258c0ea0c904e1.jpeg
-275-003|YAMAHA / FACTOR YBR125 K - 2009/2009|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|650||275-003-veiculo-conservado-yamaha-factor-ybr125-k-20092009|af02f2ce6a9a157624ffb15b265ad64c.jpeg
-275-004|CICLOMOTOR / L13154 - 2014/2015|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|750||275-004-veiculo-conservado-ciclomotor-l13154-20142015|bf11825b10ac367013240ebc2100d9cf.jpeg
-275-005|HONDA / BIZ 110I - 2021/2021|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|1500||275-005-veiculo-conservado-honda-biz-110i-20212021|ac3fb02b13c01b543607134c119d6484.jpeg
-275-006|HONDA / NXR125 BROS KS - 2013/2014|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|800||275-006-veiculo-conservado-honda-nxr125-bros-ks-20132014|9253f70537b1d53434bcd4a2ba0ddae8.jpeg
-275-007|VEÍCULO CONSERVADO I / TRAXX JL50Q 2 - 2008/2009|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|600||275-007-veiculo-conservado-i-traxx-jl50q-2-20082009|d3fb43b9019c8f28d42d128caf764f1f.jpeg
-275-008|HONDA / POP 110I ES - 2025/2026|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|1500||275-008-veiculo-conservado-honda-pop-110i-es-20252026|9effa7e894325855d503ad93e61d080e.jpeg
-275-009|HONDA / CG 125 FAN - 2008/2008|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|850||275-009-veiculo-conservado-honda-cg-125-fan-20082008|9c9fb9fbf24c0b36f31f85cf5a2cdbe7.jpeg
-275-010|DAFRA / ZIG 50 - 2011/2012|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|600||275-010-veiculo-conservado-dafra-zig-50-20112012|5df1de07fc33c70a5250c636c443139d.jpeg
-275-011|HONDA / CG 160 START - 2020/2021|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|2500||275-011-veiculo-conservado-honda-cg-160-start-20202021|086ebf57571cbe103d99d10f18e9c533.jpeg
-275-013|HONDA / BIZ 125 ES - 2010/2010|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|750||275-013-veiculo-conservado-honda-biz-125-es-20102010|9d532fb9a918dce28ff204028a5f31ad.jpeg
-275-014|RENAULT / KWID ZEN 10MT - 2019/2020|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|6500||275-014-veiculo-conservado-renault-kwid-zen-10mt-20192020|4ceb8b49f429af5b3be55323d698e2ff.jpeg
-275-015|VEÍCULO CONSERVADO GM / CELTA 4P SPIRIT - 2010/2011|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|4000||275-015-veiculo-conservado-gm-celta-4p-spirit-20102011|c1314c24eafd6f09f259fd56d993ad58.jpeg
-275-016|HONDA / BIZ 125 ES - 2015/2015|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|1200||275-016-veiculo-conservado-honda-biz-125-es-20152015|d674b1950dc3e6db993103ffa1e8b00f.jpeg
-275-017|VEÍCULO CONSERVADO I / CHARMING BULL KRC50 - 2015/2015|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|700||275-017-veiculo-conservado-i-charming-bull-krc50-20152015|e5cd03189ebb26e1346b70955243a678.jpeg
-275-018|FIAT / PALIO ELX FLEX - 2011/2011|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|3500||275-018-veiculo-conservado-fiat-palio-elx-flex-20112011|0e501d24fdabf7a8abd476baa6431d84.jpeg
-275-019|FORD / FIESTA 1.6 - 2003/2003|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|3500||275-019-veiculo-conservado-ford-fiesta-16-20032003|a775f5c42c9ee3f102109014acc40084.jpeg
-275-020|FIAT / FIORINO GREENCAR AM - 2019/2020|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|7000||275-020-veiculo-conservado-fiat-fiorino-greencar-am-20192020|8cfe9b0c20fb3fef6b4ce9a4cdda3c00.jpeg
+275-001|HONDA / CB 300R - 2009/2010|C|Avenida Eduardo Fróes da Mota, FEIRA DE PAPAI NOEL...|900||275-001-veiculo-conservado-honda-cb-300r-20092010|82cfe6fe39cf5712fe2cc14c0711b482.jpeg
+275-002|HONDA / POP 110I - 2020/2020|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|1100||275-002-veiculo-conservado-honda-pop-110i-20202020|26e892e2785141d265258c0ea0c904e1.jpeg
+275-003|YAMAHA / FACTOR YBR125 K - 2009/2009|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|650||275-003-veiculo-conservado-yamaha-factor-ybr125-k-20092009|af02f2ce6a9a157624ffb15b265ad64c.jpeg
+275-004|CICLOMOTOR / L13154 - 2014/2015|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|750||275-004-veiculo-conservado-ciclomotor-l13154-20142015|bf11825b10ac367013240ebc2100d9cf.jpeg
+275-005|HONDA / BIZ 110I - 2021/2021|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|1500||275-005-veiculo-conservado-honda-biz-110i-20212021|ac3fb02b13c01b543607134c119d6484.jpeg
+275-006|HONDA / NXR125 BROS KS - 2013/2014|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|800||275-006-veiculo-conservado-honda-nxr125-bros-ks-20132014|9253f70537b1d53434bcd4a2ba0ddae8.jpeg
+275-007|VEÍCULO CONSERVADO I / TRAXX JL50Q 2 - 2008/2009|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|600||275-007-veiculo-conservado-i-traxx-jl50q-2-20082009|d3fb43b9019c8f28d42d128caf764f1f.jpeg
+275-008|HONDA / POP 110I ES - 2025/2026|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|1500||275-008-veiculo-conservado-honda-pop-110i-es-20252026|9effa7e894325855d503ad93e61d080e.jpeg
+275-009|HONDA / CG 125 FAN - 2008/2008|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|850||275-009-veiculo-conservado-honda-cg-125-fan-20082008|9c9fb9fbf24c0b36f31f85cf5a2cdbe7.jpeg
+275-010|DAFRA / ZIG 50 - 2011/2012|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|600||275-010-veiculo-conservado-dafra-zig-50-20112012|5df1de07fc33c70a5250c636c443139d.jpeg
+275-011|HONDA / CG 160 START - 2020/2021|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|2500||275-011-veiculo-conservado-honda-cg-160-start-20202021|086ebf57571cbe103d99d10f18e9c533.jpeg
+275-013|HONDA / BIZ 125 ES - 2010/2010|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|750||275-013-veiculo-conservado-honda-biz-125-es-20102010|9d532fb9a918dce28ff204028a5f31ad.jpeg
+275-014|RENAULT / KWID ZEN 10MT - 2019/2020|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|6500||275-014-veiculo-conservado-renault-kwid-zen-10mt-20192020|4ceb8b49f429af5b3be55323d698e2ff.jpeg
+275-015|VEÍCULO CONSERVADO GM / CELTA 4P SPIRIT - 2010/2011|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|4000||275-015-veiculo-conservado-gm-celta-4p-spirit-20102011|c1314c24eafd6f09f259fd56d993ad58.jpeg
+275-016|HONDA / BIZ 125 ES - 2015/2015|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|1200||275-016-veiculo-conservado-honda-biz-125-es-20152015|d674b1950dc3e6db993103ffa1e8b00f.jpeg
+275-017|VEÍCULO CONSERVADO I / TOURO DE ENCANTO KRC50 - 2015/2015|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|700||275-017-veiculo-conservado-i-charming-bull-krc50-20152015|e5cd03189ebb26e1346b70955243a678.jpeg
+275-018|FIAT / PALIO ELX FLEX - 2011/2011|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|3500||275-018-veiculo-conservado-fiat-palio-elx-flex-20112011|0e501d24fdabf7a8abd476baa6431d84.jpeg
+275-019|FORD / FIESTA 1.6 - 2003/2003|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|3500||275-019-veiculo-conservado-ford-fiesta-16-20032003|a775f5c42c9ee3f102109014acc40084.jpeg
+275-020|FIAT / FIORINO GREENCAR AM - 2019/2020|C|Avenida Eduardo Fróes da Mota, Feira de Papai Noel...|7000||275-020-veiculo-conservado-fiat-fiorino-greencar-am-20192020|8cfe9b0c20fb3fef6b4ce9a4cdda3c00.jpeg
 275-022|HONDA / CG 160 START - 2022/2022|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|2000||275-022-veiculo-conservado-honda-cg-160-start-20222022|1e1bf8c087514bde6ecd18678cbd0e16.jpeg
 275-023|HONDA / CG 150 FAN ESI - 2011/2011|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|800||275-023-veiculo-conservado-honda-cg-150-fan-esi-20112011|7472e983485dceb85f6cd877d41dfaeb.jpeg
 275-024|YAMAHA / T115 CRYPTON ED - 2011/2012|C|Avenida Eduardo Fróes da Mota, Feira de Santa...|750||275-024-veiculo-conservado-yamaha-t115-crypton-ed-20112012|5f11b3ea981cd3784d0597cfa1d310bd.jpeg
@@ -974,22 +974,22 @@
 309-032|APROVEITAVEL YAMAHA / YBR 125E - 2002/2003|S|Rua Morumbi, Paulo Afonso - BA|600||309-032-sucata-aproveitavel-yamaha-ybr-125e-20022003|05a27a1f5799f7f2fd19ca1da17d834d.JPG
 309-033|APROVEITAVEL HONDA / CG 160 FAN ESDI - 2016/2016|S|Rua Morumbi, Paulo Afonso - BA|700||309-033-sucata-aproveitavel-honda-cg-160-fan-esdi-20162016|64d7e2244d4747d241ea3d4356788ac9.JPG
 310-001|APROVEITAVEL FIAT / UNO S - 1991/1991|S|Avenida David Jonas Fadini, Eunápolis - BA|1500||310-001-sucata-aproveitavel-fiat-uno-s-19911991|f6c0aeb8a98d83072ce2e01d91b6932b.jpg
-310-002|APROVEITAVEL DAFRA / SPEED 150 - 2009/2010|S|Avenida David Jonas Fadini, Eunápolis - BA|550||310-002-sucata-aproveitavel-dafra-speed-150-20092010|a8bec85548bc89432ac3c869db659238.jpg
-310-003|APROVEITAVEL COM MOTOR INSERVIVEL SUNDOWN / MAX 125 SE - 2007/2007|SM|Avenida David Jonas Fadini, Eunápolis - BA|500||310-003-sucata-aproveitavel-com-motor-inservivel-sundown-max-125-se-20072007|4589780899f18c046735b875ad583abd.jpg
-310-004|APROVEITAVEL COM MOTOR INSERVIVEL DAFRA / SUPER 100 - 2008/2008|SM|Avenida David Jonas Fadini, Eunápolis - BA|500||310-004-sucata-aproveitavel-com-motor-inservivel-dafra-super-100-20082008|1f75d00ccb325996f91eae564a9a3441.jpg
-311-016|APROVEITAVEL FIAT / STRADA FIRE FLEX - 2011/2012|S|Rodovia BA 526, Salvador - BA|3000||311-016-sucata-aproveitavel-fiat-strada-fire-flex-20112012|da441b454ace1afb392bb8dd092cdb58.jpeg
-311-017|APROVEITAVEL I / SENKE Z MOTOS ZSK50 ST - 2014/2015|S|Rodovia BA 526, Salvador - BA|500||311-017-sucata-aproveitavel-i-senke-z-motos-zsk50-st-20142015|b9bfceb46c1544a200cf10c8c7bf5062.jpeg
-311-018|APROVEITAVEL VW / GOL PLUS MI - 1997/1997|S|Rodovia BA 526, Salvador - BA|900||311-018-sucata-aproveitavel-vw-gol-plus-mi-19971997|9268d077f539098a854a339ca9726a6d.jpeg
-311-019|APROVEITAVEL HONDA / CG 125 FAN ES - 2010/2010|S|Rodovia BA 526, Salvador - BA|550||311-019-sucata-aproveitavel-honda-cg-125-fan-es-20102010|fc9a917d6b4203562dff08bd0e2ebd22.jpeg
-311-020|APROVEITAVEL GM / CORSA WIND - 2000/2001|S|Rodovia BA 526, Salvador - BA|1000||311-020-sucata-aproveitavel-gm-corsa-wind-20002001|fb892a9cf06ac9404d3af88c7c912950.jpeg
-311-021|APROVEITAVEL GM / CORSA SEDAN PREMIUM - 2010/2011|S|Rodovia BA 526, Salvador - BA|2000||311-021-sucata-aproveitavel-gm-corsa-sedan-premium-20102011|26ead1137195416cb5d3f9b007adfbcb.jpeg
-311-022|APROVEITAVEL FIAT / UNO MILLE WAY ECON - 2010/2010|S|Rodovia BA 526, Salvador - BA|1300||311-022-sucata-aproveitavel-fiat-uno-mille-way-econ-20102010|e14958da934a4810da06a3610781f717.jpeg
-311-023|APROVEITAVEL HONDA / CG 150 TITAN KS - 2009/2009|S|Rodovia BA 526, Salvador - BA|800||311-023-sucata-aproveitavel-honda-cg-150-titan-ks-20092009|6e83b62277886755a2deda5a1a5032ea.jpeg
-311-024|APROVEITAVEL HONDA / CB 300R - 2010/2010|S|Rodovia BA 526, Salvador - BA|700||311-024-sucata-aproveitavel-honda-cb-300r-20102010|3e1e781dd965ad0de00de4abd1d3785f.jpeg
-311-025|APROVEITAVEL HONDA / CG 150 TITAN ES - 2005/2005|S|Rodovia BA 526, Salvador - BA|700||311-025-sucata-aproveitavel-honda-cg-150-titan-es-20052005|2071d69431a9cc091593be8913d19cb1.jpeg
-311-026|APROVEITAVEL COM MOTOR INSERVIVEL JTA / SUZUKI EN125 YES - 2008/2009|SM|Rodovia BA 526, Salvador - BA|500||311-026-sucata-aproveitavel-com-motor-inservivel-jta-suzuki-en125-yes-20082009|97e99c9c0913228b7552d3b7d9d74acc.jpeg
-311-027|APROVEITAVEL COM MOTOR INSERVIVEL VW / FOX 1.0 - 2006/2006|SM|Rodovia BA 526, Salvador - BA|1200||311-027-sucata-aproveitavel-com-motor-inservivel-vw-fox-10-20062006|c67fcd4cde2dd0dadadf68457bd90347.jpeg
-311-028|APROVEITAVEL COM MOTOR INSERVIVEL HONDA / CG 125 FAN - 2008/2008|SM|Rodovia BA 526, Salvador - BA|550||311-028-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008|460b0e9c1645e33705093eeb6a8346be.jpeg
+310-002|APROVEITAVEL DAFRA / SPEED 150 - 2009/2010|S|Avenida David Jonas Fadini, Eunápolis - BA|550|2026-12-01|310-002-sucata-aproveitavel-dafra-speed-150-20092010|a8bec85548bc89432ac3c869db659238.jpg
+310-003|APROVEITAVEL COM MOTOR INSERVIVEL SUNDOWN / MAX 125 SE - 2007/2007|SM|Avenida David Jonas Fadini, Eunápolis - BA|500|2026-12-01|310-003-sucata-aproveitavel-com-motor-inservivel-sundown-max-125-se-20072007|4589780899f18c046735b875ad583abd.jpg
+310-004|APROVEITAVEL COM MOTOR INSERVIVEL DAFRA / SUPER 100 - 2008/2008|SM|Avenida David Jonas Fadini, Eunápolis - BA|500|2026-12-01|310-004-sucata-aproveitavel-com-motor-inservivel-dafra-super-100-20082008|1f75d00ccb325996f91eae564a9a3441.jpg
+311-016|APROVITAVEL FIAT / STRADA FIRE FLEX - 2011/2012|S|Rodovia BA 526, Salvador - BA|3000|2026-12-01|311-016-sucata-aproveitavel-fiat-strada-fire-flex-20112012|da441b454ace1afb392bb8dd092cdb58.jpeg
+311-017|APROVEITAVEL I / SENKE Z MOTOS ZSK50 ST - 2014/2015|S|Rodovia BA 526, Salvador - BA|500|2026-12-01|311-017-sucata-aproveitavel-i-senke-z-motos-zsk50-st-20142015|b9bfceb46c1544a200cf10c8c7bf5062.jpeg
+311-018|APROVEITAVEL VW / GOL PLUS MI - 1997/1997|S|Rodovia BA 526, Salvador - BA|900|2026-12-01|311-018-sucata-aproveitavel-vw-gol-plus-mi-19971997|9268d077f539098a854a339ca9726a6d.jpeg
+311-019|APROVEITAVEL HONDA / CG 125 FAN ES - 2010/2010|S|Rodovia BA 526, Salvador - BA|550|2026-12-01|311-019-sucata-aproveitavel-honda-cg-125-fan-es-20102010|fc9a917d6b4203562dff08bd0e2ebd22.jpeg
+311-020|APROVEITAVEL GM / CORSA WIND - 2000/2001|S|Rodovia BA 526, Salvador - BA|1000|2026-12-01|311-020-sucata-aproveitavel-gm-corsa-wind-20002001|fb892a9cf06ac9404d3af88c7c912950.jpeg
+311-021|APROVEITAVEL GM / CORSA SEDAN PREMIUM - 2010/2011|S|Rodovia BA 526, Salvador - BA|2000|2026-12-01|311-021-sucata-aproveitavel-gm-corsa-sedan-premium-20102011|26ead1137195416cb5d3f9b007adfbcb.jpeg
+311-022|APROVEITAVEL FIAT / UNO MILLE WAY ECON - 2010/2010|S|Rodovia BA 526, Salvador - BA|1300|2026-12-01|311-022-sucata-aproveitavel-fiat-uno-mille-way-econ-20102010|e14958da934a4810da06a3610781f717.jpeg
+311-023|APROVEITAVEL HONDA / CG 150 TITAN KS - 2009/2009|S|Rodovia BA 526, Salvador - BA|800|2026-12-01|311-023-sucata-aproveitavel-honda-cg-150-titan-ks-20092009|6e83b62277886755a2deda5a1a5032ea.jpeg
+311-024|APROVEITAVEL HONDA / CB 300R - 2010/2010|S|Rodovia BA 526, Salvador - BA|700|2026-12-01|311-024-sucata-aproveitavel-honda-cb-300r-20102010|3e1e781dd965ad0de00de4abd1d3785f.jpeg
+311-025|APROVEITAVEL HONDA / CG 150 TITAN ES - 2005/2005|S|Rodovia BA 526, Salvador - BA|700|2026-12-01|311-025-sucata-aproveitavel-honda-cg-150-titan-es-20052005|2071d69431a9cc091593be8913d19cb1.jpeg
+311-026|APROVEITAVEL COM MOTOR INSERVIVEL JTA / SUZUKI EN125 YES - 2008/2009|SM|Rodovia BA 526, Salvador - BA|500|2026-12-01|311-026-sucata-aproveitavel-com-motor-inservivel-jta-suzuki-en125-yes-20082009|97e99c9c0913228b7552d3b7d9d74acc.jpeg
+311-027|APROVEITAVEL COM MOTOR INSERVIVEL VW / FOX 1.0 - 2006/2006|SM|Rodovia BA 526, Salvador - BA|1200|2026-12-01|311-027-sucata-aproveitavel-com-motor-inservivel-vw-fox-10-20062006|c67fcd4cde2dd0dadadf68457bd90347.jpeg
+311-028|APROVEITAVEL COM MOTOR INSERVIVEL HONDA / CG 125 FAN - 2008/2008|SM|Rodovia BA 526, Salvador - BA|550|2026-12-01|311-028-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008|460b0e9c1645e33705093eeb6a8346be.jpeg
 311-029|APROVEITAVEL COM MOTOR INSERVIVEL VW / GOL 1.0 - 2003/2004|SM|Rodovia BA 526, Salvador - BA|1000||311-029-sucata-aproveitavel-com-motor-inservivel-vw-gol-10-20032004|42ac5d49db25676d4b889eac4e345ec0.jpeg
 311-030|APROVEITAVEL COM MOTOR INSERVIVEL VW / NOVO VOYAGE 1.6 CITY - 2013/2014|SM|Rodovia BA 526, Salvador - BA|1400||311-030-sucata-aproveitavel-com-motor-inservivel-vw-novo-voyage-16-city-20132014|13ba6b453a76800b96b572aac883d243.jpeg
 311-031|APROVEITAVEL COM MOTOR INSERVIVEL SHINERAY / XY50Q PHOENIX - N/I/N/I|SM|Rodovia BA 526, Salvador - BA|400||311-031-sucata-aproveitavel-com-motor-inservivel-shineray-xy50q-phoenix-nini|d65659d5cee7122dd8eb7e91c5ceed56.jpeg
@@ -1006,38 +1006,38 @@
 313-029|APROVEITAVEL HONDA / C100 BIZ ES - 2003/2004|S|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|650||313-029-sucata-aproveitavel-honda-c100-biz-es-20032004|909454dba971982902a8447aa56927d2.jpg
 313-030|APROVEITAVEL CHEVROLET / CELTA 1.0L LT - 2013/2013|S|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|1700||313-030-sucata-aproveitavel-chevrolet-celta-10l-lt-20132013|777e22cb3e3d48bac9c57db733bdeb0c.jpg
 313-031|APROVEITAVEL FORD / FIESTA FLEX - 2007/2008|S|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|1400||313-031-sucata-aproveitavel-ford-fiesta-flex-20072008|dd04384135c8265f7becfdeb22aa8244.jpg
-313-032|APROVEITAVEL JTA / SUZUKI EN125 YES - 2006/2007|S|DETRAN BA - DEPARTAMENTO ESTADUAL DE TRÂNSITO DA BAHIA|650||313-032-sucata-aproveitavel-jta-suzuki-en125-yes-20062007|4e7cd57ff4dbc6a51698b1e9b246de28.jpg
-313-033|APROVEITAVEL COM MOTOR INSERVIVEL HONDA / CG 125 TITAN KS - 2000/2000|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|550||313-033-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20002000|3d67feb8476da233e7411825acdb1b7c.jpg
-313-034|APROVEITAVEL COM MOTOR INSERVIVEL HONDA / CG 125 TITAN ES - 2003/2004|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|600||313-034-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-es-20032004|8934f6311fb4a186b20b202a2bb0f3b1.jpg
-313-035|APROVEITAVEL COM MOTOR INSERVIVEL GM / VECTRA GLS - 2000/2000|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|900||313-035-sucata-aproveitavel-com-motor-inservivel-gm-vectra-gls-20002000|096c5eaddefb997edbfab44e200f8c08.jpg
-313-036|APROVEITAVEL COM MOTOR INSERVIVEL HONDA / CG 125 FAN - 2008/2008|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|600||313-036-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008|20d4aec7950c70a31fa2c9db43050b68.jpg
-313-037|APROVEITAVEL COM MOTOR INSERVIVEL FIAT / SIENA FIRE - 2004/2005|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|1100||313-037-sucata-aproveitavel-com-motor-inservivel-fiat-siena-fire-20042005|d7952b329c887bd70acdfc12d3666b26.jpg
-313-038|APROVEITAVEL COM MOTOR INSERVIVEL GM / CORSA GL 1.6 - 1997/1998|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|900||313-038-sucata-aproveitavel-com-motor-inservivel-gm-corsa-gl-16-19971998|ea54bd74c31011546a9ff1424a276923.jpg
-313-039|APROVEITAVEL COM MOTOR INSERVIVEL I/SHINERAY XY 50 Q - 2015/2016|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|500||313-039-sucata-aproveitavel-com-motor-inservivel-ishineray-xy-50-q-20152016|58a48d2ef085baeb257ac68bc52383a4.jpg
-313-040|APROVEITAVEL COM MOTOR INSERVIVEL SHINERAY / 49CC JET - N/I/N/I|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|500||313-040-sucata-aproveitavel-com-motor-inservivel-shineray-49cc-jet-nini|8217102e6804b0a13f19be179a325562.jpg
-313-041|APROVEITAVEL COM MOTOR INSERVIVEL I / TOYOTA HILUXSW4 SRV4X4 - 2014/2014|SM|Avenida Eng. Elmo Serejo de Farias, SIMOES FI...|12000||313-041-sucata-aproveitavel-com-motor-inservivel-i-toyota-hiluxsw4-srv4x4-20142014|f4b07c0a6dde71c4b50f734dcc987a2f.jpeg
-315-001|I/GM CAPTIVA SPORT FWD - 2009/2009|C|Rodovia BR 242/020, Barreiras - BA|4000||315-001-veiculo-conservado-igm-captiva-sport-fwd-20092009|44eac4b463cf945190aa01eb89671d2d.JPG
-315-002|HONDA/CG 125 FAN KS - 2015/2015|C|Rodovia BR 242/020, Barreiras - BA|900||315-002-veiculo-conservado-hondacg-125-fan-ks-20152015|45145dd24e6db5a00b641a2ea10844a6.JPG
-315-003|HONDA/CG 125 FAN KS - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|700||315-003-veiculo-conservado-hondacg-125-fan-ks-20102010|e273c4eab98faefa9a30720c8583448c.JPG
-315-004|HONDA/CG 150 TITAN KS - 2007/2008|C|Rodovia BR 242/020, Barreiras - BA|800||315-004-veiculo-conservado-hondacg-150-titan-ks-20072008|e52d76234e4eaeb676e670189d7e8f24.JPG
-315-005|HONDA/CG150 TITAN MIX ES - 2009/2009|C|Rodovia BR 242/020, Barreiras - BA|800||315-005-veiculo-conservado-hondacg150-titan-mix-es-20092009|45c575d28c92b1a309edc1f3fcdf0f3a.JPG
-315-006|HONDA/POP100 - 2014/2015|C|Rodovia BR 242/020, Barreiras - BA|600||315-006-veiculo-conservado-hondapop100-20142015|5e58ba6136e506751d33187ee5400805.JPG
-315-007|HONDA/CG 160 FAN - 2024/2024|C|Rodovia BR 242/020, Barreiras - BA|2000||315-007-veiculo-conservado-hondacg-160-fan-20242024|32d06076dad9dfe0467f73d6a84af832.JPG
-315-008|HONDA/CG 150 TITAN KS - 2008/2008|C|Rodovia BR 242/020, Barreiras - BA|800||315-008-veiculo-conservado-hondacg-150-titan-ks-20082008|afd9cb6b44a4abb2d18df77204577cdb.JPG
-315-009|HONDA/CG 125 TITAN KS - 2002/2003|C|Rodovia BR 242/020, Barreiras - BA|600||315-009-veiculo-conservado-hondacg-125-titan-ks-20022003|af0007634d2c6e252e83fb25c3439f91.JPG
-315-010|HONDA/CG 160 FAN ESDI - 2017/2017|C|Rodovia BR 242/020, Barreiras - BA|2000||315-010-veiculo-conservado-hondacg-160-fan-esdi-20172017|bf663aaad7580a9f6544769bfc4e84c8.JPG
-315-011|HONDA/BIZ 125 ES - 2014/2014|C|Rodovia BR 242/020, Barreiras - BA|1000||315-011-veiculo-conservado-hondabiz-125-es-20142014|566d0fc913b855f9b68613260ee88cea.JPG
-315-012|HONDA/BIZ 110I - 2018/2018|C|Rodovia BR 242/020, Barreiras - BA|2000||315-012-veiculo-conservado-hondabiz-110i-20182018|c7b46b124c8c1c518c382c25211257bf.JPG
-315-013|HONDA/CG 125 FAN KS - 2009/2009|C|Rodovia BR 242/020, Barreiras - BA|700||315-013-veiculo-conservado-hondacg-125-fan-ks-20092009|8e32c043179195ac3e23b427c1016c4d.JPG
-315-014|GM/CELTA - 2001/2001|C|Rodovia BR 242/020, Barreiras - BA|2000||315-014-veiculo-conservado-gmcelta-20012001|d5ff821240bae1d966106b9af8ec0a58.JPG
-315-015|SHINERAY/XY125-6A - 2024/2025|C|Rodovia BR 242/020, Barreiras - BA|800||315-015-veiculo-conservado-shinerayxy125-6a-20242025|aedb8ea6ff9b9927c18e8ac788d87963.JPG
-315-016|HONDA/CG 160 TITAN S - 2021/2021|C|Rodovia BR 242/020, Barreiras - BA|2000||315-016-veiculo-conservado-hondacg-160-titan-s-20212021|c41aecb6bcd6e93b9e0e5b3f6aa998de.JPG
-315-017|YAMAHA/FACTOR YBR125 K - 2012/2012|C|Rodovia BR 242/020, Barreiras - BA|600||315-017-veiculo-conservado-yamahafactor-ybr125-k-20122012|cbfbca766e677c17f4e187db0fdd15da.JPG
-315-018|RENAULT/LOGAN EXP 1016V - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|3000||315-018-veiculo-conservado-renaultlogan-exp-1016v-20102010|a574c652e60ba2d58cbe4c9123cc7943.JPG
-315-019|HONDA/CG 125 FAN KS - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|700||315-019-veiculo-conservado-hondacg-125-fan-ks-20102010|d0a481295ba992a1f18c4fe2e95f3e02.JPG
-315-020|HONDA/BIZ 125 ES - 2014/2015|C|Rodovia BR 242/020, Barreiras - BA|1000||315-020-veiculo-conservado-hondabiz-125-es-20142015|b646bea3468d43ce60aaf78b025f0ebb.JPG
-315-021|HONDA/CG 125 FAN KS - 2012/2013|C|Rodovia BR 242/020, Barreiras - BA|800||315-021-veiculo-conservado-hondacg-125-fan-ks-20122013|76e89be6d74d5ef381751f57ec10eb93.JPG
-315-022|HONDA/CG 150 TITAN ES - 2008/2008|C|Rodovia BR 242/020, Barreiras - BA|800||315-022-veiculo-conservado-hondacg-150-titan-es-20082008|acd4f3ec43799522f6f1d06c1a2b999c.JPG
+313-032|APROVEITAVEL JTA / SUZUKI EN125 YES - 2006/2007|S|DETRAN BA - DEPARTAMENTO ESTADUAL DE TRÂNSITO DA BAHIA|650|2026-12-01|313-032-sucata-aproveitavel-jta-suzuki-en125-yes-20062007|4e7cd57ff4dbc6a51698b1e9b246de28.jpg
+313-033|APROVEITAVEL COM MOTOR INSERVIVEL HONDA / CG 125 TITAN KS - 2000/2000|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|550|2026-12-01|313-033-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-ks-20002000|3d67feb8476da233e7411825acdb1b7c.jpg
+313-034|APROVEITAVEL COM MOTOR INSERVIVEL HONDA / CG 125 TITAN ES - 2003/2004|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|600|2026-12-01|313-034-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-titan-es-20032004|8934f6311fb4a186b20b202a2bb0f3b1.jpg
+313-035|APROVEITAVEL COM MOTOR INSERVIVEL GM / VECTRA GLS - 2000/2000|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|900|2026-12-01|313-035-sucata-aproveitavel-com-motor-inservivel-gm-vectra-gls-20002000|096c5eaddefb997edbfab44e200f8c08.jpg
+313-036|APROVEITAVEL COM MOTOR INSERVIVEL HONDA / CG 125 FAN - 2008/2008|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|600|2026-12-01|313-036-sucata-aproveitavel-com-motor-inservivel-honda-cg-125-fan-20082008|20d4aec7950c70a31fa2c9db43050b68.jpg
+313-037|APROVEITAVEL COM MOTOR INSERVIVEL FIAT / SIENA FIRE - 2004/2005|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|1100|2026-12-01|313-037-sucata-aproveitavel-com-motor-inservivel-fiat-siena-fire-20042005|d7952b329c887bd70acdfc12d3666b26.jpg
+313-038|APROVEITAVEL COM MOTOR INSERVIVEL GM / CORSA GL 1.6 - 1997/1998|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|900|2026-12-01|313-038-sucata-aproveitavel-com-motor-inservivel-gm-corsa-gl-16-19971998|ea54bd74c31011546a9ff1424a276923.jpg
+313-039|APROVEITAVEL COM MOTOR INSERVIVEL I/SHINERAY XY 50 Q - 2015/2016|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|500|2026-12-01|313-039-sucata-aproveitavel-com-motor-inservivel-ishineray-xy-50-q-20152016|58a48d2ef085baeb257ac68bc52383a4.jpg
+313-040|APROVEITAVEL COM MOTOR INSERVIVEL SHINERAY / 49CC JET - N/I/N/I|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|500|2026-12-01|313-040-sucata-aproveitavel-com-motor-inservivel-shineray-49cc-jet-nini|8217102e6804b0a13f19be179a325562.jpg
+313-041|APROVEITAVEL COM MOTOR INSERVIVEL I / TOYOTA HILUXSW4 SRV4X4 - 2014/2014|SM|Avenida Eng. Elmo Serejo de Farias, SIMÕES FI...|12000|2026-12-01|313-041-sucata-aproveitavel-com-motor-inservivel-i-toyota-hiluxsw4-srv4x4-20142014|f4b07c0a6dde71c4b50f734dcc987a2f.jpeg
+315-001|I/GM CAPTIVA SPORT FWD - 2009/2009|C|Rodovia BR 242/020, Barreiras - BA|4000|2026-12-04|315-001-veiculo-conservado-igm-captiva-sport-fwd-20092009|44eac4b463cf945190aa01eb89671d2d.JPG
+315-002|HONDA/CG 125 FAN KS - 2015/2015|C|Rodovia BR 242/020, Barreiras - BA|900|2026-12-04|315-002-veiculo-conservado-hondacg-125-fan-ks-20152015|45145dd24e6db5a00b641a2ea10844a6.JPG
+315-003|HONDA/CG 125 FAN KS - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|700|2026-12-04|315-003-veiculo-conservado-hondacg-125-fan-ks-20102010|e273c4eab98faefa9a30720c8583448c.JPG
+315-004|HONDA/CG 150 TITAN KS - 2007/2008|C|Rodovia BR 242/020, Barreiras - BA|800|2026-12-04|315-004-veiculo-conservado-hondacg-150-titan-ks-20072008|e52d76234e4eaeb676e670189d7e8f24.JPG
+315-005|HONDA/CG150 TITAN MIX ES - 2009/2009|C|Rodovia BR 242/020, Barreiras - BA|800|2026-12-04|315-005-veiculo-conservado-hondacg150-titan-mix-es-20092009|45c575d28c92b1a309edc1f3fcdf0f3a.JPG
+315-006|HONDA/POP100 - 2014/2015|C|Rodovia BR 242/020, Barreiras - BA|600|2026-12-04|315-006-veiculo-conservado-hondapop100-20142015|5e58ba6136e506751d33187ee5400805.JPG
+315-007|HONDA/CG 160 FAN - 2024/2024|C|Rodovia BR 242/020, Barreiras - BA|2000|2026-12-04|315-007-veiculo-conservado-hondacg-160-fan-20242024|32d06076dad9dfe0467f73d6a84af832.JPG
+315-008|HONDA/CG 150 TITAN KS - 2008/2008|C|Rodovia BR 242/020, Barreiras - BA|800|2026-12-04|315-008-veiculo-conservado-hondacg-150-titan-ks-20082008|afd9cb6b44a4abb2d18df77204577cdb.JPG
+315-009|HONDA/CG 125 TITAN KS - 2002/2003|C|Rodovia BR 242/020, Barreiras - BA|600|2026-12-04|315-009-veiculo-conservado-hondacg-125-titan-ks-20022003|af0007634d2c6e252e83fb25c3439f91.JPG
+315-010|HONDA/CG 160 FAN ESDI - 2017/2017|C|Rodovia BR 242/020, Barreiras - BA|2000|2026-12-04|315-010-veiculo-conservado-hondacg-160-fan-esdi-20172017|bf663aaad7580a9f6544769bfc4e84c8.JPG
+315-011|HONDA/BIZ 125 ES - 2014/2014|C|Rodovia BR 242/020, Barreiras - BA|1000|2026-12-04|315-011-veiculo-conservado-hondabiz-125-es-20142014|566d0fc913b855f9b68613260ee88cea.JPG
+315-012|HONDA/BIZ 110I - 2018/2018|C|Rodovia BR 242/020, Barreiras - BA|2000|2026-12-04|315-012-veiculo-conservado-hondabiz-110i-20182018|c7b46b124c8c1c518c382c25211257bf.JPG
+315-013|HONDA/CG 125 FAN KS - 2009/2009|C|Rodovia BR 242/020, Barreiras - BA|700|2026-12-04|315-013-veiculo-conservado-hondacg-125-fan-ks-20092009|8e32c043179195ac3e23b427c1016c4d.JPG
+315-014|GM/CELTA - 2001/2001|C|Rodovia BR 242/020, Barreiras - BA|2000|2026-12-04|315-014-veiculo-conservado-gmcelta-20012001|d5ff821240bae1d966106b9af8ec0a58.JPG
+315-015|SHINERAY/XY125-6A - 2024/2025|C|Rodovia BR 242/020, Barreiras - BA|800|2026-12-04|315-015-veiculo-conservado-shinerayxy125-6a-20242025|aedb8ea6ff9b9927c18e8ac788d87963.JPG
+315-016|HONDA/CG 160 TITAN S - 2021/2021|C|Rodovia BR 242/020, Barreiras - BA|2000|2026-12-04|315-016-veiculo-conservado-hondacg-160-titan-s-20212021|c41aecb6bcd6e93b9e0e5b3f6aa998de.JPG
+315-017|YAMAHA/FACTOR YBR125 K - 2012/2012|C|Rodovia BR 242/020, Barreiras - BA|600|2026-12-04|315-017-veiculo-conservado-yamahafactor-ybr125-k-20122012|cbfbca766e677c17f4e187db0fdd15da.JPG
+315-018|RENAULT/LOGAN EXP 1016V - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|3000|2026-12-04|315-018-veiculo-conservado-renaultlogan-exp-1016v-20102010|a574c652e60ba2d58cbe4c9123cc7943.JPG
+315-019|HONDA/CG 125 FAN KS - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|700|2026-12-04|315-019-veiculo-conservado-hondacg-125-fan-ks-20102010|d0a481295ba992a1f18c4fe2e95f3e02.JPG
+315-020|HONDA/BIZ 125 ES - 2014/2015|C|Rodovia BR 242/020, Barreiras - BA|1000|2026-12-04|315-020-veiculo-conservado-hondabiz-125-es-20142015|b646bea3468d43ce60aaf78b025f0ebb.JPG
+315-021|HONDA/CG 125 FAN KS - 2012/2013|C|Rodovia BR 242/020, Barreiras - BA|800|2026-12-04|315-021-veiculo-conservado-hondacg-125-fan-ks-20122013|76e89be6d74d5ef381751f57ec10eb93.JPG
+315-022|HONDA/CG 150 TITAN ES - 2008/2008|C|Rodovia BR 242/020, Barreiras - BA|800|2026-12-04|315-022-veiculo-conservado-hondacg-150-titan-es-20082008|acd4f3ec43799522f6f1d06c1a2b999c.JPG
 315-023|HONDA/POP100 - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|600||315-023-veiculo-conservado-hondapop100-20102010|e744081625a78f8640ef3045202b7b0b.JPG
 315-024|YAMAHA/T115 CRYPTON ED - 2011/2012|C|Rodovia BR 242/020, Barreiras - BA|600||315-024-veiculo-conservado-yamahat115-crypton-ed-20112012|ad2565682e0d8df82c44f1f77ef117e0.JPG
 315-025|I/CITROEN C4 PALLAS20G F - 2009/2010|C|Rodovia BR 242/020, Barreiras - BA|3000||315-025-veiculo-conservado-icitroen-c4-pallas20g-f-20092010|d4cbb920ca5cc9dde7f7be084c84440b.JPG
@@ -1054,54 +1054,54 @@
 315-036|HONDA/CG 150 TITAN EX - 2013/2013|C|Rodovia BR 242/020, Barreiras - BA|1000||315-036-veiculo-conservado-hondacg-150-titan-ex-20132013|e4e8429b5d1f6eec2a26eb33f5affc17.JPG
 315-037|HONDA/CG 150 FAN ESI - 2013/2013|C|Rodovia BR 242/020, Barreiras - BA|1000||315-037-veiculo-conservado-hondacg-150-fan-esi-20132013|1154eee462dc23b388bf1808e011b80f.JPG
 315-038|RENAULT/DUSTER EXP16 SCE - 2018/2019|C|Rodovia BR 242/020, Barreiras - BA|7000||315-038-veiculo-conservado-renaultduster-exp16-sce-20182019|e3b7f30648bd3b77efe1b528443bb45e.JPG
-315-039|HONDA/CG 160 START - 2023/2023|C|Rodovia BR 242/020, Barreiras - BA|2000||315-039-veiculo-conservado-hondacg-160-start-20232023|e31a428b34d72c713551e3f00f4f9863.JPG
-315-040|HONDA/CG 125 FAN KS - 2012/2012|C|Rodovia BR 242/020, Barreiras - BA|800||315-040-veiculo-conservado-hondacg-125-fan-ks-20122012|0c7a8dcf089d936e15f9f82a004b5dff.JPG
-315-041|I/CHEVROLET AGILE LTZ - 2011/2012|C|Rodovia BR 242/020, Barreiras - BA|4000||315-041-veiculo-conservado-ichevrolet-agile-ltz-20112012|c0b71adccd361cf7f1aaa2457d62ae8c.JPG
-315-042|HONDA/XRE 300 - 2009/2010|C|Rodovia BR 242/020, Barreiras - BA|2000||315-042-veiculo-conservado-hondaxre-300-20092010|b398db8eea16861fd76fc8e2f821aecb.JPG
-315-043|DAFRA/KANSAS 150 - 2008/2009|C|Rodovia BR 242/020, Barreiras - BA|400||315-043-veiculo-conservado-dafrakansas-150-20082009|ab5d9361bde8df8c5cc469d97005fb80.JPG
-315-044|HONDA/CG 125 FAN KS - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|700||315-044-veiculo-conservado-hondacg-125-fan-ks-20102010|1cb5bab704bd1c4fa0988f29ee368868.JPG
-315-045|YAMAHA/YBR 125E - 2006/2006|C|Rodovia BR 242/020, Barreiras - BA|500||315-045-veiculo-conservado-yamahaybr-125e-20062006|89d07ec979f98a8acaf558248b040654.JPG
-315-046|YAMAHA/YBR 125E - 2001/2002|C|Rodovia BR 242/020, Barreiras - BA|400||315-046-veiculo-conservado-yamahaybr-125e-20012002|bfc08d7c1d0ed860ce015830041f6619.JPG
-315-047|YAMAHA/FACTOR YBR125 K - 2008/2009|C|Rodovia BR 242/020, Barreiras - BA|600||315-047-veiculo-conservado-yamahafactor-ybr125-k-20082009|31a12a1bad3c0c9c49c907df91b16155.JPG
-315-048|HONDA/CG 125 FAN KS - 2013/2014|C|Rodovia BR 242/020, Barreiras - BA|800||315-048-veiculo-conservado-hondacg-125-fan-ks-20132014|d4abf9b9fb906e1d56748655b08c04ff.JPG
-315-049|HONDA/NXR150 BROS ES - 2012/2012|C|Rodovia BR 242/020, Barreiras - BA|1000||315-049-veiculo-conservado-hondanxr150-bros-es-20122012|063a5a196b5c80fb2ad6ec8fa5787cf3.JPG
-315-050|FORD/FIESTA FLEX - 2010/2011|C|Rodovia BR 242/020, Barreiras - BA|3000||315-050-veiculo-conservado-fordfiesta-flex-20102011|8292efd631b5e249b0f6b6fc66493f3c.JPG
-315-051|YAMAHA/XTZ 125E - 2007/2008|C|Rodovia BR 242/020, Barreiras - BA|700||315-051-veiculo-conservado-yamahaxtz-125e-20072008|9102808d69cce21412766c020731641e.JPG
-315-052|DAFRA/SUPER 100 - 2009/2010|C|Rodovia BR 242/020, Barreiras - BA|300||315-052-veiculo-conservado-dafrasuper-100-20092010|73e22d6e7390218a887d59e210b58f49.JPG
-316-001|FIAT/SIENA ELX FLEX - 2006/2007|C|Rodovia BR 242/020, Barreiras - BA|3000||316-001-veiculo-conservado-fiatsiena-elx-flex-20062007|feb832f984d84805bb3c28e3533a1dc9.jpeg
-316-002|HONDA/CG 125 FAN - 2005/2005|C|Rodovia BR 242/020, Barreiras - BA|600||316-002-veiculo-conservado-hondacg-125-fan-20052005|553c831d4691b3b2a034039fcde873fe.JPG
-316-003|YAMAHA/YBR 125K - 2007/2008|C|Rodovia BR 242/020, Barreiras - BA|600||316-003-veiculo-conservado-yamahaybr-125k-20072008|5ff26e58ca72cf83bef7168ca442a095.JPG
-317-001|HONDA/CG 125 FAN KS - 2014/2015|C|Rodovia BR 242/020, Barreiras - BA|900||317-001-veiculo-conservado-hondacg-125-fan-ks-20142015|b181e8ca35fa33cb63ebfb864d0d483a.JPG
-317-002|HONDA/CG 150 FAN ESI - 2011/2012|C|Rodovia BR 242/020, Barreiras - BA|900||317-002-veiculo-conservado-hondacg-150-fan-esi-20112012|204b2dfd306fd9272df7b3fd65383fe1.JPG
-317-003|HONDA/CG 150 FAN ESI - 2011/2011|C|Rodovia BR 242/020, Barreiras - BA|900||317-003-veiculo-conservado-hondacg-150-fan-esi-20112011|14aaac53b3759200b01134225d621ab7.JPG
-318-001|FIAT/UNO WAY 1.0 - 2012/2012|C|Avenida Primeiro de Janeiro, Irecê - BA|3000||318-001-veiculo-conservado-fiatuno-way-10-20122012|75903af32a508672013b4d175bfa5d79.jpeg
-318-002|HONDA/CG 125 FAN KS - 2012/2012|C|Avenida Primeiro de Janeiro, Irecê - BA|800||318-002-veiculo-conservado-hondacg-125-fan-ks-20122012|0779018970c9e73376d77efacb0e9871.jpeg
-318-003|HONDA/CG 125 TITAN KS - 2001/2001|C|Avenida Primeiro de Janeiro, Irecê - BA|600||318-003-veiculo-conservado-hondacg-125-titan-ks-20012001|4e8bbd1ba0ccee4d2d53a3fa2248a9d6.jpeg
-318-004|YAMAHA/XTZ150 CROSSER ED - 2015/2015|C|Avenida Primeiro de Janeiro, Irecê - BA|2000||318-004-veiculo-conservado-yamahaxtz150-crosser-ed-20152015|c4cf1197e3243038a63939d601bb5e07.jpeg
-318-005|HONDA/POP100 - 2014/2015|C|Avenida Primeiro de Janeiro, Irecê - BA|600||318-005-veiculo-conservado-hondapop100-20142015|06d6aedff799142827e3eb9a3f35b97c.jpeg
-318-006|HONDA/CG 150 TITAN EX - 2011/2011|C|Avenida Primeiro de Janeiro, Irecê - BA|900||318-006-veiculo-conservado-hondacg-150-titan-ex-20112011|072eba2ef986444c24cba88142c7f21e.jpeg
-318-007|FORD/ECOSPORT XLS1.6FLEX - 2006/2006|C|Avenida Primeiro de Janeiro, Irecê - BA|3000||318-007-veiculo-conservado-fordecosport-xls16flex-20062006|c629de03a7910a2fdc6dcf0b23694339.jpeg
-318-008|HONDA/CG 125 FAN KS - 2012/2012|C|Avenida Primeiro de Janeiro, Irecê - BA|800||318-008-veiculo-conservado-hondacg-125-fan-ks-20122012|df529e3dbbe1b7f4b85c36c401b692e0.jpeg
-318-009|HONDA/CG 150 TITAN KS - 2009/2009|C|Avenida Primeiro de Janeiro, Irecê - BA|800||318-009-veiculo-conservado-hondacg-150-titan-ks-20092009|ce23f9e918631c4437357f732600c484.jpeg
-318-010|HONDA/CG 160 START - 2025/2025|C|Avenida Primeiro de Janeiro, Irecê - BA|2000||318-010-veiculo-conservado-hondacg-160-start-20252025|80d31ed96e80a2601d50361da0220e98.jpeg
-318-011|HONDA/CG 125 FAN - 2005/2005|C|Avenida Primeiro de Janeiro, Irecê - BA|600||318-011-veiculo-conservado-hondacg-125-fan-20052005|a3134e63ec3104796add515f0da739bf.jpeg
-318-012|YAMAHA/FZ15 FAZER ABS - 2024/2024|C|Avenida Primeiro de Janeiro, Irecê - BA|2000||318-012-veiculo-conservado-yamahafz15-fazer-abs-20242024|55b97ccad197b0d1c554a8a8230451e6.jpeg
-318-013|HONDA/CG 150 TITAN KS - 2006/2007|C|Avenida Primeiro de Janeiro, Irecê - BA|700||318-013-veiculo-conservado-hondacg-150-titan-ks-20062007|d8f6ffd1a5705a0e15ecbcc951ae54a1.jpeg
-319-001|HONDA/CG 160 START - 2019/2020|C|Rua Jean Torres de Oliveira, Jequié - BA|2000||319-001-veiculo-conservado-hondacg-160-start-20192020|661feb89f5e7e454b956ac2d29be2eba.jpg
-319-002|HONDA/CG 150 TITAN KS - 2004/2005|C|Rua Jean Torres de Oliveira, Jequié - BA|700||319-002-veiculo-conservado-hondacg-150-titan-ks-20042005|4a5b952f95e695653f8312f7c1d2d757.jpg
-319-003|YAMAHA/FAZER YS250 - 2007/2008|C|Rua Jean Torres de Oliveira, Jequié - BA|900||319-003-veiculo-conservado-yamahafazer-ys250-20072008|d2cd8845038d54e0fb4ae18857f86b8b.jpg
-319-004|VW/GOL 1.0 GIV - 2010/2011|C|Rua Jean Torres de Oliveira, Jequié - BA|3000||319-004-veiculo-conservado-vwgol-10-giv-20102011|e1c88dfcd208c6b485d91c5c24c48554.jpg
-319-005|HONDA/CG 125 FAN ES - 2010/2010|C|Rua Jean Torres de Oliveira, Jequié - BA|700||319-005-veiculo-conservado-hondacg-125-fan-es-20102010|640890ce8a82e95da28034679335608f.jpeg
-319-006|HONDA/CG 150 TITAN KS - 2004/2005|C|Rua Jean Torres de Oliveira, Jequié - BA|700||319-006-veiculo-conservado-hondacg-150-titan-ks-20042005|7fffc1cdb77c973fb35e41cbf7521982.jpg
-319-007|HONDA/ELITE 125 - 2019/2019|C|Rua Jean Torres de Oliveira, Jequié - BA|1000||319-007-veiculo-conservado-hondaelite-125-20192019|94e4512027413a3ead1ca5625e16ef99.jpg
-319-008|HONDA/CG 125 FAN KS - 2011/2011|C|Rua Jean Torres de Oliveira, Jequié - BA|800||319-008-veiculo-conservado-hondacg-125-fan-ks-20112011|81423a136d2e142a867dc2a2350113a2.jpg
-319-009|YAMAHA/FACTOR YBR125 K - 2008/2009|C|Rua Jean Torres de Oliveira, Jequié - BA|600||319-009-veiculo-conservado-yamahafactor-ybr125-k-20082009|6da5053a0ad37dc43f3825b33c5d2186.jpg
-319-010|HONDA/CG 150 FAN ESI - 2011/2011|C|Rua Jean Torres de Oliveira, Jequié - BA|900||319-010-veiculo-conservado-hondacg-150-fan-esi-20112011|2aa18279e56e35fe63c2b96b73a1938c.jpg
-319-011|HONDA/CG 125 FAN - 2007/2008|C|Rua Jean Torres de Oliveira, Jequié - BA|700||319-011-veiculo-conservado-hondacg-125-fan-20072008|f0c56138108c84f8fd0337283e08aafe.jpg
-320-001|HONDA/CB 300R - 2010/2010|C|Rua Jean Torres de Oliveira, Jequié - BA|2000||320-001-veiculo-conservado-hondacb-300r-20102010|27a9a417c3955730522894d5f85c2e91.jpg
-320-002|VW/GOL 1.0 GIV - 2013/2014|C|Rua Jean Torres de Oliveira, Jequié - BA|3000||320-002-veiculo-conservado-vwgol-10-giv-20132014|d7fba4d644c7514a78813ab6c2f4df78.jpg
-321-001|YAMAHA/YBR150 FACTOR ED - 2023/2024|C|Rua Jean Torres de Oliveira, Jequié - BA|2000||321-001-veiculo-conservado-yamahaybr150-factor-ed-20232024|b02618524c36979196fa498de7572fe8.jpg
-322-001|YAMAHA/LANDER XTZ250 - 2007/2008|C|Avenida Luís Carlos Prestes, Itaberaba - BA|3000||322-001-veiculo-conservado-yamahalander-xtz250-20072008|f2e60b32474d70471f999eebdd0dc21c.jpg
+315-039|HONDA/CG 160 START - 2023/2023|C|Rodovia BR 242/020, Barreiras - BA|2000|2026-12-04|315-039-veiculo-conservado-hondacg-160-start-20232023|e31a428b34d72c713551e3f00f4f9863.JPG
+315-040|HONDA/CG 125 FAN KS - 2012/2012|C|Rodovia BR 242/020, Barreiras - BA|800|2026-12-04|315-040-veiculo-conservado-hondacg-125-fan-ks-20122012|0c7a8dcf089d936e15f9f82a004b5dff.JPG
+315-041|I/CHEVROLET AGILE LTZ - 2011/2012|C|Rodovia BR 242/020, Barreiras - BA|4000|2026-12-04|315-041-veiculo-conservado-ichevrolet-agile-ltz-20112012|c0b71adccd361cf7f1aaa2457d62ae8c.JPG
+315-042|HONDA/XRE 300 - 2009/2010|C|Rodovia BR 242/020, Barreiras - BA|2000|2026-12-04|315-042-veiculo-conservado-hondaxre-300-20092010|b398db8eea16861fd76fc8e2f821aecb.JPG
+315-043|DAFRA/KANSAS 150 - 2008/2009|C|Rodovia BR 242/020, Barreiras - BA|400|2026-12-04|315-043-veiculo-conservado-dafrakansas-150-20082009|ab5d9361bde8df8c5cc469d97005fb80.JPG
+315-044|HONDA/CG 125 FAN KS - 2010/2010|C|Rodovia BR 242/020, Barreiras - BA|700|2026-12-04|315-044-veiculo-conservado-hondacg-125-fan-ks-20102010|1cb5bab704bd1c4fa0988f29ee368868.JPG
+315-045|YAMAHA/YBR 125E - 2006/2006|C|Rodovia BR 242/020, Barreiras - BA|500|2026-12-04|315-045-veiculo-conservado-yamahaybr-125e-20062006|89d07ec979f98a8acaf558248b040654.JPG
+315-046|YAMAHA/YBR 125E - 2001/2002|C|Rodovia BR 242/020, Barreiras - BA|400|2026-12-04|315-046-veiculo-conservado-yamahaybr-125e-20012002|bfc08d7c1d0ed860ce015830041f6619.JPG
+315-047|YAMAHA/FACTOR YBR125 K - 2008/2009|C|Rodovia BR 242/020, Barreiras - BA|600|2026-12-04|315-047-veiculo-conservado-yamahafactor-ybr125-k-20082009|31a12a1bad3c0c9c49c907df91b16155.JPG
+315-048|HONDA/CG 125 FAN KS - 2013/2014|C|Rodovia BR 242/020, Barreiras - BA|800|2026-12-04|315-048-veiculo-conservado-hondacg-125-fan-ks-20132014|d4abf9b9fb906e1d56748655b08c04ff.JPG
+315-049|HONDA/NXR150 BROS ES - 2012/2012|C|Rodovia BR 242/020, Barreiras - BA|1000|2026-12-04|315-049-veiculo-conservado-hondanxr150-bros-es-20122012|063a5a196b5c80fb2ad6ec8fa5787cf3.JPG
+315-050|FORD/FIESTA FLEX - 2010/2011|C|Rodovia BR 242/020, Barreiras - BA|3000|2026-12-04|315-050-veiculo-conservado-fordfiesta-flex-20102011|8292efd631b5e249b0f6b6fc66493f3c.JPG
+315-051|YAMAHA/XTZ 125E - 2007/2008|C|Rodovia BR 242/020, Barreiras - BA|700|2026-12-04|315-051-veiculo-conservado-yamahaxtz-125e-20072008|9102808d69cce21412766c020731641e.JPG
+315-052|DAFRA/SUPER 100 - 2009/2010|C|Rodovia BR 242/020, Barreiras - BA|300|2026-12-04|315-052-veiculo-conservado-dafrasuper-100-20092010|73e22d6e7390218a887d59e210b58f49.JPG
+316-001|FIAT/SIENA ELX FLEX - 2006/2007|C|Rodovia BR 242/020, Barreiras - BA|3000|2026-12-04|316-001-veiculo-conservado-fiatsiena-elx-flex-20062007|feb832f984d84805bb3c28e3533a1dc9.jpeg
+316-002|HONDA/CG 125 FAN - 2005/2005|C|Rodovia BR 242/020, Barreiras - BA|600|2026-12-04|316-002-veiculo-conservado-hondacg-125-fan-20052005|553c831d4691b3b2a034039fcde873fe.JPG
+316-003|YAMAHA/YBR 125K - 2007/2008|C|Rodovia BR 242/020, Barreiras - BA|600|2026-12-04|316-003-veiculo-conservado-yamahaybr-125k-20072008|5ff26e58ca72cf83bef7168ca442a095.JPG
+317-001|HONDA/CG 125 FAN KS - 2014/2015|C|Rodovia BR 242/020, Barreiras - BA|900|2026-12-04|317-001-veiculo-conservado-hondacg-125-fan-ks-20142015|b181e8ca35fa33cb63ebfb864d0d483a.JPG
+317-002|HONDA/CG 150 FAN ESI - 2011/2012|C|Rodovia BR 242/020, Barreiras - BA|900|2026-12-04|317-002-veiculo-conservado-hondacg-150-fan-esi-20112012|204b2dfd306fd9272df7b3fd65383fe1.JPG
+317-003|HONDA/CG 150 FAN ESI - 2011/2011|C|Rodovia BR 242/020, Barreiras - BA|900|2026-12-04|317-003-veiculo-conservado-hondacg-150-fan-esi-20112011|14aaac53b3759200b01134225d621ab7.JPG
+318-001|FIAT/UNO WAY 1.0 - 2012/2012|C|Avenida Primeiro de Janeiro, Irecê - BA|3000|2026-12-04|318-001-veiculo-conservado-fiatuno-way-10-20122012|75903af32a508672013b4d175bfa5d79.jpeg
+318-002|HONDA/CG 125 FAN KS - 2012/2012|C|Avenida Primeiro de Janeiro, Irecê - BA|800|2026-12-04|318-002-veiculo-conservado-hondacg-125-fan-ks-20122012|0779018970c9e73376d77efacb0e9871.jpeg
+318-003|HONDA/CG 125 TITAN KS - 2001/2001|C|Avenida Primeiro de Janeiro, Irecê - BA|600|2026-12-04|318-003-veiculo-conservado-hondacg-125-titan-ks-20012001|4e8bbd1ba0ccee4d2d53a3fa2248a9d6.jpeg
+318-004|YAMAHA/XTZ150 CROSSER ED - 2015/2015|C|Avenida Primeiro de Janeiro, Irecê - BA|2000|2026-12-04|318-004-veiculo-conservado-yamahaxtz150-crosser-ed-20152015|c4cf1197e3243038a63939d601bb5e07.jpeg
+318-005|HONDA/POP100 - 2014/2015|C|Avenida Primeiro de Janeiro, Irecê - BA|600|2026-12-04|318-005-veiculo-conservado-hondapop100-20142015|06d6aedff799142827e3eb9a3f35b97c.jpeg
+318-006|HONDA/CG 150 TITAN EX - 2011/2011|C|Avenida Primeiro de Janeiro, Irecê - BA|900|2026-12-04|318-006-veiculo-conservado-hondacg-150-titan-ex-20112011|072eba2ef986444c24cba88142c7f21e.jpeg
+318-007|FORD/ECOSPORT XLS1.6FLEX - 2006/2006|C|Avenida Primeiro de Janeiro, Irecê - BA|3000|2026-12-04|318-007-veiculo-conservado-fordecosport-xls16flex-20062006|c629de03a7910a2fdc6dcf0b23694339.jpeg
+318-008|HONDA/CG 125 FAN KS - 2012/2012|C|Avenida Primeiro de Janeiro, Irecê - BA|800|2026-12-04|318-008-veiculo-conservado-hondacg-125-fan-ks-20122012|df529e3dbbe1b7f4b85c36c401b692e0.jpeg
+318-009|HONDA/CG 150 TITAN KS - 2009/2009|C|Avenida Primeiro de Janeiro, Irecê - BA|800|2026-12-04|318-009-veiculo-conservado-hondacg-150-titan-ks-20092009|ce23f9e918631c4437357f732600c484.jpeg
+318-010|HONDA/CG 160 START - 2025/2025|C|Avenida Primeiro de Janeiro, Irecê - BA|2000|2026-12-04|318-010-veiculo-conservado-hondacg-160-start-20252025|80d31ed96e80a2601d50361da0220e98.jpeg
+318-011|HONDA/CG 125 FAN - 2005/2005|C|Avenida Primeiro de Janeiro, Irecê - BA|600|2026-12-04|318-011-veiculo-conservado-hondacg-125-fan-20052005|a3134e63ec3104796add515f0da739bf.jpeg
+318-012|YAMAHA/FZ15 FAZER ABS - 2024/2024|C|Avenida Primeiro de Janeiro, Irecê - BA|2000|2026-12-04|318-012-veiculo-conservado-yamahafz15-fazer-abs-20242024|55b97ccad197b0d1c554a8a8230451e6.jpeg
+318-013|HONDA/CG 150 TITAN KS - 2006/2007|C|Avenida Primeiro de Janeiro, Irecê - BA|700|2026-12-04|318-013-veiculo-conservado-hondacg-150-titan-ks-20062007|d8f6ffd1a5705a0e15ecbcc951ae54a1.jpeg
+319-001|HONDA/CG 160 START - 2019/2020|C|Rua Jean Torres de Oliveira, Jequié - BA|2000|2026-12-04|319-001-veiculo-conservado-hondacg-160-start-20192020|661feb89f5e7e454b956ac2d29be2eba.jpg
+319-002|HONDA/CG 150 TITAN KS - 2004/2005|C|Rua Jean Torres de Oliveira, Jequié - BA|700|2026-12-04|319-002-veiculo-conservado-hondacg-150-titan-ks-20042005|4a5b952f95e695653f8312f7c1d2d757.jpg
+319-003|YAMAHA/FAZER YS250 - 2007/2008|C|Rua Jean Torres de Oliveira, Jequié - BA|900|2026-12-04|319-003-veiculo-conservado-yamahafazer-ys250-20072008|d2cd8845038d54e0fb4ae18857f86b8b.jpg
+319-004|VW/GOL 1.0 GIV - 2010/2011|C|Rua Jean Torres de Oliveira, Jequié - BA|3000|2026-12-04|319-004-veiculo-conservado-vwgol-10-giv-20102011|e1c88dfcd208c6b485d91c5c24c48554.jpg
+319-005|HONDA/CG 125 FAN ES - 2010/2010|C|Rua Jean Torres de Oliveira, Jequié - BA|700|2026-12-04|319-005-veiculo-conservado-hondacg-125-fan-es-20102010|640890ce8a82e95da28034679335608f.jpeg
+319-006|HONDA/CG 150 TITAN KS - 2004/2005|C|Rua Jean Torres de Oliveira, Jequié - BA|700|2026-12-04|319-006-veiculo-conservado-hondacg-150-titan-ks-20042005|7fffc1cdb77c973fb35e41cbf7521982.jpg
+319-007|HONDA/ELITE 125 - 2019/2019|C|Rua Jean Torres de Oliveira, Jequié - BA|1000|2026-12-04|319-007-veiculo-conservado-hondaelite-125-20192019|94e4512027413a3ead1ca5625e16ef99.jpg
+319-008|HONDA/CG 125 FAN KS - 2011/2011|C|Rua Jean Torres de Oliveira, Jequié - BA|800|2026-12-04|319-008-veiculo-conservado-hondacg-125-fan-ks-20112011|81423a136d2e142a867dc2a2350113a2.jpg
+319-009|YAMAHA/FACTOR YBR125 K - 2008/2009|C|Rua Jean Torres de Oliveira, Jequié - BA|600|2026-12-04|319-009-veiculo-conservado-yamahafactor-ybr125-k-20082009|6da5053a0ad37dc43f3825b33c5d2186.jpg
+319-010|HONDA/CG 150 FAN ESI - 2011/2011|C|Rua Jean Torres de Oliveira, Jequié - BA|900|2026-12-04|319-010-veiculo-conservado-hondacg-150-fan-esi-20112011|2aa18279e56e35fe63c2b96b73a1938c.jpg
+319-011|HONDA/CG 125 FAN - 2007/2008|C|Rua Jean Torres de Oliveira, Jequié - BA|700|2026-12-04|319-011-veiculo-conservado-hondacg-125-fan-20072008|f0c56138108c84f8fd0337283e08aafe.jpg
+320-001|HONDA/CB 300R - 2010/2010|C|Rua Jean Torres de Oliveira, Jequié - BA|2000|2026-12-04|320-001-veiculo-conservado-hondacb-300r-20102010|27a9a417c3955730522894d5f85c2e91.jpg
+320-002|VW/GOL 1.0 GIV - 2013/2014|C|Rua Jean Torres de Oliveira, Jequié - BA|3000|2026-12-04|320-002-veiculo-conservado-vwgol-10-giv-20132014|d7fba4d644c7514a78813ab6c2f4df78.jpg
+321-001|YAMAHA/YBR150 FACTOR ED - 2023/2024|C|Rua Jean Torres de Oliveira, Jequié - BA|2000|2026-12-04|321-001-veiculo-conservado-yamahaybr150-factor-ed-20232024|b02618524c36979196fa498de7572fe8.jpg
+322-001|YAMAHA/LANDER XTZ250 - 2007/2008|C|Avenida Luís Carlos Prestes, Itaberaba - BA|3000|2026-12-04|322-001-veiculo-conservado-yamahalander-xtz250-20072008|f2e60b32474d70471f999eebdd0dc21c.jpg
 322-002|HONDA/CG 160 FAN - 2023/2023|C|Avenida Luís Carlos Prestes, Itaberaba - BA|2500||322-002-veiculo-conservado-hondacg-160-fan-20232023|3d2c568549bf36f5d57b00a6cb18db0f.jpg
 322-003|HONDA/CG150 START - 2015/2015|C|Avenida Luís Carlos Prestes, Itaberaba - BA|3000||322-003-veiculo-conservado-hondacg150-start-20152015|c3815189daa27b4bbe35999b613d1cb3.jpg
 322-004|HONDA/CG 160 FAN - 2021/2021|C|Avenida Luís Carlos Prestes, Itaberaba - BA|2000||322-004-veiculo-conservado-hondacg-160-fan-20212021|e8d688793955551d00d15d9fcbad53f9.jpg
@@ -1502,38 +1502,38 @@
 336-020|APROVEITAVEL HONDA/CG 160 FAN - 2021/2021|S|Avenida Luís Carlos Prestes, Itaberaba - BA|2000||336-020-sucata-aproveitavel-hondacg-160-fan-20212021|e221b2b43bb329f52b5d6080e12db6f7.jpg
 336-021|APROVEITAVEL HONDA/CG 160 START - 2020/2021|S|Avenida Luís Carlos Prestes, Itaberaba - BA|3000||336-021-sucata-aproveitavel-hondacg-160-start-20202021|56dbac4122fe9ee0112ac7de8e94698d.jpg
 336-022|APROVEITAVEL HONDA/CG 150 FAN ESI - 2012/2012|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-022-sucata-aproveitavel-hondacg-150-fan-esi-20122012|4d7c79ed4dd0c103b88bc6a8deb1f4be.jpg
-336-023|APROVEITAVEL HONDA/CG150 TITAN MIX KS - 2010/2010|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-023-sucata-aproveitavel-hondacg150-titan-mix-ks-20102010|9e4a856c364a67e9beb3dbc3d206186b.jpg
-336-024|APROVEITAVEL HONDA/CG 150 TITAN KS - 2005/2005|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-024-sucata-aproveitavel-hondacg-150-titan-ks-20052005|d463c826e517d1f4c79490b3a7d0b9ac.jpg
-336-025|APROVEITAVEL HONDA/CG 150 TITAN ESD - 2006/2006|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-025-sucata-aproveitavel-hondacg-150-titan-esd-20062006|b2aa50dc020468029b73b7ae90289ef8.jpg
-336-026|APROVEITAVEL HONDA/CG 150 TITAN KS - 2006/2007|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-026-sucata-aproveitavel-hondacg-150-titan-ks-20062007|fa52d1cfabeb096a91c255ed69d9c380.jpg
-336-027|APROVEITAVEL HONDA/CG 150 FAN ESI - 2010/2010|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-027-sucata-aproveitavel-hondacg-150-fan-esi-20102010|644d7ce0c43e58f585a822d413a9126f.jpg
-336-028|APROVEITAVEL HONDA/CG 150 TITAN KS - 2005/2006|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-028-sucata-aproveitavel-hondacg-150-titan-ks-20052006|b8e1112f6d3807f38d61764412529dc7.jpg
-336-029|APROVEITAVEL HONDA/CG 125 TITAN KS - 2000/2000|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-029-sucata-aproveitavel-hondacg-125-titan-ks-20002000|1f507d995d7ec0a34c2034218df47dd1.jpg
-336-030|APROVEITAVEL HONDA/CG 125 TITAN - 1999/2000|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-030-sucata-aproveitavel-hondacg-125-titan-19992000|db07f79f0d2cc6fd5d3627ab1508022e.jpg
-336-031|APROVEITAVEL SUNDOWN/WEB 100 - 2006/2007|S|Avenida Luís Carlos Prestes, Itaberaba - BA|100||336-031-sucata-aproveitavel-sundownweb-100-20062007|3d944807b0541a87538f53ad726cb99b.jpg
-336-032|APROVEITAVEL FIAT/PALIO FIRE FLEX - 2008/2009|S|Avenida Luís Carlos Prestes, Itaberaba - BA|4500||336-032-sucata-aproveitavel-fiatpalio-fire-flex-20082009|df397b18f6358403edd73def4020abe7.jpg
-336-033|APROVEITAVEL VW/GOL 1.0 - 2009/2010|S|Avenida Luís Carlos Prestes, Itaberaba - BA|3000||336-033-sucata-aproveitavel-vwgol-10-20092010|6e80c6123309a65f45d9c7c9ecc17209.jpg
-336-034|APROVEITAVEL GM/MONZA GLS - 1994/1995|S|Avenida Luís Carlos Prestes, Itaberaba - BA|4000||336-034-sucata-aproveitavel-gmmonza-gls-19941995|986d53a57a1e7e1309025cf2b124cc96.jpg
-336-035|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN KS - 2002/2002|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-035-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-ks-20022002|ba23ccdc98276b6677c4b5d2167c4794.jpg
-336-036|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN KS - 2000/2000|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-036-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-ks-20002000|a53395f8e4b47276c23c1940384f62b3.jpg
-336-037|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN KS - 2002/2002|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1500||336-037-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-ks-20022002|94e379cd87da57d425c2a499fd18bf48.jpg
-336-038|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN KS - 2000/2000|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1500||336-038-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-ks-20002000|0280ec8a5d15617b69d5fd51f7d06854.jpg
-336-039|APROVEITAVEL - MOTOR INSERVIVEL HONDA/C100 BIZ ES - 2004/2004|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1500||336-039-sucata-aproveitavel-motor-inservivel-hondac100-biz-es-20042004|0d501913d76b7c237002eaa49a18a9e7.jpg
-336-040|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 150 TITAN KS - 2004/2004|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-040-sucata-aproveitavel-motor-inservivel-hondacg-150-titan-ks-20042004|9b679b990150f7db409376d1dd94b5c1.jpg
-336-041|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN - 1999/1999|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800||336-041-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-19991999|91aca3fe36ae7f68d3ec2e306e32bac7.jpg
-336-042|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 FAN - 2008/2008|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-042-sucata-aproveitavel-motor-inservivel-hondacg-125-fan-20082008|232e733440926d3ba57791f887372ae4.jpg
-336-043|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN - 1995/1995|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800||336-043-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-19951995|d2582d8f8f867a5ce0fe318b1a4b681d.jpg
-336-044|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 - N/I/N/I|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1500||336-044-sucata-aproveitavel-motor-inservivel-hondacg-125-nini|a6e01792d6352aefe895fa8bbfaac4c8.jpg
-336-045|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TODAY - 1990/1990|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800||336-045-sucata-aproveitavel-motor-inservivel-hondacg-125-today-19901990|5e12d9fae0a4d234213187b479537f92.jpg
-336-046|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 - 1988/1988|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800||336-046-sucata-aproveitavel-motor-inservivel-hondacg-125-19881988|2e8af83db493fff64b4516392bd2abd6.jpg
-336-047|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 - 1988/1988|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800||336-047-sucata-aproveitavel-motor-inservivel-hondacg-125-19881988|e343fba270e137241edae51177a2b5cc.jpg
-336-048|APROVEITAVEL - MOTOR INSERVIVEL DAFRA/SUPER 100 - 2008/2009|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|100||336-048-sucata-aproveitavel-motor-inservivel-dafrasuper-100-20082009|481e81dc337ee8176d95571f136c706f.jpg
-336-049|APROVEITAVEL - MOTOR INSERVIVEL HONDA/ML 125 - 1986/1986|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800||336-049-sucata-aproveitavel-motor-inservivel-hondaml-125-19861986|e31186c67552ad368c918d3a7354c795.jpg
-336-050|APROVEITAVEL - MOTOR INSERVIVEL YAMAHA/YBR 125K - 2003/2003|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-050-sucata-aproveitavel-motor-inservivel-yamahaybr-125k-20032003|1b687b2327aba37664939ba56322448d.jpg
-336-051|APROVEITAVEL - MOTOR INSERVIVEL YAMAHA/YBR 125K - 2007/2007|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-051-sucata-aproveitavel-motor-inservivel-yamahaybr-125k-20072007|6f22920efd476ddebbf113b4be36304f.jpg
-336-052|APROVEITAVEL - MOTOR INSERVIVEL SHINERAY /50Q - N/I/N/I|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|500||336-052-sucata-aproveitavel-motor-inservivel-shineray-50q-nini|61777149ee400f05858f3b2704122322.jpg
-336-053|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 - N/I/N/I|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|100||336-053-sucata-aproveitavel-motor-inservivel-hondacg-125-nini|95a8b81bb32164709c8fe7c8967a0b4f.jpg
-336-054|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 FAN - 2005/2005|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-054-sucata-aproveitavel-motor-inservivel-hondacg-125-fan-20052005|10382e460001445f83190fbc07635884.jpg
+336-023|APROVEITAVEL HONDA/CG150 TITAN MIX KS - 2010/2010|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-023-sucata-aproveitavel-hondacg150-titan-mix-ks-20102010|9e4a856c364a67e9beb3dbc3d206186b.jpg
+336-024|APROVEITAVEL HONDA/CG 150 TITAN KS - 2005/2005|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-024-sucata-aproveitavel-hondacg-150-titan-ks-20052005|d463c826e517d1f4c79490b3a7d0b9ac.jpg
+336-025|APROVEITAVEL HONDA/CG 150 TITAN ESD - 2006/2006|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-025-sucata-aproveitavel-hondacg-150-titan-esd-20062006|b2aa50dc020468029b73b7ae90289ef8.jpg
+336-026|APROVEITAVEL HONDA/CG 150 TITAN KS - 2006/2007|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-026-sucata-aproveitavel-hondacg-150-titan-ks-20062007|fa52d1cfabeb096a91c255ed69d9c380.jpg
+336-027|APROVEITAVEL HONDA/CG 150 FAN ESI - 2010/2010|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-027-sucata-aproveitavel-hondacg-150-fan-esi-20102010|644d7ce0c43e58f585a822d413a9126f.jpg
+336-028|APROVEITAVEL HONDA/CG 150 TITAN KS - 2005/2006|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-028-sucata-aproveitavel-hondacg-150-titan-ks-20052006|b8e1112f6d3807f38d61764412529dc7.jpg
+336-029|APROVEITAVEL HONDA/CG 125 TITAN KS - 2000/2000|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-029-sucata-aproveitavel-hondacg-125-titan-ks-20002000|1f507d995d7ec0a34c2034218df47dd1.jpg
+336-030|APROVEITAVEL HONDA/CG 125 TITAN - 1999/2000|S|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-030-sucata-aproveitavel-hondacg-125-titan-19992000|db07f79f0d2cc6fd5d3627ab1508022e.jpg
+336-031|APROVEITAVEL SUNDOWN/WEB 100 - 2006/2007|S|Avenida Luís Carlos Prestes, Itaberaba - BA|100|2026-12-04|336-031-sucata-aproveitavel-sundownweb-100-20062007|3d944807b0541a87538f53ad726cb99b.jpg
+336-032|APROVEITAVEL FIAT/PALIO FIRE FLEX - 2008/2009|S|Avenida Luís Carlos Prestes, Itaberaba - BA|4500|2026-12-04|336-032-sucata-aproveitavel-fiatpalio-fire-flex-20082009|df397b18f6358403edd73def4020abe7.jpg
+336-033|APROVEITAVEL VW/GOL 1.0 - 2009/2010|S|Avenida Luís Carlos Prestes, Itaberaba - BA|3000|2026-12-04|336-033-sucata-aproveitavel-vwgol-10-20092010|6e80c6123309a65f45d9c7c9ecc17209.jpg
+336-034|APROVEITAVEL GM/MONZA GLS - 1994/1995|S|Avenida Luís Carlos Prestes, Itaberaba - BA|4000|2026-12-04|336-034-sucata-aproveitavel-gmmonza-gls-19941995|986d53a57a1e7e1309025cf2b124cc96.jpg
+336-035|APROVITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN KS - 2002/2002|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-035-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-ks-20022002|ba23ccdc98276b6677c4b5d2167c4794.jpg
+336-036|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN KS - 2000/2000|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-036-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-ks-20002000|a53395f8e4b47276c23c1940384f62b3.jpg
+336-037|APROVITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN KS - 2002/2002|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1500|2026-12-04|336-037-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-ks-20022002|94e379cd87da57d425c2a499fd18bf48.jpg
+336-038|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN KS - 2000/2000|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1500|2026-12-04|336-038-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-ks-20002000|0280ec8a5d15617b69d5fd51f7d06854.jpg
+336-039|APROVITAVEL - MOTOR INSERVIVEL HONDA/C100 BIZ ES - 2004/2004|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1500|2026-12-04|336-039-sucata-aproveitavel-motor-inservivel-hondac100-biz-es-20042004|0d501913d76b7c237002eaa49a18a9e7.jpg
+336-040|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 150 TITAN KS - 2004/2004|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-040-sucata-aproveitavel-motor-inservivel-hondacg-150-titan-ks-20042004|9b679b990150f7db409376d1dd94b5c1.jpg
+336-041|APROVITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN - 1999/1999|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800|2026-12-04|336-041-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-19991999|91aca3fe36ae7f68d3ec2e306e32bac7.jpg
+336-042|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 FAN - 2008/2008|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-042-sucata-aproveitavel-motor-inservivel-hondacg-125-fan-20082008|232e733440926d3ba57791f887372ae4.jpg
+336-043|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 TITAN - 1995/1995|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800|2026-12-04|336-043-sucata-aproveitavel-motor-inservivel-hondacg-125-titan-19951995|d2582d8f8f867a5ce0fe318b1a4b681d.jpg
+336-044|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 - N/I/N/I|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1500|2026-12-04|336-044-sucata-aproveitavel-motor-inservivel-hondacg-125-nini|a6e01792d6352aefe895fa8bbfaac4c8.jpg
+336-045|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 HOJE - 1990/1990|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800|2026-12-04|336-045-sucata-aproveitavel-motor-inservivel-hondacg-125-today-19901990|5e12d9fae0a4d234213187b479537f92.jpg
+336-046|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 - 1988/1988|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800|2026-12-04|336-046-sucata-aproveitavel-motor-inservivel-hondacg-125-19881988|2e8af83db493fff64b4516392bd2abd6.jpg
+336-047|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 - 1988/1988|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800|2026-12-04|336-047-sucata-aproveitavel-motor-inservivel-hondacg-125-19881988|e343fba270e137241edae51177a2b5cc.jpg
+336-048|APROVEITAVEL - MOTOR INSERVIVEL DAFRA/SUPER 100 - 2008/2009|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|100|2026-12-04|336-048-sucata-aproveitavel-motor-inservivel-dafrasuper-100-20082009|481e81dc337ee8176d95571f136c706f.jpg
+336-049|APROVEITAVEL - MOTOR INSERVIVEL HONDA/ML 125 - 1986/1986|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|800|2026-12-04|336-049-sucata-aproveitavel-motor-inservivel-hondaml-125-19861986|e31186c67552ad368c918d3a7354c795.jpg
+336-050|APROVITAVEL - MOTOR INSERVIVEL YAMAHA/YBR 125K - 2003/2003|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-050-sucata-aproveitavel-motor-inservivel-yamahaybr-125k-20032003|1b687b2327aba37664939ba56322448d.jpg
+336-051|APROVEITAVEL - MOTOR INSERVIVEL YAMAHA/YBR 125K - 2007/2007|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-051-sucata-aproveitavel-motor-inservivel-yamahaybr-125k-20072007|6f22920efd476ddebbf113b4be36304f.jpg
+336-052|APROVEITAVEL - MOTOR INSERVIVEL SHINERAY /50Q - N/I/N/I|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|500|2026-12-04|336-052-sucata-aproveitavel-motor-inservivel-shineray-50q-nini|61777149ee400f05858f3b2704122322.jpg
+336-053|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 - N/I/N/I|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|100|2026-12-04|336-053-sucata-aproveitavel-motor-inservivel-hondacg-125-nini|95a8b81bb32164709c8fe7c8967a0b4f.jpg
+336-054|APROVEITAVEL - MOTOR INSERVIVEL HONDA/CG 125 FAN - 2005/2005|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000|2026-12-04|336-054-sucata-aproveitavel-motor-inservivel-hondacg-125-fan-20052005|10382e460001445f83190fbc07635884.jpg
 336-055|APROVEITAVEL - MOTOR INSERVIVEL GM/PRISMA JOY - 2006/2007|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|3000||336-055-sucata-aproveitavel-motor-inservivel-gmprisma-joy-20062007|f7db155d918e39d1275754aafdfefddb.jpg
 336-056|APROVEITAVEL - MOTOR INSERVIVEL FIAT/UNO S - 1988/1988|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-056-sucata-aproveitavel-motor-inservivel-fiatuno-s-19881988|f30f1979d9d6151480078494fcff73f5.jpg
 336-057|APROVEITAVEL - MOTOR INSERVIVEL FORD/KA FLEX - 2008/2008|SM|Avenida Luís Carlos Prestes, Itaberaba - BA|1000||336-057-sucata-aproveitavel-motor-inservivel-fordka-flex-20082008|b1cb8c45ffbef40cd998b3bcb32a9d65.jpg
